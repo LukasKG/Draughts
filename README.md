@@ -68,12 +68,14 @@ The search is pruned in two ways: On the one hand by alpha-beta pruning and on t
 
 However, since the evaluation of a position consumes processing power as well, the threshold is only checked every 4 steps in order to optimise the search performance. As shown in Tab. \ref{tab:comp*, this can reduce the time to calculate a move by almost 40\% in an equal position.
 
-<p align="center">
+
  <figure>
+  <p align="center">
   <img src="Pictures/minmaxBottom.PNG" width="400" align="center">
+  </p>
   <figcaption>Fig. 4: The minmax recursion ends where a win/loss is found or when the set search depth is reached. At each depth which is dividable by 4, the current state is analysed and only further explored if its value does not exceed certain thresholds.</figcaption>
  </figure>
-</p>
+
 
 The bottom of the search is reached either if the maximum search depth based on the difficulty setting is reached or when the game ends. A player has won, if the opponent player is unable to move. This can occur when they either have no pieces left on the board or all their pieces are blocked. If the minimax search reaches a position without legal moves, the evaluation value for that position is set to the worst possible outcome, which is minimally buffed by the search depth (Fig. 4). This way a loss in two moves is lower rated than one in twenty moves, so that the AI looks for the shortest possible wins and delays their defeat for as long as possible. Otherwise it might do a move which will end in certain defeat in five rounds, just because the other available move seems to end in a complex defeat in ten rounds. A move sequence a human might not have seen.
 
