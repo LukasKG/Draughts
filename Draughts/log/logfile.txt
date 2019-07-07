@@ -1,0 +1,3710 @@
+2019/04/22 19:11:57  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/22 19:11:57  Player 1: AI - hard
+2019/04/22 19:11:57  Player 2: AI - medium
+2019/04/22 19:11:57  Game started.
+2019/04/22 19:11:57  Board evaluation: 3
+2019/04/22 19:12:46  AI - hard explored 1221093 node(s) in 49.258s
+2019/04/22 19:12:47  AI - hard moves (2|5) --> (1|4)
+2019/04/22 19:12:47  Board evaluation: -1
+2019/04/22 19:12:48  AI - medium explored 19193 node(s) in 0.752s
+2019/04/22 19:12:48  AI - medium moves (3|2) --> (2|3)
+2019/04/22 19:12:48  Board evaluation: 11
+2019/04/22 19:12:48  AI - hard explored 1 node(s) in 0.0s
+2019/04/22 19:12:49  AI - hard captures (1|4) --> (3|2)
+2019/04/22 19:12:49  Board evaluation: 2
+2019/04/22 19:12:49  AI - medium explored 4689 node(s) in 0.17s
+2019/04/22 19:12:50  AI - medium captures (2|1) --> (4|3)
+2019/04/22 19:12:50  Board evaluation: 0
+2019/04/22 19:12:51  Game quit.
+2019/04/22 19:14:17  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/22 19:14:17  Player 1: AI - hard
+2019/04/22 19:14:17  Player 2: AI - medium
+2019/04/22 19:14:17  Game started.
+2019/04/22 19:14:17  Board evaluation: 3
+2019/04/22 19:14:26  AI - hard explored 189668 node(s) in 8.854s
+2019/04/22 19:14:27  AI - hard moves (6|5) --> (5|4)
+2019/04/22 19:14:27  Board evaluation: -2
+2019/04/22 19:14:27  AI - medium explored 4810 node(s) in 0.204s
+2019/04/22 19:14:27  AI - medium moves (3|2) --> (4|3)
+2019/04/22 19:14:27  Board evaluation: 3
+2019/04/22 19:14:27  AI - hard explored 1 node(s) in 0.0s
+2019/04/22 19:14:28  Game quit.
+2019/04/23 22:45:21  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 22:45:21  Player 1: AI - hard
+2019/04/23 22:45:21  Player 2: AI - medium
+2019/04/23 22:45:21  Game started.
+2019/04/23 22:45:21  Board evaluation: 3
+2019/04/23 22:45:21  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 22:45:22  AI - hard moves (6|5) --> (5|4)
+2019/04/23 22:45:22  Board evaluation: -2
+2019/04/23 22:45:22  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 22:45:23  AI - medium moves (5|2) --> (6|3)
+2019/04/23 22:45:23  Board evaluation: 2
+2019/04/23 22:45:23  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 22:45:23  AI - hard moves (7|6) --> (6|5)
+2019/04/23 22:45:23  Board evaluation: 2
+2019/04/23 22:45:24  AI - medium explored 16353 node(s) in 0.74s
+2019/04/23 22:45:24  AI - medium moves (6|1) --> (5|2)
+2019/04/23 22:45:24  Board evaluation: 5
+2019/04/23 22:45:37  AI - hard explored 311093 node(s) in 12.697s
+2019/04/23 22:45:38  AI - hard moves (4|5) --> (3|4)
+2019/04/23 22:45:38  Board evaluation: -9
+2019/04/23 22:45:38  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 22:45:39  AI - medium captures (6|3) --> (4|5)
+2019/04/23 22:45:39  Board evaluation: -6
+2019/04/23 22:45:39  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 22:45:40  AI - hard captures (3|6) --> (5|4)
+2019/04/23 22:45:40  Board evaluation: 4
+2019/04/23 22:45:41  AI - medium explored 25138 node(s) in 1.005s
+2019/04/23 22:45:41  AI - medium moves (5|2) --> (4|3)
+2019/04/23 22:45:41  Board evaluation: 16
+2019/04/23 22:45:41  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 22:45:42  AI - hard captures (3|4) --> (5|2)
+2019/04/23 22:45:42  Board evaluation: 17
+2019/04/23 22:45:42  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 22:45:43  AI - medium captures (4|1) --> (6|3)
+2019/04/23 22:45:44  Board evaluation: -2
+2019/04/23 22:45:44  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 22:45:45  AI - medium captures (6|3) --> (4|5)
+2019/04/23 22:45:45  Board evaluation: -8
+2019/04/23 22:45:45  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 22:45:45  Game quit.
+2019/04/23 22:46:16  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 22:46:17  Player 1: AI - hard
+2019/04/23 22:46:17  Player 2: AI - medium
+2019/04/23 22:46:17  Game started.
+2019/04/23 22:46:17  Board evaluation: 3
+2019/04/23 22:46:58  AI - hard explored 883547 node(s) in 41.765s
+2019/04/23 22:46:59  AI - hard moves (6|5) --> (5|4)
+2019/04/23 22:46:59  Board evaluation: -2
+2019/04/23 22:47:00  AI - medium explored 21451 node(s) in 0.993s
+2019/04/23 22:47:01  AI - medium moves (3|2) --> (4|3)
+2019/04/23 22:47:01  Board evaluation: 3
+2019/04/23 22:47:01  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 22:47:02  AI - hard captures (5|4) --> (3|2)
+2019/04/23 22:47:02  Board evaluation: 1
+2019/04/23 22:47:02  AI - medium explored 7408 node(s) in 0.344s
+2019/04/23 22:47:03  Game quit.
+2019/04/23 22:47:30  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 22:47:30  Player 1: AI - hard
+2019/04/23 22:47:30  Player 2: AI - medium
+2019/04/23 22:47:30  Game started.
+2019/04/23 22:47:30  Board evaluation: 3
+2019/04/23 22:48:04  Game quit.
+2019/04/23 22:48:57  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 22:48:57  Player 1: AI - hard
+2019/04/23 22:48:57  Player 2: AI - medium
+2019/04/23 22:48:57  Game started.
+2019/04/23 22:48:57  Board evaluation: 3
+2019/04/23 22:49:42  AI - hard explored 904865 node(s) in 44.979s
+2019/04/23 22:49:43  AI - hard moves (0|5) --> (1|4)
+2019/04/23 22:49:43  Board evaluation: 1
+2019/04/23 22:49:43  AI - medium explored 10966 node(s) in 0.508s
+2019/04/23 22:49:44  AI - medium moves (3|2) --> (2|3)
+2019/04/23 22:49:44  Board evaluation: 6
+2019/04/23 22:49:44  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 22:49:45  AI - hard captures (1|4) --> (3|2)
+2019/04/23 22:49:45  Board evaluation: 4
+2019/04/23 22:49:45  AI - medium explored 2071 node(s) in 0.113s
+2019/04/23 22:49:46  AI - medium captures (4|1) --> (2|3)
+2019/04/23 22:49:46  Board evaluation: 2
+2019/04/23 22:49:48  Game quit.
+2019/04/23 22:53:58  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 22:53:58  Player 1: AI - hard
+2019/04/23 22:53:58  Player 2: AI - medium
+2019/04/23 22:53:58  Game started.
+2019/04/23 22:53:58  Board evaluation: 3
+2019/04/23 22:53:58  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 22:53:59  AI - hard moves (0|5) --> (1|4)
+2019/04/23 22:53:59  Board evaluation: 1
+2019/04/23 22:53:59  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 22:53:59  AI - medium moves (5|2) --> (6|3)
+2019/04/23 22:53:59  Board evaluation: 5
+2019/04/23 22:53:59  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 22:54:00  AI - hard moves (1|4) --> (2|3)
+2019/04/23 22:54:00  Board evaluation: -17
+2019/04/23 22:54:00  AI - medium explored 824 node(s) in 0.052s
+2019/04/23 22:54:01  AI - medium captures (3|2) --> (1|4)
+2019/04/23 22:54:01  Board evaluation: -7
+2019/04/23 22:54:01  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 22:54:02  AI - hard captures (2|5) --> (0|3)
+2019/04/23 22:54:02  Board evaluation: -2
+2019/04/23 22:54:02  AI - medium explored 8932 node(s) in 0.323s
+2019/04/23 22:54:03  AI - medium moves (2|1) --> (3|2)
+2019/04/23 22:54:03  Board evaluation: 13
+2019/04/23 22:54:03  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 22:54:04  AI - hard captures (0|3) --> (2|1)
+2019/04/23 22:54:04  Board evaluation: 14
+2019/04/23 22:54:04  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 22:54:05  Game quit.
+2019/04/23 22:54:22  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 22:54:22  Player 1: AI - hard
+2019/04/23 22:54:22  Player 2: AI - medium
+2019/04/23 22:54:22  Game started.
+2019/04/23 22:54:22  Board evaluation: 3
+2019/04/23 22:55:09  AI - hard explored 1221093 node(s) in 46.397s
+2019/04/23 22:55:09  AI - hard moves (2|5) --> (1|4)
+2019/04/23 22:55:09  Board evaluation: -1
+2019/04/23 22:55:10  AI - medium explored 19193 node(s) in 0.702s
+2019/04/23 22:55:10  AI - medium moves (3|2) --> (2|3)
+2019/04/23 22:55:10  Board evaluation: 11
+2019/04/23 22:55:10  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 22:55:11  AI - hard captures (1|4) --> (3|2)
+2019/04/23 22:55:11  Board evaluation: 2
+2019/04/23 22:55:12  AI - medium explored 4689 node(s) in 0.181s
+2019/04/23 22:55:12  Game quit.
+2019/04/23 22:57:02  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 22:57:02  Player 1: AI - hard
+2019/04/23 22:57:02  Player 2: AI - medium
+2019/04/23 22:57:02  Game started.
+2019/04/23 22:57:02  Board evaluation: 3
+2019/04/23 22:57:36  AI - hard explored 807042 node(s) in 33.437s
+2019/04/23 22:57:36  AI - hard moves (0|5) --> (1|4)
+2019/04/23 22:57:36  Board evaluation: 1
+2019/04/23 22:57:37  AI - medium explored 14589 node(s) in 0.572s
+2019/04/23 22:57:38  AI - medium moves (1|2) --> (2|3)
+2019/04/23 22:57:38  Board evaluation: -1
+2019/04/23 22:57:39  Game quit.
+2019/04/23 22:58:47  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 22:58:47  Player 1: AI - hard
+2019/04/23 22:58:47  Player 2: AI - medium
+2019/04/23 22:58:47  Game started.
+2019/04/23 22:58:47  Board evaluation: 3
+2019/04/23 22:59:26  AI - hard explored 861476 node(s) in 38.709s
+2019/04/23 22:59:26  AI - hard moves (2|5) --> (1|4)
+2019/04/23 22:59:26  Board evaluation: -1
+2019/04/23 22:59:27  AI - medium explored 18925 node(s) in 0.705s
+2019/04/23 22:59:27  AI - medium moves (3|2) --> (2|3)
+2019/04/23 22:59:27  Board evaluation: 11
+2019/04/23 22:59:27  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 22:59:28  AI - hard captures (1|4) --> (3|2)
+2019/04/23 22:59:28  Board evaluation: 2
+2019/04/23 22:59:29  AI - medium explored 3584 node(s) in 0.149s
+2019/04/23 22:59:30  AI - medium captures (4|1) --> (2|3)
+2019/04/23 22:59:30  Board evaluation: -1
+2019/04/23 22:59:39  Game quit.
+2019/04/23 22:59:56  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 22:59:56  Player 1: AI - hard
+2019/04/23 22:59:56  Player 2: AI - medium
+2019/04/23 22:59:56  Game started.
+2019/04/23 22:59:56  Board evaluation: 3
+2019/04/23 23:00:34  AI - hard explored 980391 node(s) in 37.901s
+2019/04/23 23:00:34  AI - hard moves (6|5) --> (5|4)
+2019/04/23 23:00:34  Board evaluation: -2
+2019/04/23 23:00:35  AI - medium explored 20268 node(s) in 0.959s
+2019/04/23 23:00:36  AI - medium moves (3|2) --> (4|3)
+2019/04/23 23:00:36  Board evaluation: 3
+2019/04/23 23:00:36  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:00:37  AI - hard captures (5|4) --> (3|2)
+2019/04/23 23:00:37  Board evaluation: 1
+2019/04/23 23:00:37  AI - medium explored 6232 node(s) in 0.283s
+2019/04/23 23:00:38  AI - medium captures (4|1) --> (2|3)
+2019/04/23 23:00:38  Board evaluation: 0
+2019/04/23 23:00:39  Game quit.
+2019/04/23 23:01:22  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 23:01:22  Player 1: AI - hard
+2019/04/23 23:01:22  Player 2: AI - medium
+2019/04/23 23:01:22  Game started.
+2019/04/23 23:01:22  Board evaluation: 3
+2019/04/23 23:02:01  AI - hard explored 1014694 node(s) in 39.361s
+2019/04/23 23:02:02  AI - hard moves (6|5) --> (5|4)
+2019/04/23 23:02:02  Board evaluation: -2
+2019/04/23 23:02:03  AI - medium explored 22702 node(s) in 0.838s
+2019/04/23 23:02:03  AI - medium moves (3|2) --> (4|3)
+2019/04/23 23:02:03  Board evaluation: 3
+2019/04/23 23:02:03  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:02:04  AI - hard captures (5|4) --> (3|2)
+2019/04/23 23:02:04  Board evaluation: 1
+2019/04/23 23:02:05  Game quit.
+2019/04/23 23:03:16  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 23:03:16  Player 1: AI - hard
+2019/04/23 23:03:16  Player 2: AI - medium
+2019/04/23 23:03:16  Game started.
+2019/04/23 23:03:16  Board evaluation: 3
+2019/04/23 23:03:55  AI - hard explored 861476 node(s) in 38.86s
+2019/04/23 23:03:55  AI - hard moves (6|5) --> (5|4)
+2019/04/23 23:03:55  Board evaluation: -2
+2019/04/23 23:03:56  AI - medium explored 20728 node(s) in 0.806s
+2019/04/23 23:03:57  AI - medium moves (3|2) --> (4|3)
+2019/04/23 23:03:57  Board evaluation: 3
+2019/04/23 23:03:57  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:03:57  Game quit.
+2019/04/23 23:16:13  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 23:16:13  Player 1: AI - hard
+2019/04/23 23:16:13  Player 2: AI - medium
+2019/04/23 23:16:13  Game started.
+2019/04/23 23:16:13  Board evaluation: 3
+2019/04/23 23:16:13  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:16:13  AI - hard moves (6|5) --> (7|4)
+2019/04/23 23:16:13  Board evaluation: -5
+2019/04/23 23:16:13  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:16:14  AI - medium moves (1|2) --> (2|3)
+2019/04/23 23:16:14  Board evaluation: 0
+2019/04/23 23:16:14  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:16:15  AI - hard moves (4|5) --> (5|4)
+2019/04/23 23:16:15  Board evaluation: -5
+2019/04/23 23:16:15  AI - medium explored 10464 node(s) in 0.456s
+2019/04/23 23:16:16  AI - medium moves (0|1) --> (1|2)
+2019/04/23 23:16:16  Board evaluation: -3
+2019/04/23 23:16:27  AI - hard explored 305100 node(s) in 11.788s
+2019/04/23 23:16:28  AI - hard moves (3|6) --> (4|5)
+2019/04/23 23:16:28  Board evaluation: -7
+2019/04/23 23:16:28  AI - medium explored 7182 node(s) in 0.249s
+2019/04/23 23:16:29  AI - medium moves (3|2) --> (4|3)
+2019/04/23 23:16:29  Board evaluation: -2
+2019/04/23 23:16:29  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:16:30  AI - hard captures (5|4) --> (3|2)
+2019/04/23 23:16:30  Board evaluation: 4
+2019/04/23 23:16:30  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:16:31  AI - medium captures (2|1) --> (4|3)
+2019/04/23 23:16:31  Board evaluation: -7
+2019/04/23 23:16:54  AI - hard explored 618764 node(s) in 23.355s
+2019/04/23 23:16:55  AI - hard moves (2|7) --> (3|6)
+2019/04/23 23:16:55  Board evaluation: -9
+2019/04/23 23:16:55  AI - medium explored 10670 node(s) in 0.387s
+2019/04/23 23:16:56  AI - medium moves (4|3) --> (5|4)
+2019/04/23 23:16:56  Board evaluation: 5
+2019/04/23 23:16:56  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:16:57  AI - hard captures (4|5) --> (6|3)
+2019/04/23 23:16:57  Board evaluation: 5
+2019/04/23 23:16:57  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:16:58  AI - medium captures (7|2) --> (5|4)
+2019/04/23 23:16:58  Board evaluation: -5
+2019/04/23 23:17:09  AI - hard explored 294446 node(s) in 10.76s
+2019/04/23 23:17:09  AI - hard moves (5|6) --> (6|5)
+2019/04/23 23:17:09  Board evaluation: -1
+2019/04/23 23:17:10  AI - medium explored 9927 node(s) in 0.394s
+2019/04/23 23:17:10  AI - medium moves (5|2) --> (4|3)
+2019/04/23 23:17:10  Board evaluation: -5
+2019/04/23 23:17:53  AI - hard explored 1187615 node(s) in 42.681s
+2019/04/23 23:17:53  AI - hard moves (2|5) --> (1|4)
+2019/04/23 23:17:53  Board evaluation: -1
+2019/04/23 23:17:54  AI - medium explored 20389 node(s) in 0.806s
+2019/04/23 23:17:55  AI - medium moves (3|0) --> (2|1)
+2019/04/23 23:17:55  Board evaluation: 2
+2019/04/23 23:17:55  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:17:56  AI - hard captures (1|4) --> (3|2)
+2019/04/23 23:17:56  Board evaluation: 1
+2019/04/23 23:17:56  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:17:57  AI - medium captures (4|1) --> (2|3)
+2019/04/23 23:17:57  Board evaluation: -12
+2019/04/23 23:18:42  AI - hard explored 1238033 node(s) in 44.96s
+2019/04/23 23:18:42  AI - hard moves (3|6) --> (4|5)
+2019/04/23 23:18:42  Board evaluation: -17
+2019/04/23 23:18:42  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:18:43  AI - medium captures (5|4) --> (3|6)
+2019/04/23 23:18:43  Board evaluation: -23
+2019/04/23 23:18:43  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:18:44  AI - hard captures (4|7) --> (2|5)
+2019/04/23 23:18:44  Board evaluation: -4
+2019/04/23 23:18:45  AI - medium explored 12859 node(s) in 0.499s
+2019/04/23 23:18:45  AI - medium moves (6|1) --> (5|2)
+2019/04/23 23:18:45  Board evaluation: 0
+2019/04/23 23:18:48  AI - hard explored 82184 node(s) in 2.791s
+2019/04/23 23:18:49  AI - hard moves (6|5) --> (5|4)
+2019/04/23 23:18:49  Board evaluation: -5
+2019/04/23 23:18:49  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:18:50  AI - medium captures (4|3) --> (6|5)
+2019/04/23 23:18:50  Board evaluation: -15
+2019/04/23 23:18:50  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:18:51  AI - hard captures (7|6) --> (5|4)
+2019/04/23 23:18:51  Board evaluation: 2
+2019/04/23 23:18:51  AI - medium explored 13638 node(s) in 0.539s
+2019/04/23 23:18:52  AI - medium moves (5|2) --> (4|3)
+2019/04/23 23:18:52  Board evaluation: 6
+2019/04/23 23:18:52  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:18:53  AI - hard captures (5|4) --> (3|2)
+2019/04/23 23:18:53  Board evaluation: 17
+2019/04/23 23:18:53  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:18:54  AI - medium captures (2|1) --> (4|3)
+2019/04/23 23:18:54  Board evaluation: 0
+2019/04/23 23:19:13  AI - hard explored 488329 node(s) in 19.26s
+2019/04/23 23:19:14  AI - hard moves (2|5) --> (1|4)
+2019/04/23 23:19:14  Board evaluation: 3
+2019/04/23 23:19:14  AI - medium explored 10574 node(s) in 0.484s
+2019/04/23 23:19:15  AI - medium moves (2|3) --> (3|4)
+2019/04/23 23:19:15  Board evaluation: -2
+2019/04/23 23:20:06  AI - hard explored 1282165 node(s) in 51.138s
+2019/04/23 23:20:06  AI - hard moves (6|7) --> (5|6)
+2019/04/23 23:20:06  Board evaluation: -4
+2019/04/23 23:20:07  AI - medium explored 15497 node(s) in 0.646s
+2019/04/23 23:20:08  AI - medium moves (4|3) --> (5|4)
+2019/04/23 23:20:08  Board evaluation: 1
+2019/04/23 23:20:23  AI - hard explored 360360 node(s) in 14.987s
+2019/04/23 23:20:23  AI - hard moves (1|6) --> (2|5)
+2019/04/23 23:20:23  Board evaluation: -5
+2019/04/23 23:20:23  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:20:24  AI - medium captures (3|4) --> (1|6)
+2019/04/23 23:20:24  Board evaluation: -13
+2019/04/23 23:20:24  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:20:25  AI - hard captures (0|7) --> (2|5)
+2019/04/23 23:20:25  Board evaluation: 9
+2019/04/23 23:20:26  AI - medium explored 13808 node(s) in 0.482s
+2019/04/23 23:20:26  AI - medium moves (7|0) --> (6|1)
+2019/04/23 23:20:26  Board evaluation: 11
+2019/04/23 23:20:30  AI - hard explored 105513 node(s) in 3.534s
+2019/04/23 23:20:30  AI - hard moves (7|4) --> (6|3)
+2019/04/23 23:20:30  Board evaluation: 7
+2019/04/23 23:20:30  AI - medium explored 5792 node(s) in 0.206s
+2019/04/23 23:20:31  AI - medium moves (6|1) --> (5|2)
+2019/04/23 23:20:31  Board evaluation: 14
+2019/04/23 23:20:31  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:20:32  AI - hard captures (6|3) --> (4|1)
+2019/04/23 23:20:32  Board evaluation: 20
+2019/04/23 23:20:32  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:20:33  AI - medium captures (5|0) --> (3|2)
+2019/04/23 23:20:33  Board evaluation: -2
+2019/04/23 23:20:34  AI - hard explored 16661 node(s) in 0.789s
+2019/04/23 23:20:34  AI - hard moves (2|5) --> (3|4)
+2019/04/23 23:20:34  Board evaluation: -4
+2019/04/23 23:20:34  AI - medium explored 1311 node(s) in 0.059s
+2019/04/23 23:20:35  AI - medium moves (1|2) --> (0|3)
+2019/04/23 23:20:35  Board evaluation: -5
+2019/04/23 23:20:36  AI - hard explored 19430 node(s) in 0.985s
+2019/04/23 23:20:36  AI - hard moves (1|4) --> (2|3)
+2019/04/23 23:20:36  Board evaluation: 1
+2019/04/23 23:20:36  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:20:37  AI - medium captures (3|2) --> (1|4)
+2019/04/23 23:20:37  Board evaluation: -15
+2019/04/23 23:20:37  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:20:38  AI - hard captures (0|5) --> (2|3)
+2019/04/23 23:20:38  Board evaluation: 11
+2019/04/23 23:20:38  AI - medium explored 2549 node(s) in 0.129s
+2019/04/23 23:20:39  AI - medium moves (0|3) --> (1|4)
+2019/04/23 23:20:39  Board evaluation: 8
+2019/04/23 23:20:42  AI - hard explored 64606 node(s) in 3.506s
+2019/04/23 23:20:43  AI - hard moves (3|4) --> (4|3)
+2019/04/23 23:20:43  Board evaluation: -3
+2019/04/23 23:20:43  AI - medium explored 3157 node(s) in 0.177s
+2019/04/23 23:20:44  AI - medium moves (1|0) --> (2|1)
+2019/04/23 23:20:44  Board evaluation: 1
+2019/04/23 23:20:45  AI - hard explored 21734 node(s) in 1.385s
+2019/04/23 23:20:46  AI - hard moves (4|3) --> (5|2)
+2019/04/23 23:20:46  Board evaluation: -2
+2019/04/23 23:20:46  AI - medium explored 1184 node(s) in 0.076s
+2019/04/23 23:20:46  AI - medium moves (1|4) --> (2|5)
+2019/04/23 23:20:46  Board evaluation: 3
+2019/04/23 23:20:49  AI - hard explored 36310 node(s) in 2.608s
+2019/04/23 23:20:49  AI - hard moves (5|2) --> (6|1)
+2019/04/23 23:20:49  Board evaluation: -3
+2019/04/23 23:20:49  AI - medium explored 1456 node(s) in 0.1s
+2019/04/23 23:20:50  AI - medium moves (2|5) --> (1|6)
+2019/04/23 23:20:50  Board evaluation: 3
+2019/04/23 23:20:51  AI - hard explored 20386 node(s) in 1.515s
+2019/04/23 23:20:52  AI - hard moves (6|1) --> (5|0)
+2019/04/23 23:20:52  Board evaluation: -2
+2019/04/23 23:20:52  AI - medium explored 1296 node(s) in 0.082s
+2019/04/23 23:20:53  AI - medium moves (1|6) --> (2|7)
+2019/04/23 23:20:53  Board evaluation: 3
+2019/04/23 23:20:58  AI - hard explored 78590 node(s) in 4.983s
+2019/04/23 23:20:58  AI - hard moves (5|0) --> (4|1)
+2019/04/23 23:20:58  Board evaluation: 2
+2019/04/23 23:20:58  AI - medium explored 2440 node(s) in 0.172s
+2019/04/23 23:20:59  AI - medium moves (2|7) --> (3|6)
+2019/04/23 23:20:59  Board evaluation: 3
+2019/04/23 23:21:08  AI - hard explored 126091 node(s) in 9.564s
+2019/04/23 23:21:09  AI - hard moves (4|1) --> (5|2)
+2019/04/23 23:21:09  Board evaluation: -2
+2019/04/23 23:21:09  AI - medium explored 2452 node(s) in 0.167s
+2019/04/23 23:21:10  AI - medium moves (3|6) --> (4|7)
+2019/04/23 23:21:10  Board evaluation: 3
+2019/04/23 23:21:12  AI - hard explored 26095 node(s) in 2.103s
+2019/04/23 23:21:12  AI - hard moves (5|2) --> (6|3)
+2019/04/23 23:21:12  Board evaluation: 5
+2019/04/23 23:21:12  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:21:13  AI - medium captures (4|7) --> (6|5)
+2019/04/23 23:21:13  Board evaluation: -1
+2019/04/23 23:21:13  AI - hard explored 1 node(s) in 0.0s
+2019/04/23 23:21:14  AI - hard captures (6|3) --> (4|5)
+2019/04/23 23:21:14  Board evaluation: 9
+2019/04/23 23:21:14  AI - medium explored 778 node(s) in 0.054s
+2019/04/23 23:21:15  AI - medium moves (6|5) --> (7|6)
+2019/04/23 23:21:15  Board evaluation: 26
+2019/04/23 23:21:18  AI - hard explored 36186 node(s) in 2.967s
+2019/04/23 23:21:18  AI - hard moves (4|5) --> (5|4)
+2019/04/23 23:21:18  Board evaluation: 17
+2019/04/23 23:21:18  AI - medium explored 621 node(s) in 0.059s
+2019/04/23 23:21:19  AI - medium moves (7|6) --> (6|7)
+2019/04/23 23:21:19  Board evaluation: 23
+2019/04/23 23:21:24  AI - hard explored 50587 node(s) in 4.838s
+2019/04/23 23:21:24  AI - hard moves (5|4) --> (6|5)
+2019/04/23 23:21:24  Board evaluation: 20
+2019/04/23 23:21:24  AI - medium explored 381 node(s) in 0.039s
+2019/04/23 23:21:25  AI - medium moves (6|7) --> (7|6)
+2019/04/23 23:21:25  Board evaluation: 19
+2019/04/23 23:21:26  AI - hard explored 14658 node(s) in 1.047s
+2019/04/23 23:21:26  AI - hard moves (6|5) --> (5|6)
+2019/04/23 23:21:26  Board evaluation: 13
+2019/04/23 23:21:26  AI - medium explored 373 node(s) in 0.032s
+2019/04/23 23:21:27  AI - medium moves (7|6) --> (6|7)
+2019/04/23 23:21:27  Board evaluation: 15
+2019/04/23 23:21:28  AI - hard explored 11876 node(s) in 0.894s
+2019/04/23 23:21:28  AI - hard moves (5|6) --> (6|5)
+2019/04/23 23:21:28  Board evaluation: 20
+2019/04/23 23:21:28  AI - medium explored 381 node(s) in 0.03s
+2019/04/23 23:21:29  AI - medium moves (6|7) --> (7|6)
+2019/04/23 23:21:29  Board evaluation: 19
+2019/04/23 23:21:30  AI - hard explored 14658 node(s) in 1.054s
+2019/04/23 23:21:30  AI - hard moves (6|5) --> (5|4)
+2019/04/23 23:21:30  Board evaluation: 17
+2019/04/23 23:21:30  AI - medium explored 621 node(s) in 0.05s
+2019/04/23 23:21:31  AI - medium moves (7|6) --> (6|7)
+2019/04/23 23:21:31  Board evaluation: 23
+2019/04/23 23:21:35  AI - hard explored 50587 node(s) in 4.42s
+2019/04/23 23:21:36  AI - hard moves (5|4) --> (4|5)
+2019/04/23 23:21:36  Board evaluation: 19
+2019/04/23 23:21:36  AI - medium explored 520 node(s) in 0.049s
+2019/04/23 23:21:36  AI - medium moves (6|7) --> (7|6)
+2019/04/23 23:21:36  Board evaluation: 26
+2019/04/23 23:21:40  AI - hard explored 36186 node(s) in 3.606s
+2019/04/23 23:21:41  AI - hard moves (4|5) --> (5|4)
+2019/04/23 23:21:41  Board evaluation: 17
+2019/04/23 23:21:41  AI - medium explored 621 node(s) in 0.057s
+2019/04/23 23:21:41  AI - medium moves (7|6) --> (6|7)
+2019/04/23 23:21:41  Board evaluation: 23
+2019/04/23 23:21:46  AI - hard explored 50587 node(s) in 4.827s
+2019/04/23 23:21:47  AI - hard moves (5|4) --> (4|3)
+2019/04/23 23:21:47  Board evaluation: 20
+2019/04/23 23:21:47  AI - medium explored 1988 node(s) in 0.167s
+2019/04/23 23:21:47  AI - medium moves (6|7) --> (5|6)
+2019/04/23 23:21:47  Board evaluation: 16
+2019/04/23 23:21:56  AI - hard explored 95708 node(s) in 8.9s
+2019/04/23 23:21:57  AI - hard moves (4|3) --> (3|4)
+2019/04/23 23:21:57  Board evaluation: 10
+2019/04/23 23:21:57  AI - medium explored 1591 node(s) in 0.138s
+2019/04/23 23:21:57  AI - medium moves (5|6) --> (6|7)
+2019/04/23 23:21:57  Board evaluation: 24
+2019/04/23 23:22:01  AI - hard explored 39921 node(s) in 3.448s
+2019/04/23 23:22:01  AI - hard moves (3|4) --> (4|3)
+2019/04/23 23:22:01  Board evaluation: 20
+2019/04/23 23:22:01  AI - medium explored 1988 node(s) in 0.169s
+2019/04/23 23:22:02  AI - medium moves (6|7) --> (7|6)
+2019/04/23 23:22:02  Board evaluation: 24
+2019/04/23 23:22:08  AI - hard explored 64623 node(s) in 5.928s
+2019/04/23 23:22:08  AI - hard moves (4|3) --> (3|4)
+2019/04/23 23:22:08  Board evaluation: 17
+2019/04/23 23:22:09  AI - medium explored 1111 node(s) in 0.097s
+2019/04/23 23:22:09  AI - medium moves (7|6) --> (6|7)
+2019/04/23 23:22:09  Board evaluation: 24
+2019/04/23 23:22:13  AI - hard explored 39921 node(s) in 3.86s
+2019/04/23 23:22:13  AI - hard moves (3|4) --> (4|3)
+2019/04/23 23:22:13  Board evaluation: 20
+2019/04/23 23:22:14  AI - medium explored 1988 node(s) in 0.169s
+2019/04/23 23:22:14  AI - medium moves (6|7) --> (5|6)
+2019/04/23 23:22:14  Board evaluation: 16
+2019/04/23 23:22:23  AI - hard explored 95708 node(s) in 8.936s
+2019/04/23 23:22:24  AI - hard moves (4|3) --> (5|2)
+2019/04/23 23:22:24  Board evaluation: 8
+2019/04/23 23:22:24  AI - medium explored 3074 node(s) in 0.231s
+2019/04/23 23:22:24  AI - medium moves (5|6) --> (6|7)
+2019/04/23 23:22:24  Board evaluation: 21
+2019/04/23 23:22:31  AI - hard explored 75859 node(s) in 6.916s
+2019/04/23 23:22:32  AI - hard moves (5|2) --> (6|1)
+2019/04/23 23:22:32  Board evaluation: 13
+2019/04/23 23:22:32  AI - medium explored 1723 node(s) in 0.177s
+2019/04/23 23:22:32  AI - medium moves (6|7) --> (5|6)
+2019/04/23 23:22:32  Board evaluation: 12
+2019/04/23 23:22:40  AI - hard explored 70950 node(s) in 7.325s
+2019/04/23 23:22:40  AI - hard moves (6|1) --> (5|2)
+2019/04/23 23:22:40  Board evaluation: 8
+2019/04/23 23:22:41  AI - medium explored 3074 node(s) in 0.293s
+2019/04/23 23:22:41  AI - medium moves (5|6) --> (6|7)
+2019/04/23 23:22:41  Board evaluation: 21
+2019/04/23 23:22:49  AI - hard explored 75859 node(s) in 7.586s
+2019/04/23 23:22:49  AI - hard moves (5|2) --> (6|1)
+2019/04/23 23:22:49  Board evaluation: 13
+2019/04/23 23:22:49  AI - medium explored 1723 node(s) in 0.176s
+2019/04/23 23:22:50  AI - medium moves (6|7) --> (5|6)
+2019/04/23 23:22:50  Board evaluation: 12
+2019/04/23 23:22:56  Game quit.
+2019/04/23 23:23:00  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 23:23:00  Player 1: Player 1
+2019/04/23 23:23:00  Player 2: AI - medium
+2019/04/23 23:23:00  Game started.
+2019/04/23 23:23:00  Board evaluation: 3
+2019/04/23 23:23:02  Player 1 moves (4|5) --> (5|4)
+2019/04/23 23:23:02  Board evaluation: -2
+2019/04/23 23:23:02  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:23:03  AI - medium moves (3|2) --> (4|3)
+2019/04/23 23:23:03  Board evaluation: 10
+2019/04/23 23:23:03  Player 1 captures (5|4) --> (3|2)
+2019/04/23 23:23:03  Board evaluation: 2
+2019/04/23 23:23:04  AI - medium explored 4235 node(s) in 0.157s
+2019/04/23 23:23:05  AI - medium captures (2|1) --> (4|3)
+2019/04/23 23:23:05  Board evaluation: -1
+2019/04/23 23:23:05  Player 1 moves (5|6) --> (4|5)
+2019/04/23 23:23:05  Board evaluation: -5
+2019/04/23 23:23:06  AI - medium explored 18679 node(s) in 0.51s
+2019/04/23 23:23:06  AI - medium moves (3|0) --> (2|1)
+2019/04/23 23:23:06  Board evaluation: -2
+2019/04/23 23:23:07  Player 1 moves (4|5) --> (5|4)
+2019/04/23 23:23:07  Board evaluation: 1
+2019/04/23 23:23:08  AI - medium explored 12669 node(s) in 0.38s
+2019/04/23 23:23:08  AI - medium moves (1|2) --> (2|3)
+2019/04/23 23:23:08  Board evaluation: 6
+2019/04/23 23:23:09  Player 1 captures (5|4) --> (3|2)
+2019/04/23 23:23:09  Board evaluation: 8
+2019/04/23 23:23:09  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:23:10  AI - medium captures (2|1) --> (4|3)
+2019/04/23 23:23:10  Board evaluation: -6
+2019/04/23 23:23:11  Player 1 moves (3|6) --> (4|5)
+2019/04/23 23:23:11  Board evaluation: -10
+2019/04/23 23:23:12  AI - medium explored 15055 node(s) in 0.398s
+2019/04/23 23:23:12  AI - medium moves (0|1) --> (1|2)
+2019/04/23 23:23:12  Board evaluation: -9
+2019/04/23 23:23:14  Player 1 moves (6|5) --> (7|4)
+2019/04/23 23:23:14  Board evaluation: -18
+2019/04/23 23:23:14  AI - medium explored 23193 node(s) in 0.663s
+2019/04/23 23:23:15  AI - medium moves (4|3) --> (5|4)
+2019/04/23 23:23:15  Board evaluation: -13
+2019/04/23 23:23:16  Player 1 captures (4|5) --> (6|3)
+2019/04/23 23:23:16  Board evaluation: -1
+2019/04/23 23:23:16  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:23:17  AI - medium captures (7|2) --> (5|4)
+2019/04/23 23:23:17  Board evaluation: -14
+2019/04/23 23:23:18  Player 1 moves (6|7) --> (5|6)
+2019/04/23 23:23:18  Board evaluation: -16
+2019/04/23 23:23:18  AI - medium explored 15832 node(s) in 0.489s
+2019/04/23 23:23:19  AI - medium moves (5|4) --> (4|5)
+2019/04/23 23:23:19  Board evaluation: -13
+2019/04/23 23:23:20  Player 1 captures (5|6) --> (3|4)
+2019/04/23 23:23:20  Board evaluation: 1
+2019/04/23 23:23:20  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:23:21  AI - medium captures (2|3) --> (4|5)
+2019/04/23 23:23:21  Board evaluation: -9
+2019/04/23 23:23:22  Player 1 moves (0|5) --> (1|4)
+2019/04/23 23:23:22  Board evaluation: -9
+2019/04/23 23:23:23  AI - medium explored 31739 node(s) in 1.003s
+2019/04/23 23:23:24  AI - medium moves (1|2) --> (2|3)
+2019/04/23 23:23:24  Board evaluation: -6
+2019/04/23 23:23:25  Player 1 captures (1|4) --> (3|2)
+2019/04/23 23:23:25  Board evaluation: 5
+2019/04/23 23:23:25  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:23:26  AI - medium captures (4|1) --> (2|3)
+2019/04/23 23:23:26  Board evaluation: -11
+2019/04/23 23:23:27  Player 1 moves (1|6) --> (0|5)
+2019/04/23 23:23:27  Board evaluation: -16
+2019/04/23 23:23:28  AI - medium explored 34718 node(s) in 1.152s
+2019/04/23 23:23:28  AI - medium moves (5|2) --> (6|3)
+2019/04/23 23:23:28  Board evaluation: -3
+2019/04/23 23:23:30  Player 1 captures (7|4) --> (5|2)
+2019/04/23 23:23:30  Board evaluation: -1
+2019/04/23 23:23:30  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:23:31  AI - medium captures (6|1) --> (4|3)
+2019/04/23 23:23:31  Board evaluation: -15
+2019/04/23 23:23:32  Player 1 moves (7|6) --> (6|5)
+2019/04/23 23:23:32  Board evaluation: -16
+2019/04/23 23:23:33  AI - medium explored 24385 node(s) in 0.796s
+2019/04/23 23:23:33  AI - medium moves (1|0) --> (2|1)
+2019/04/23 23:23:33  Board evaluation: -15
+2019/04/23 23:23:34  Player 1 moves (6|5) --> (7|4)
+2019/04/23 23:23:34  Board evaluation: -20
+2019/04/23 23:23:35  AI - medium explored 20332 node(s) in 0.674s
+2019/04/23 23:23:35  AI - medium moves (5|0) --> (4|1)
+2019/04/23 23:23:35  Board evaluation: -15
+2019/04/23 23:23:37  Player 1 moves (7|4) --> (6|3)
+2019/04/23 23:23:37  Board evaluation: -19
+2019/04/23 23:23:37  AI - medium explored 14973 node(s) in 0.478s
+2019/04/23 23:23:38  AI - medium moves (7|0) --> (6|1)
+2019/04/23 23:23:38  Board evaluation: -17
+2019/04/23 23:23:39  Player 1 moves (6|3) --> (7|2)
+2019/04/23 23:23:39  Board evaluation: -13
+2019/04/23 23:23:39  AI - medium explored 7137 node(s) in 0.244s
+2019/04/23 23:23:39  AI - medium moves (6|1) --> (5|2)
+2019/04/23 23:23:39  Board evaluation: -21
+2019/04/23 23:23:40  Player 1 moves (7|2) --> (6|1)
+2019/04/23 23:23:40  Board evaluation: -23
+2019/04/23 23:23:40  AI - medium explored 13699 node(s) in 0.414s
+2019/04/23 23:23:41  AI - medium moves (5|2) --> (6|3)
+2019/04/23 23:23:41  Board evaluation: -19
+2019/04/23 23:23:41  Player 1 moves (6|1) --> (5|0)
+2019/04/23 23:23:41  Board evaluation: -14
+2019/04/23 23:23:42  AI - medium explored 9691 node(s) in 0.312s
+2019/04/23 23:23:42  AI - medium moves (4|1) --> (5|2)
+2019/04/23 23:23:42  Board evaluation: -22
+2019/04/23 23:23:43  Player 1 moves (5|0) --> (4|1)
+2019/04/23 23:23:43  Board evaluation: -26
+2019/04/23 23:23:44  AI - medium explored 13593 node(s) in 0.422s
+2019/04/23 23:23:44  AI - medium moves (4|3) --> (5|4)
+2019/04/23 23:23:44  Board evaluation: -21
+2019/04/23 23:23:47  Player 1 moves (2|5) --> (1|4)
+2019/04/23 23:23:47  Board evaluation: -17
+2019/04/23 23:23:47  AI - medium explored 9757 node(s) in 0.342s
+2019/04/23 23:23:48  AI - medium moves (2|1) --> (3|2)
+2019/04/23 23:23:48  Board evaluation: -23
+2019/04/23 23:23:50  Player 1 moves (1|4) --> (0|3)
+2019/04/23 23:23:50  Board evaluation: -28
+2019/04/23 23:23:51  AI - medium explored 17773 node(s) in 0.56s
+2019/04/23 23:23:51  AI - medium moves (5|4) --> (6|5)
+2019/04/23 23:23:51  Board evaluation: -25
+2019/04/23 23:23:52  Player 1 moves (0|3) --> (1|2)
+2019/04/23 23:23:52  Board evaluation: -25
+2019/04/23 23:23:53  AI - medium explored 30186 node(s) in 0.898s
+2019/04/23 23:23:53  AI - medium moves (4|5) --> (5|6)
+2019/04/23 23:23:53  Board evaluation: -21
+2019/04/23 23:23:54  Player 1 moves (1|2) --> (2|1)
+2019/04/23 23:23:54  Board evaluation: -25
+2019/04/23 23:23:55  AI - medium explored 16513 node(s) in 0.49s
+2019/04/23 23:23:55  AI - medium moves (5|2) --> (4|3)
+2019/04/23 23:23:55  Board evaluation: -22
+2019/04/23 23:23:57  Player 1 moves (2|1) --> (3|0)
+2019/04/23 23:23:57  Board evaluation: -29
+2019/04/23 23:23:57  AI - medium explored 11522 node(s) in 0.363s
+2019/04/23 23:23:57  AI - medium moves (6|3) --> (5|4)
+2019/04/23 23:23:57  Board evaluation: -24
+2019/04/23 23:23:58  Player 1 moves (3|0) --> (2|1)
+2019/04/23 23:23:58  Board evaluation: -26
+2019/04/23 23:23:59  AI - medium explored 11495 node(s) in 0.365s
+2019/04/23 23:23:59  AI - medium moves (5|6) --> (6|7)
+2019/04/23 23:23:59  Board evaluation: -21
+2019/04/23 23:24:00  Player 1 moves (4|1) --> (5|2)
+2019/04/23 23:24:00  Board evaluation: -17
+2019/04/23 23:24:01  AI - medium explored 11640 node(s) in 0.351s
+2019/04/23 23:24:01  AI - medium moves (2|3) --> (3|4)
+2019/04/23 23:24:01  Board evaluation: -19
+2019/04/23 23:24:03  Player 1 moves (0|5) --> (1|4)
+2019/04/23 23:24:03  Board evaluation: -23
+2019/04/23 23:24:04  AI - medium explored 22047 node(s) in 0.629s
+2019/04/23 23:24:04  AI - medium moves (6|5) --> (5|6)
+2019/04/23 23:24:04  Board evaluation: -10
+2019/04/23 23:24:06  Player 1 captures (4|7) --> (6|5)
+2019/04/23 23:24:06  Board evaluation: 1
+2019/04/23 23:24:06  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:24:07  AI - medium captures (5|4) --> (7|6)
+2019/04/23 23:24:07  Board evaluation: -5
+2019/04/23 23:24:09  Player 1 moves (1|4) --> (0|3)
+2019/04/23 23:24:09  Board evaluation: -9
+2019/04/23 23:24:09  AI - medium explored 15010 node(s) in 0.485s
+2019/04/23 23:24:10  AI - medium moves (3|2) --> (2|3)
+2019/04/23 23:24:10  Board evaluation: -4
+2019/04/23 23:24:11  Player 1 moves (2|1) --> (3|2)
+2019/04/23 23:24:11  Board evaluation: 5
+2019/04/23 23:24:12  AI - medium explored 10074 node(s) in 0.4s
+2019/04/23 23:24:12  AI - medium moves (2|3) --> (1|4)
+2019/04/23 23:24:12  Board evaluation: 3
+2019/04/23 23:24:14  Player 1 captures (3|2) --> (5|4)
+2019/04/23 23:24:14  Board evaluation: 14
+2019/04/23 23:27:31  Game quit.
+2019/04/23 23:27:37  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 23:27:37  Player 1: Player 1
+2019/04/23 23:27:37  Player 2: AI - medium
+2019/04/23 23:27:37  Game started.
+2019/04/23 23:27:37  Board evaluation: 3
+2019/04/23 23:27:39  Player 1 moves (4|5) --> (3|4)
+2019/04/23 23:27:39  Board evaluation: -2
+2019/04/23 23:27:39  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:27:39  AI - medium moves (3|2) --> (2|3)
+2019/04/23 23:27:39  Board evaluation: -4
+2019/04/23 23:27:40  Player 1 moves (5|6) --> (4|5)
+2019/04/23 23:27:40  Board evaluation: 0
+2019/04/23 23:27:40  AI - medium explored 10972 node(s) in 0.337s
+2019/04/23 23:27:41  AI - medium moves (2|1) --> (3|2)
+2019/04/23 23:27:41  Board evaluation: 3
+2019/04/23 23:27:42  Player 1 rejected move (4|5) --> (4|5)
+2019/04/23 23:27:43  Player 1 moves (6|5) --> (5|4)
+2019/04/23 23:27:43  Board evaluation: -1
+2019/04/23 23:27:43  AI - medium explored 6832 node(s) in 0.218s
+2019/04/23 23:27:44  AI - medium moves (5|2) --> (4|3)
+2019/04/23 23:27:44  Board evaluation: 5
+2019/04/23 23:27:45  Player 1 rejected move (7|6) --> (6|5)
+2019/04/23 23:27:47  Player 1 captures (3|4) --> (5|2)
+2019/04/23 23:27:47  Board evaluation: 4
+2019/04/23 23:27:47  AI - medium explored 7624 node(s) in 0.26s
+2019/04/23 23:27:48  AI - medium captures (4|1) --> (6|3)
+2019/04/23 23:27:48  Board evaluation: 0
+2019/04/23 23:27:49  Player 1 moves (7|6) --> (6|5)
+2019/04/23 23:27:49  Board evaluation: -1
+2019/04/23 23:27:50  AI - medium explored 20270 node(s) in 0.57s
+2019/04/23 23:27:50  AI - medium moves (6|1) --> (5|2)
+2019/04/23 23:27:50  Board evaluation: 3
+2019/04/23 23:27:51  Player 1 moves (6|5) --> (7|4)
+2019/04/23 23:27:51  Board evaluation: -4
+2019/04/23 23:27:51  AI - medium explored 19548 node(s) in 0.544s
+2019/04/23 23:27:52  AI - medium moves (5|0) --> (4|1)
+2019/04/23 23:27:52  Board evaluation: -3
+2019/04/23 23:27:53  Player 1 moves (2|5) --> (1|4)
+2019/04/23 23:27:53  Board evaluation: -9
+2019/04/23 23:27:54  AI - medium explored 5344 node(s) in 0.141s
+2019/04/23 23:27:54  AI - medium moves (1|0) --> (2|1)
+2019/04/23 23:27:54  Board evaluation: -7
+2019/04/23 23:27:55  Player 1 moves (1|4) --> (0|3)
+2019/04/23 23:27:55  Board evaluation: -13
+2019/04/23 23:27:55  AI - medium explored 731 node(s) in 0.035s
+2019/04/23 23:27:55  AI - medium moves (2|3) --> (3|4)
+2019/04/23 23:27:55  Board evaluation: -6
+2019/04/23 23:27:56  Player 1 captures (4|5) --> (2|3)
+2019/04/23 23:27:56  Board evaluation: -17
+2019/04/23 23:27:56  AI - medium explored 1144 node(s) in 0.037s
+2019/04/23 23:27:57  AI - medium captures (3|2) --> (1|4)
+2019/04/23 23:27:57  Board evaluation: -8
+2019/04/23 23:27:59  Player 1 captures (0|5) --> (2|3)
+2019/04/23 23:27:59  Board evaluation: -6
+2019/04/23 23:27:59  AI - medium explored 1165 node(s) in 0.038s
+2019/04/23 23:28:00  AI - medium captures (6|3) --> (4|5)
+2019/04/23 23:28:00  Board evaluation: -5
+2019/04/23 23:28:01  Player 1 captures (3|6) --> (5|4)
+2019/04/23 23:28:01  Board evaluation: 7
+2019/04/23 23:28:01  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:28:02  AI - medium captures (1|2) --> (3|4)
+2019/04/23 23:28:02  Board evaluation: -1
+2019/04/23 23:28:03  Player 1 moves (4|7) --> (3|6)
+2019/04/23 23:28:03  Board evaluation: -2
+2019/04/23 23:28:03  AI - medium explored 10753 node(s) in 0.319s
+2019/04/23 23:28:04  AI - medium moves (5|2) --> (6|3)
+2019/04/23 23:28:04  Board evaluation: 3
+2019/04/23 23:28:05  Player 1 rejected move (5|4) --> (4|3)
+2019/04/23 23:28:06  Player 1 captures (7|4) --> (5|2)
+2019/04/23 23:28:06  Board evaluation: 18
+2019/04/23 23:28:06  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:28:07  AI - medium captures (4|1) --> (6|3)
+2019/04/23 23:28:07  Board evaluation: -7
+2019/04/23 23:28:07  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:28:08  AI - medium captures (6|3) --> (4|5)
+2019/04/23 23:28:08  Board evaluation: -21
+2019/04/23 23:28:09  Player 1 captures (3|6) --> (5|4)
+2019/04/23 23:28:09  Board evaluation: -3
+2019/04/23 23:28:09  AI - medium explored 15284 node(s) in 0.499s
+2019/04/23 23:28:10  AI - medium moves (3|4) --> (4|5)
+2019/04/23 23:28:10  Board evaluation: -1
+2019/04/23 23:28:10  Player 1 moves (5|4) --> (4|3)
+2019/04/23 23:28:10  Board evaluation: -5
+2019/04/23 23:28:11  AI - medium explored 7060 node(s) in 0.239s
+2019/04/23 23:28:11  AI - medium moves (7|0) --> (6|1)
+2019/04/23 23:28:11  Board evaluation: -4
+2019/04/23 23:28:13  Player 1 moves (1|6) --> (2|5)
+2019/04/23 23:28:13  Board evaluation: -7
+2019/04/23 23:28:13  AI - medium explored 8593 node(s) in 0.269s
+2019/04/23 23:28:14  AI - medium moves (3|0) --> (4|1)
+2019/04/23 23:28:14  Board evaluation: -4
+2019/04/23 23:28:14  Player 1 moves (2|5) --> (3|4)
+2019/04/23 23:28:14  Board evaluation: -6
+2019/04/23 23:28:15  AI - medium explored 5256 node(s) in 0.178s
+2019/04/23 23:28:15  AI - medium moves (0|1) --> (1|2)
+2019/04/23 23:28:15  Board evaluation: -6
+2019/04/23 23:28:17  Player 1 moves (0|7) --> (1|6)
+2019/04/23 23:28:17  Board evaluation: -7
+2019/04/23 23:28:17  AI - medium explored 3569 node(s) in 0.106s
+2019/04/23 23:28:18  AI - medium moves (4|1) --> (3|2)
+2019/04/23 23:28:18  Board evaluation: -12
+2019/04/23 23:28:21  Player 1 moves (1|6) --> (2|5)
+2019/04/23 23:28:21  Board evaluation: -15
+2019/04/23 23:28:21  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:28:22  AI - medium captures (3|2) --> (5|4)
+2019/04/23 23:28:22  Board evaluation: -29
+2019/04/23 23:28:23  Player 1 moves (3|4) --> (4|3)
+2019/04/23 23:28:23  Board evaluation: -33
+2019/04/23 23:28:23  AI - medium explored 5526 node(s) in 0.17s
+2019/04/23 23:28:23  AI - medium moves (7|2) --> (6|3)
+2019/04/23 23:28:23  Board evaluation: -31
+2019/04/23 23:28:25  Player 1 moves (2|5) --> (3|4)
+2019/04/23 23:28:25  Board evaluation: -34
+2019/04/23 23:28:25  AI - medium explored 4644 node(s) in 0.156s
+2019/04/23 23:28:26  AI - medium moves (6|3) --> (7|4)
+2019/04/23 23:28:26  Board evaluation: -25
+2019/04/23 23:28:30  Player 1 moves (2|7) --> (1|6)
+2019/04/23 23:28:30  Board evaluation: -29
+2019/04/23 23:28:30  AI - medium explored 7403 node(s) in 0.235s
+2019/04/23 23:28:30  AI - medium moves (7|4) --> (6|5)
+2019/04/23 23:28:30  Board evaluation: -31
+2019/04/23 23:28:31  Player 1 moves (1|6) --> (0|5)
+2019/04/23 23:28:31  Board evaluation: -37
+2019/04/23 23:28:31  AI - medium explored 3353 node(s) in 0.11s
+2019/04/23 23:28:32  AI - medium moves (4|5) --> (3|6)
+2019/04/23 23:28:32  Board evaluation: -31
+2019/04/23 23:28:32  Player 1 moves (0|5) --> (1|4)
+2019/04/23 23:28:32  Board evaluation: -29
+2019/04/23 23:28:33  AI - medium explored 4172 node(s) in 0.146s
+2019/04/23 23:28:33  AI - medium moves (3|6) --> (4|7)
+2019/04/23 23:28:33  Board evaluation: -26
+2019/04/23 23:28:34  Player 1 moves (1|4) --> (2|3)
+2019/04/23 23:28:34  Board evaluation: -21
+2019/04/23 23:28:34  AI - medium explored 2935 node(s) in 0.108s
+2019/04/23 23:28:34  AI - medium moves (4|7) --> (3|6)
+2019/04/23 23:28:34  Board evaluation: -20
+2019/04/23 23:28:35  Player 1 captures (2|3) --> (0|1)
+2019/04/23 23:28:35  Board evaluation: -14
+2019/04/23 23:28:35  AI - medium explored 7749 node(s) in 0.298s
+2019/04/23 23:28:36  AI - medium moves (3|6) --> (2|5)
+2019/04/23 23:28:36  Board evaluation: -12
+2019/04/23 23:28:38  Player 1 moves (0|1) --> (1|0)
+2019/04/23 23:28:38  Board evaluation: -9
+2019/04/23 23:28:38  AI - medium explored 1620 node(s) in 0.063s
+2019/04/23 23:28:39  AI - medium moves (6|1) --> (5|2)
+2019/04/23 23:28:39  Board evaluation: 1
+2019/04/23 23:28:40  Player 1 captures (1|0) --> (3|2)
+2019/04/23 23:28:40  Board evaluation: 9
+2019/04/23 23:28:40  AI - medium explored 7818 node(s) in 0.286s
+2019/04/23 23:28:41  AI - medium moves (5|4) --> (4|5)
+2019/04/23 23:28:41  Board evaluation: 15
+2019/04/23 23:28:43  Player 1 rejected move (3|4) --> (3|3)
+2019/04/23 23:28:44  Player 1 captures (4|3) --> (6|1)
+2019/04/23 23:28:44  Board evaluation: 17
+2019/04/23 23:28:44  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:28:45  AI - medium captures (2|5) --> (4|3)
+2019/04/23 23:28:45  Board evaluation: 3
+2019/04/23 23:28:45  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:28:46  AI - medium captures (4|3) --> (2|1)
+2019/04/23 23:28:46  Board evaluation: -23
+2019/04/23 23:28:47  Player 1 moves (6|1) --> (5|0)
+2019/04/23 23:28:47  Board evaluation: -26
+2019/04/23 23:28:48  AI - medium explored 14491 node(s) in 0.743s
+2019/04/23 23:28:48  AI - medium moves (6|5) --> (5|6)
+2019/04/23 23:28:48  Board evaluation: -23
+2019/04/23 23:28:49  Player 1 moves (5|0) --> (4|1)
+2019/04/23 23:28:49  Board evaluation: -24
+2019/04/23 23:28:49  AI - medium explored 7998 node(s) in 0.408s
+2019/04/23 23:28:50  AI - medium moves (5|6) --> (4|7)
+2019/04/23 23:28:50  Board evaluation: -20
+2019/04/23 23:28:51  Player 1 moves (4|1) --> (5|2)
+2019/04/23 23:28:51  Board evaluation: -24
+2019/04/23 23:28:52  AI - medium explored 31826 node(s) in 1.607s
+2019/04/23 23:28:53  AI - medium moves (4|5) --> (3|6)
+2019/04/23 23:28:53  Board evaluation: -17
+2019/04/23 23:28:54  Player 1 moves (5|2) --> (4|3)
+2019/04/23 23:28:54  Board evaluation: -20
+2019/04/23 23:28:54  AI - medium explored 12078 node(s) in 0.648s
+2019/04/23 23:28:55  AI - medium moves (3|6) --> (2|7)
+2019/04/23 23:28:55  Board evaluation: -14
+2019/04/23 23:28:55  Player 1 moves (4|3) --> (3|4)
+2019/04/23 23:28:55  Board evaluation: -23
+2019/04/23 23:28:57  AI - medium explored 33593 node(s) in 2.016s
+2019/04/23 23:28:58  AI - medium moves (2|1) --> (3|2)
+2019/04/23 23:28:58  Board evaluation: -22
+2019/04/23 23:29:00  Player 1 moves (3|4) --> (2|5)
+2019/04/23 23:29:00  Board evaluation: -31
+2019/04/23 23:29:01  AI - medium explored 12181 node(s) in 0.794s
+2019/04/23 23:29:01  AI - medium moves (3|2) --> (2|3)
+2019/04/23 23:29:01  Board evaluation: -24
+2019/04/23 23:29:06  Player 1 moves (6|7) --> (7|6)
+2019/04/23 23:29:06  Board evaluation: -23
+2019/04/23 23:29:07  AI - medium explored 13931 node(s) in 0.861s
+2019/04/23 23:29:07  AI - medium moves (4|7) --> (5|6)
+2019/04/23 23:29:07  Board evaluation: -22
+2019/04/23 23:29:10  Player 1 rejected move (2|5) --> (2|5)
+2019/04/23 23:29:18  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 23:29:18  Player 1: Player 1
+2019/04/23 23:29:18  Player 2: AI - medium
+2019/04/23 23:29:18  Game started.
+2019/04/23 23:29:18  Board evaluation: 3
+2019/04/23 23:29:19  Player 1 moves (6|5) --> (7|4)
+2019/04/23 23:29:19  Board evaluation: -5
+2019/04/23 23:29:19  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:29:20  AI - medium moves (5|2) --> (4|3)
+2019/04/23 23:29:20  Board evaluation: 1
+2019/04/23 23:29:20  Player 1 moves (7|6) --> (6|5)
+2019/04/23 23:29:20  Board evaluation: 0
+2019/04/23 23:29:21  AI - medium explored 11006 node(s) in 0.308s
+2019/04/23 23:29:21  AI - medium moves (4|3) --> (3|4)
+2019/04/23 23:29:21  Board evaluation: 21
+2019/04/23 23:29:23  Player 1 captures (4|5) --> (2|3)
+2019/04/23 23:29:23  Board evaluation: 2
+2019/04/23 23:29:23  AI - medium explored 43 node(s) in 0.0s
+2019/04/23 23:29:24  AI - medium captures (1|2) --> (3|4)
+2019/04/23 23:29:24  Board evaluation: 14
+2019/04/23 23:29:25  Player 1 rejected move (2|5) --> (3|4)
+2019/04/23 23:29:26  Player 1 captures (2|5) --> (4|3)
+2019/04/23 23:29:26  Board evaluation: 10
+2019/04/23 23:29:26  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:29:27  AI - medium captures (3|2) --> (5|4)
+2019/04/23 23:29:27  Board evaluation: -2
+2019/04/23 23:29:27  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:29:28  AI - medium captures (5|4) --> (7|6)
+2019/04/23 23:29:28  Board evaluation: -16
+2019/04/23 23:29:28  Player 1 moves (5|6) --> (6|5)
+2019/04/23 23:29:28  Board evaluation: -21
+2019/04/23 23:29:33  AI - medium explored 125367 node(s) in 4.312s
+2019/04/23 23:29:33  AI - medium moves (7|2) --> (6|3)
+2019/04/23 23:29:33  Board evaluation: -10
+2019/04/23 23:29:34  Player 1 captures (7|4) --> (5|2)
+2019/04/23 23:29:34  Board evaluation: -18
+2019/04/23 23:29:35  AI - medium explored 24578 node(s) in 0.916s
+2019/04/23 23:29:36  AI - medium captures (6|1) --> (4|3)
+2019/04/23 23:29:36  Board evaluation: -24
+2019/04/23 23:29:37  Player 1 moves (6|5) --> (7|4)
+2019/04/23 23:29:37  Board evaluation: -29
+2019/04/23 23:29:41  AI - medium explored 121265 node(s) in 3.944s
+2019/04/23 23:29:41  AI - medium moves (2|1) --> (3|2)
+2019/04/23 23:29:41  Board evaluation: -24
+2019/04/23 23:29:42  Player 1 moves (7|4) --> (6|3)
+2019/04/23 23:29:42  Board evaluation: -25
+2019/04/23 23:29:44  AI - medium explored 55279 node(s) in 2.048s
+2019/04/23 23:29:45  AI - medium moves (4|1) --> (5|2)
+2019/04/23 23:29:45  Board evaluation: -18
+2019/04/23 23:29:45  Player 1 captures (6|3) --> (4|1)
+2019/04/23 23:29:45  Board evaluation: -13
+2019/04/23 23:29:46  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:29:47  AI - medium captures (3|0) --> (5|2)
+2019/04/23 23:29:47  Board evaluation: -32
+2019/04/23 23:29:47  Player 1 moves (4|7) --> (5|6)
+2019/04/23 23:29:47  Board evaluation: -34
+2019/04/23 23:29:48  AI - medium explored 49026 node(s) in 1.413s
+2019/04/23 23:29:49  AI - medium moves (7|0) --> (6|1)
+2019/04/23 23:29:49  Board evaluation: -33
+2019/04/23 23:29:50  Player 1 moves (5|6) --> (6|5)
+2019/04/23 23:29:50  Board evaluation: -37
+2019/04/23 23:29:52  AI - medium explored 64996 node(s) in 2.049s
+2019/04/23 23:29:52  AI - medium moves (0|1) --> (1|2)
+2019/04/23 23:29:52  Board evaluation: -34
+2019/04/23 23:29:53  Player 1 moves (6|5) --> (7|4)
+2019/04/23 23:29:53  Board evaluation: -40
+2019/04/23 23:29:55  AI - medium explored 66337 node(s) in 2.489s
+2019/04/23 23:29:56  AI - medium moves (6|1) --> (7|2)
+2019/04/23 23:29:56  Board evaluation: -34
+2019/04/23 23:29:57  Player 1 moves (1|6) --> (2|5)
+2019/04/23 23:29:57  Board evaluation: -39
+2019/04/23 23:29:59  AI - medium explored 77672 node(s) in 2.325s
+2019/04/23 23:30:00  AI - medium moves (5|0) --> (6|1)
+2019/04/23 23:30:00  Board evaluation: -37
+2019/04/23 23:30:00  Player 1 moves (2|5) --> (1|4)
+2019/04/23 23:30:00  Board evaluation: -41
+2019/04/23 23:30:01  AI - medium explored 22532 node(s) in 0.814s
+2019/04/23 23:30:02  AI - medium moves (7|2) --> (6|3)
+2019/04/23 23:30:02  Board evaluation: -37
+2019/04/23 23:30:02  Player 1 moves (1|4) --> (0|3)
+2019/04/23 23:30:02  Board evaluation: -34
+2019/04/23 23:30:03  AI - medium explored 13181 node(s) in 0.489s
+2019/04/23 23:30:03  AI - medium moves (3|2) --> (2|3)
+2019/04/23 23:30:03  Board evaluation: -31
+2019/04/23 23:30:04  Player 1 captures (0|3) --> (2|1)
+2019/04/23 23:30:04  Board evaluation: -27
+2019/04/23 23:30:04  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:30:05  AI - medium captures (1|0) --> (3|2)
+2019/04/23 23:30:05  Board evaluation: -48
+2019/04/23 23:30:06  Player 1 moves (3|6) --> (2|5)
+2019/04/23 23:30:06  Board evaluation: -52
+2019/04/23 23:30:06  AI - medium explored 6983 node(s) in 0.223s
+2019/04/23 23:30:06  AI - medium moves (6|3) --> (5|4)
+2019/04/23 23:30:06  Board evaluation: -51
+2019/04/23 23:30:07  Player 1 moves (2|5) --> (1|4)
+2019/04/23 23:30:07  Board evaluation: -54
+2019/04/23 23:30:07  AI - medium explored 8288 node(s) in 0.247s
+2019/04/23 23:30:08  AI - medium moves (6|1) --> (7|2)
+2019/04/23 23:30:08  Board evaluation: -48
+2019/04/23 23:30:08  Player 1 moves (1|4) --> (0|3)
+2019/04/23 23:30:08  Board evaluation: -53
+2019/04/23 23:30:09  AI - medium explored 10861 node(s) in 0.325s
+2019/04/23 23:30:09  AI - medium moves (4|3) --> (3|4)
+2019/04/23 23:30:09  Board evaluation: -49
+2019/04/23 23:30:11  Player 1 moves (0|3) --> (1|2)
+2019/04/23 23:30:11  Board evaluation: -50
+2019/04/23 23:30:11  AI - medium explored 21800 node(s) in 0.655s
+2019/04/23 23:30:12  AI - medium moves (7|2) --> (6|3)
+2019/04/23 23:30:12  Board evaluation: -49
+2019/04/23 23:30:16  Player 1 moves (1|2) --> (2|1)
+2019/04/23 23:30:16  Board evaluation: -50
+2019/04/23 23:30:17  AI - medium explored 10770 node(s) in 0.321s
+2019/04/23 23:30:17  AI - medium moves (3|4) --> (2|5)
+2019/04/23 23:30:17  Board evaluation: -47
+2019/04/23 23:30:18  Player 1 moves (2|1) --> (3|0)
+2019/04/23 23:30:18  Board evaluation: -57
+2019/04/23 23:30:18  AI - medium explored 6572 node(s) in 0.217s
+2019/04/23 23:30:19  AI - medium moves (2|3) --> (3|4)
+2019/04/23 23:30:19  Board evaluation: -52
+2019/04/23 23:30:19  Player 1 moves (3|0) --> (4|1)
+2019/04/23 23:30:19  Board evaluation: -45
+2019/04/23 23:30:19  AI - medium explored 4733 node(s) in 0.161s
+2019/04/23 23:30:20  AI - medium moves (3|2) --> (4|3)
+2019/04/23 23:30:20  Board evaluation: -51
+2019/04/23 23:30:21  Player 1 moves (4|1) --> (3|2)
+2019/04/23 23:30:21  Board evaluation: -54
+2019/04/23 23:30:21  AI - medium explored 3390 node(s) in 0.112s
+2019/04/23 23:30:21  AI - medium moves (3|4) --> (4|5)
+2019/04/23 23:30:21  Board evaluation: -48
+2019/04/23 23:30:22  Player 1 moves (3|2) --> (2|3)
+2019/04/23 23:30:22  Board evaluation: -57
+2019/04/23 23:30:23  AI - medium explored 8245 node(s) in 0.28s
+2019/04/23 23:30:23  AI - medium moves (2|5) --> (3|6)
+2019/04/23 23:30:23  Board evaluation: -57
+2019/04/23 23:30:29  Player 1 moves (0|5) --> (1|4)
+2019/04/23 23:30:29  Board evaluation: -57
+2019/04/23 23:30:29  AI - medium explored 11520 node(s) in 0.376s
+2019/04/23 23:30:30  AI - medium moves (5|4) --> (6|5)
+2019/04/23 23:30:30  Board evaluation: -51
+2019/04/23 23:30:32  Player 1 rejected move (1|4) --> (1|4)
+2019/04/23 23:30:34  Player 1 moves (2|3) --> (3|2)
+2019/04/23 23:30:34  Board evaluation: -46
+2019/04/23 23:30:34  AI - medium explored 11148 node(s) in 0.364s
+2019/04/23 23:30:35  AI - medium moves (4|3) --> (5|4)
+2019/04/23 23:30:35  Board evaluation: -54
+2019/04/23 23:30:37  Player 1 moves (1|4) --> (0|3)
+2019/04/23 23:30:37  Board evaluation: -60
+2019/04/23 23:30:37  AI - medium explored 4927 node(s) in 0.167s
+2019/04/23 23:30:37  AI - medium moves (6|5) --> (5|6)
+2019/04/23 23:30:37  Board evaluation: -53
+2019/04/23 23:30:39  Player 1 moves (0|3) --> (1|2)
+2019/04/23 23:30:39  Board evaluation: -54
+2019/04/23 23:30:39  AI - medium explored 5885 node(s) in 0.183s
+2019/04/23 23:30:40  AI - medium moves (3|6) --> (4|7)
+2019/04/23 23:30:40  Board evaluation: -50
+2019/04/23 23:30:42  Player 1 moves (3|2) --> (2|3)
+2019/04/23 23:30:42  Board evaluation: -54
+2019/04/23 23:30:42  AI - medium explored 6005 node(s) in 0.19s
+2019/04/23 23:30:42  AI - medium moves (5|4) --> (6|5)
+2019/04/23 23:30:42  Board evaluation: -50
+2019/04/23 23:30:44  Player 1 moves (2|3) --> (3|4)
+2019/04/23 23:30:44  Board evaluation: -57
+2019/04/23 23:34:38  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 23:34:38  Player 1: Player 1
+2019/04/23 23:34:38  Player 2: AI - medium
+2019/04/23 23:34:38  Game started.
+2019/04/23 23:34:38  Board evaluation: 3
+2019/04/23 23:34:39  Player 1 moves (2|5) --> (3|4)
+2019/04/23 23:34:39  Board evaluation: -2
+2019/04/23 23:34:39  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:34:39  AI - medium moves (3|2) --> (2|3)
+2019/04/23 23:34:39  Board evaluation: 3
+2019/04/23 23:34:40  Player 1 moves (3|6) --> (2|5)
+2019/04/23 23:34:40  Board evaluation: 0
+2019/04/23 23:34:41  AI - medium explored 11990 node(s) in 0.376s
+2019/04/23 23:34:41  AI - medium moves (5|2) --> (4|3)
+2019/04/23 23:34:41  Board evaluation: 14
+2019/04/23 23:34:42  Player 1 captures (3|4) --> (5|2)
+2019/04/23 23:34:42  Board evaluation: 2
+2019/04/23 23:34:42  AI - medium explored 5793 node(s) in 0.172s
+2019/04/23 23:34:43  AI - medium captures (4|1) --> (6|3)
+2019/04/23 23:34:43  Board evaluation: -2
+2019/04/23 23:34:44  Player 1 moves (6|5) --> (7|4)
+2019/04/23 23:34:44  Board evaluation: -2
+2019/04/23 23:34:44  AI - medium explored 5538 node(s) in 0.175s
+2019/04/23 23:34:45  AI - medium moves (5|0) --> (4|1)
+2019/04/23 23:34:45  Board evaluation: 2
+2019/04/23 23:34:45  Player 1 captures (7|4) --> (5|2)
+2019/04/23 23:34:45  Board evaluation: -1
+2019/04/23 23:34:46  AI - medium explored 7629 node(s) in 0.24s
+2019/04/23 23:34:47  AI - medium captures (4|1) --> (6|3)
+2019/04/23 23:34:47  Board evaluation: -9
+2019/04/23 23:34:47  Player 1 moves (5|6) --> (6|5)
+2019/04/23 23:34:47  Board evaluation: -13
+2019/04/23 23:34:48  AI - medium explored 22971 node(s) in 0.614s
+2019/04/23 23:34:48  AI - medium moves (3|0) --> (4|1)
+2019/04/23 23:34:48  Board evaluation: -8
+2019/04/23 23:34:49  Player 1 moves (6|5) --> (7|4)
+2019/04/23 23:34:49  Board evaluation: -7
+2019/04/23 23:34:49  AI - medium explored 5694 node(s) in 0.179s
+2019/04/23 23:34:50  AI - medium moves (4|1) --> (3|2)
+2019/04/23 23:34:50  Board evaluation: -5
+2019/04/23 23:34:51  Player 1 captures (7|4) --> (5|2)
+2019/04/23 23:34:51  Board evaluation: -1
+2019/04/23 23:34:51  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:34:52  AI - medium captures (6|1) --> (4|3)
+2019/04/23 23:34:52  Board evaluation: -15
+2019/04/23 23:34:52  Player 1 moves (7|6) --> (6|5)
+2019/04/23 23:34:52  Board evaluation: -17
+2019/04/23 23:34:52  AI - medium explored 8626 node(s) in 0.229s
+2019/04/23 23:34:53  AI - medium moves (4|3) --> (3|4)
+2019/04/23 23:34:53  Board evaluation: -15
+2019/04/23 23:34:54  Player 1 rejected move (6|7) --> (5|6)
+2019/04/23 23:34:56  Player 1 captures (2|5) --> (4|3)
+2019/04/23 23:34:56  Board evaluation: -4
+2019/04/23 23:34:56  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:34:57  AI - medium captures (3|2) --> (5|4)
+2019/04/23 23:34:57  Board evaluation: -22
+2019/04/23 23:34:57  AI - medium explored 3735 node(s) in 0.111s
+2019/04/23 23:34:58  AI - medium captures (5|4) --> (7|6)
+2019/04/23 23:34:58  Board evaluation: -34
+2019/04/23 23:34:59  Player 1 moves (4|5) --> (5|4)
+2019/04/23 23:34:59  Board evaluation: -36
+2019/04/23 23:34:59  AI - medium explored 15711 node(s) in 0.489s
+2019/04/23 23:35:00  AI - medium moves (7|0) --> (6|1)
+2019/04/23 23:35:00  Board evaluation: -35
+2019/04/23 23:35:00  Player 1 moves (5|4) --> (4|3)
+2019/04/23 23:35:00  Board evaluation: -39
+2019/04/23 23:35:00  AI - medium explored 4598 node(s) in 0.148s
+2019/04/23 23:35:01  AI - medium moves (7|2) --> (6|3)
+2019/04/23 23:35:01  Board evaluation: -35
+2019/04/23 23:35:02  Player 1 moves (4|7) --> (5|6)
+2019/04/23 23:35:02  Board evaluation: -36
+2019/04/23 23:35:03  AI - medium explored 6482 node(s) in 0.201s
+2019/04/23 23:35:03  AI - medium moves (2|1) --> (3|2)
+2019/04/23 23:35:03  Board evaluation: -30
+2019/04/23 23:35:04  Player 1 captures (4|3) --> (2|1)
+2019/04/23 23:35:04  Board evaluation: -27
+2019/04/23 23:35:04  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:35:05  AI - medium captures (1|0) --> (3|2)
+2019/04/23 23:35:05  Board evaluation: -42
+2019/04/23 23:35:06  Player 1 moves (5|6) --> (6|5)
+2019/04/23 23:35:06  Board evaluation: -46
+2019/04/23 23:35:06  AI - medium explored 10528 node(s) in 0.319s
+2019/04/23 23:35:07  AI - medium moves (3|2) --> (4|3)
+2019/04/23 23:35:07  Board evaluation: -44
+2019/04/23 23:35:07  Player 1 moves (6|5) --> (7|4)
+2019/04/23 23:35:07  Board evaluation: -40
+2019/04/23 23:35:07  AI - medium explored 1837 node(s) in 0.059s
+2019/04/23 23:35:08  AI - medium moves (6|1) --> (5|2)
+2019/04/23 23:35:08  Board evaluation: -47
+2019/04/23 23:35:09  Player 1 moves (2|7) --> (3|6)
+2019/04/23 23:35:09  Board evaluation: -50
+2019/04/23 23:35:09  AI - medium explored 4120 node(s) in 0.125s
+2019/04/23 23:35:10  AI - medium moves (1|2) --> (0|3)
+2019/04/23 23:35:10  Board evaluation: -44
+2019/04/23 23:35:10  Player 1 moves (3|6) --> (4|5)
+2019/04/23 23:35:10  Board evaluation: -50
+2019/04/23 23:35:10  AI - medium explored 1377 node(s) in 0.062s
+2019/04/23 23:35:11  AI - medium moves (4|3) --> (5|4)
+2019/04/23 23:35:11  Board evaluation: -53
+2019/04/23 23:35:12  Player 1 moves (1|6) --> (2|5)
+2019/04/23 23:35:12  Board evaluation: -56
+2019/04/23 23:35:12  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:35:13  AI - medium captures (5|4) --> (3|6)
+2019/04/23 23:35:13  Board evaluation: -65
+2019/04/23 23:35:14  Player 1 moves (0|7) --> (1|6)
+2019/04/23 23:35:14  Board evaluation: -63
+2019/04/23 23:35:14  AI - medium explored 2194 node(s) in 0.08s
+2019/04/23 23:35:15  AI - medium moves (3|6) --> (4|7)
+2019/04/23 23:35:15  Board evaluation: -57
+2019/04/23 23:35:16  Player 1 moves (6|7) --> (5|6)
+2019/04/23 23:35:16  Board evaluation: -65
+2019/04/23 23:35:16  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:35:17  AI - medium captures (4|7) --> (6|5)
+2019/04/23 23:35:17  Board evaluation: -71
+2019/04/23 23:35:18  Player 1 moves (2|5) --> (3|4)
+2019/04/23 23:35:18  Board evaluation: -76
+2019/04/23 23:35:18  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:35:19  AI - medium captures (2|3) --> (4|5)
+2019/04/23 23:35:19  Board evaluation: -94
+2019/04/23 23:35:19  Player 1 moves (1|6) --> (2|5)
+2019/04/23 23:35:19  Board evaluation: -98
+2019/04/23 23:35:20  AI - medium explored 6423 node(s) in 0.25s
+2019/04/23 23:35:20  AI - medium moves (0|1) --> (1|2)
+2019/04/23 23:35:20  Board evaluation: -98
+2019/04/23 23:35:21  Player 1 moves (2|5) --> (3|4)
+2019/04/23 23:35:21  Board evaluation: -101
+2019/04/23 23:35:21  AI - medium explored 1107 node(s) in 0.065s
+2019/04/23 23:35:21  AI - medium moves (6|5) --> (5|4)
+2019/04/23 23:35:21  Board evaluation: -99
+2019/04/23 23:35:22  Player 1 moves (0|5) --> (1|4)
+2019/04/23 23:35:22  Board evaluation: -108
+2019/04/23 23:35:22  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:35:23  AI - medium captures (0|3) --> (2|5)
+2019/04/23 23:35:23  Board evaluation: -119
+2019/04/23 23:35:24  Player 1 moves (3|4) --> (2|3)
+2019/04/23 23:35:24  Board evaluation: -122
+2019/04/23 23:35:24  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:35:25  AI - medium captures (1|2) --> (3|4)
+2019/04/23 23:35:25  Player AI - medium has won the game!
+2019/04/23 23:35:26  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/23 23:35:26  Player 1: AI - medium
+2019/04/23 23:35:26  Player 2: Player 1
+2019/04/23 23:35:26  Game started.
+2019/04/23 23:35:26  Board evaluation: 3
+2019/04/23 23:35:26  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:35:27  AI - medium moves (0|5) --> (1|4)
+2019/04/23 23:35:27  Board evaluation: 1
+2019/04/23 23:35:28  Player 1 moves (3|2) --> (2|3)
+2019/04/23 23:35:28  Board evaluation: 6
+2019/04/23 23:35:28  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:35:29  AI - medium captures (1|4) --> (3|2)
+2019/04/23 23:35:29  Board evaluation: 4
+2019/04/23 23:35:30  Player 1 captures (2|1) --> (4|3)
+2019/04/23 23:35:30  Board evaluation: 3
+2019/04/23 23:35:30  AI - medium explored 15388 node(s) in 0.475s
+2019/04/23 23:35:31  AI - medium moves (6|5) --> (5|4)
+2019/04/23 23:35:31  Board evaluation: -2
+2019/04/23 23:35:31  Player 1 captures (4|3) --> (6|5)
+2019/04/23 23:35:31  Board evaluation: -3
+2019/04/23 23:35:32  AI - medium explored 16023 node(s) in 0.503s
+2019/04/23 23:35:33  AI - medium captures (7|6) --> (5|4)
+2019/04/23 23:35:33  Board evaluation: 3
+2019/04/23 23:35:33  Player 1 moves (7|2) --> (6|3)
+2019/04/23 23:35:33  Board evaluation: 13
+2019/04/23 23:35:33  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:35:34  AI - medium captures (5|4) --> (7|2)
+2019/04/23 23:35:34  Board evaluation: 19
+2019/04/23 23:35:35  Player 1 moves (5|2) --> (6|3)
+2019/04/23 23:35:35  Board evaluation: 23
+2019/04/23 23:35:36  AI - medium explored 48552 node(s) in 1.441s
+2019/04/23 23:35:37  AI - medium moves (4|5) --> (5|4)
+2019/04/23 23:35:37  Board evaluation: 10
+2019/04/23 23:35:38  Player 1 captures (6|3) --> (4|5)
+2019/04/23 23:35:38  Board evaluation: 20
+2019/04/23 23:35:39  AI - medium explored 18113 node(s) in 0.576s
+2019/04/23 23:35:40  AI - medium captures (5|6) --> (3|4)
+2019/04/23 23:35:40  Board evaluation: 26
+2019/04/23 23:35:41  Player 1 moves (4|1) --> (5|2)
+2019/04/23 23:35:41  Board evaluation: 28
+2019/04/23 23:35:41  AI - medium explored 15752 node(s) in 0.476s
+2019/04/23 23:35:42  AI - medium moves (6|7) --> (5|6)
+2019/04/23 23:35:42  Board evaluation: 26
+2019/04/23 23:35:42  Player 1 moves (5|2) --> (6|3)
+2019/04/23 23:35:42  Board evaluation: 29
+2019/04/23 23:35:43  AI - medium explored 29960 node(s) in 0.909s
+2019/04/23 23:35:44  AI - medium moves (5|6) --> (4|5)
+2019/04/23 23:35:44  Board evaluation: 27
+2019/04/23 23:35:45  Player 1 moves (6|3) --> (7|4)
+2019/04/23 23:35:45  Board evaluation: 30
+2019/04/23 23:35:46  AI - medium explored 29181 node(s) in 0.911s
+2019/04/23 23:35:46  AI - medium moves (4|7) --> (5|6)
+2019/04/23 23:35:46  Board evaluation: 28
+2019/04/23 23:35:48  Player 1 moves (1|2) --> (0|3)
+2019/04/23 23:35:48  Board evaluation: 35
+2019/04/23 23:35:48  AI - medium explored 11848 node(s) in 0.357s
+2019/04/23 23:35:49  AI - medium moves (1|6) --> (0|5)
+2019/04/23 23:35:49  Board evaluation: 29
+2019/04/23 23:35:49  Player 1 moves (0|1) --> (1|2)
+2019/04/23 23:35:50  Board evaluation: 29
+2019/04/23 23:35:50  AI - medium explored 18669 node(s) in 0.565s
+2019/04/23 23:35:51  AI - medium moves (0|7) --> (1|6)
+2019/04/23 23:35:51  Board evaluation: 29
+2019/04/23 23:35:51  Player 1 moves (1|0) --> (2|1)
+2019/04/23 23:35:51  Board evaluation: 31
+2019/04/23 23:35:51  AI - medium explored 3926 node(s) in 0.118s
+2019/04/23 23:35:52  AI - medium moves (0|5) --> (1|4)
+2019/04/23 23:35:52  Board evaluation: 29
+2019/04/23 23:35:53  Player 1 moves (2|1) --> (3|2)
+2019/04/23 23:35:53  Board evaluation: 33
+2019/04/23 23:35:53  AI - medium explored 1978 node(s) in 0.06s
+2019/04/23 23:35:53  AI - medium moves (1|4) --> (2|3)
+2019/04/23 23:35:53  Board evaluation: 39
+2019/04/23 23:35:54  Player 1 captures (3|2) --> (1|4)
+2019/04/23 23:35:54  Board evaluation: 10
+2019/04/23 23:35:54  AI - medium explored 3092 node(s) in 0.107s
+2019/04/23 23:35:55  AI - medium moves (1|6) --> (0|5)
+2019/04/23 23:35:55  Board evaluation: 11
+2019/04/23 23:35:57  Player 1 moves (1|2) --> (2|3)
+2019/04/23 23:35:57  Board evaluation: 15
+2019/04/23 23:35:57  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:35:58  AI - medium captures (3|4) --> (1|2)
+2019/04/23 23:35:58  Board evaluation: 33
+2019/04/23 23:35:59  Player 1 moves (3|0) --> (4|1)
+2019/04/23 23:35:59  Board evaluation: 36
+2019/04/23 23:35:59  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:36:00  AI - medium captures (0|5) --> (2|3)
+2019/04/23 23:36:00  Board evaluation: 54
+2019/04/23 23:36:01  Player 1 moves (4|1) --> (5|2)
+2019/04/23 23:36:01  Board evaluation: 56
+2019/04/23 23:36:02  AI - medium explored 11615 node(s) in 0.37s
+2019/04/23 23:36:02  AI - medium moves (2|3) --> (3|2)
+2019/04/23 23:36:02  Board evaluation: 49
+2019/04/23 23:36:03  Player 1 moves (5|2) --> (4|3)
+2019/04/23 23:36:03  Board evaluation: 57
+2019/04/23 23:36:03  AI - medium explored 10007 node(s) in 0.309s
+2019/04/23 23:36:04  AI - medium moves (4|5) --> (3|4)
+2019/04/23 23:36:04  Board evaluation: 58
+2019/04/23 23:36:05  Player 1 moves (6|1) --> (5|2)
+2019/04/23 23:36:05  Board evaluation: 53
+2019/04/23 23:36:05  AI - medium explored 11158 node(s) in 0.332s
+2019/04/23 23:36:06  AI - medium moves (3|4) --> (2|3)
+2019/04/23 23:36:06  Board evaluation: 52
+2019/04/23 23:36:07  Player 1 moves (5|2) --> (6|3)
+2019/04/23 23:36:07  Board evaluation: 60
+2019/04/23 23:36:07  AI - medium explored 16659 node(s) in 0.51s
+2019/04/23 23:36:08  AI - medium moves (3|6) --> (4|5)
+2019/04/23 23:36:08  Board evaluation: 56
+2019/04/23 23:36:09  Player 1 moves (4|3) --> (5|4)
+2019/04/23 23:36:09  Board evaluation: 48
+2019/04/23 23:36:09  AI - medium explored 9143 node(s) in 0.294s
+2019/04/23 23:36:10  AI - medium moves (1|2) --> (2|1)
+2019/04/23 23:36:10  Board evaluation: 45
+2019/04/23 23:36:10  Player 1 rejected move (5|4) --> (6|5)
+2019/04/23 23:36:11  Player 1 captures (5|4) --> (3|6)
+2019/04/23 23:36:11  Board evaluation: 46
+2019/04/23 23:36:12  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:36:13  AI - medium captures (2|7) --> (4|5)
+2019/04/23 23:36:13  Board evaluation: 67
+2019/04/23 23:36:14  Player 1 rejected move (5|0) --> (5|0)
+2019/04/23 23:36:18  Player 1 moves (7|0) --> (6|1)
+2019/04/23 23:36:18  Board evaluation: 67
+2019/04/23 23:36:18  AI - medium explored 7517 node(s) in 0.247s
+2019/04/23 23:36:19  AI - medium moves (4|5) --> (3|4)
+2019/04/23 23:36:19  Board evaluation: 62
+2019/04/23 23:36:20  Player 1 moves (6|1) --> (5|2)
+2019/04/23 23:36:20  Board evaluation: 65
+2019/04/23 23:36:20  AI - medium explored 6787 node(s) in 0.224s
+2019/04/23 23:36:20  AI - medium moves (5|6) --> (4|5)
+2019/04/23 23:36:20  Board evaluation: 62
+2019/04/23 23:36:22  Player 1 moves (7|4) --> (6|5)
+2019/04/23 23:36:22  Board evaluation: 65
+2019/04/23 23:36:23  AI - medium explored 12519 node(s) in 0.379s
+2019/04/23 23:36:23  AI - medium moves (2|3) --> (1|2)
+2019/04/23 23:36:23  Board evaluation: 57
+2019/04/23 23:36:24  Player 1 moves (6|5) --> (5|6)
+2019/04/23 23:36:24  Board evaluation: 58
+2019/04/23 23:36:25  AI - medium explored 19031 node(s) in 0.609s
+2019/04/23 23:36:25  AI - medium moves (2|1) --> (1|0)
+2019/04/23 23:36:25  Board evaluation: 51
+2019/04/23 23:36:26  Player 1 moves (5|6) --> (4|7)
+2019/04/23 23:36:26  Board evaluation: 58
+2019/04/23 23:36:26  AI - medium explored 19559 node(s) in 0.634s
+2019/04/23 23:36:27  AI - medium moves (3|4) --> (2|3)
+2019/04/23 23:36:27  Board evaluation: 54
+2019/04/23 23:36:27  Player 1 moves (4|7) --> (3|6)
+2019/04/23 23:36:27  Board evaluation: 42
+2019/04/23 23:36:28  AI - medium explored 6211 node(s) in 0.217s
+2019/04/23 23:36:28  AI - medium moves (1|2) --> (2|1)
+2019/04/23 23:36:28  Board evaluation: 39
+2019/04/23 23:36:31  Player 1 rejected move (3|6) --> (2|4)
+2019/04/23 23:36:32  Player 1 captures (3|6) --> (1|4)
+2019/04/23 23:36:32  Board evaluation: 42
+2019/04/23 23:36:33  AI - medium explored 6833 node(s) in 0.233s
+2019/04/23 23:36:33  AI - medium moves (2|1) --> (3|0)
+2019/04/23 23:36:33  Board evaluation: 36
+2019/04/23 23:36:34  Player 1 moves (1|4) --> (2|5)
+2019/04/23 23:36:34  Board evaluation: 40
+2019/04/23 23:36:35  AI - medium explored 29041 node(s) in 0.973s
+2019/04/23 23:36:35  AI - medium moves (2|3) --> (1|2)
+2019/04/23 23:36:35  Board evaluation: 34
+2019/04/23 23:36:37  Player 1 moves (2|5) --> (3|6)
+2019/04/23 23:36:37  Board evaluation: 32
+2019/04/23 23:36:37  AI - medium explored 8348 node(s) in 0.306s
+2019/04/23 23:36:38  AI - medium moves (4|5) --> (3|4)
+2019/04/23 23:36:38  Board evaluation: 34
+2019/04/23 23:36:38  Player 1 moves (3|6) --> (4|5)
+2019/04/23 23:36:38  Board evaluation: 32
+2019/04/23 23:36:39  AI - medium explored 7971 node(s) in 0.28s
+2019/04/23 23:36:39  AI - medium moves (3|4) --> (2|3)
+2019/04/23 23:36:39  Board evaluation: 33
+2019/04/23 23:36:40  Player 1 moves (4|5) --> (3|4)
+2019/04/23 23:36:40  Board evaluation: 39
+2019/04/23 23:36:41  AI - medium explored 23721 node(s) in 0.856s
+2019/04/23 23:36:41  AI - medium moves (1|0) --> (0|1)
+2019/04/23 23:36:41  Board evaluation: 33
+2019/04/23 23:36:42  Player 1 moves (3|4) --> (4|3)
+2019/04/23 23:36:42  Board evaluation: 30
+2019/04/23 23:36:42  AI - medium explored 6415 node(s) in 0.321s
+2019/04/23 23:36:43  AI - medium moves (0|1) --> (1|0)
+2019/04/23 23:36:43  Board evaluation: 24
+2019/04/23 23:36:44  Player 1 captures (4|3) --> (2|1)
+2019/04/23 23:36:44  Board evaluation: 25
+2019/04/23 23:36:44  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:36:45  AI - medium captures (1|0) --> (3|2)
+2019/04/23 23:36:45  Board evaluation: 45
+2019/04/23 23:36:46  Player 1 moves (6|3) --> (5|4)
+2019/04/23 23:36:46  Board evaluation: 49
+2019/04/23 23:36:46  AI - medium explored 11515 node(s) in 0.439s
+2019/04/23 23:36:47  AI - medium moves (3|0) --> (4|1)
+2019/04/23 23:36:47  Board evaluation: 52
+2019/04/23 23:36:48  Player 1 moves (5|2) --> (6|3)
+2019/04/23 23:36:48  Board evaluation: 50
+2019/04/23 23:36:48  AI - medium explored 14464 node(s) in 0.545s
+2019/04/23 23:36:49  AI - medium moves (4|1) --> (5|2)
+2019/04/23 23:36:49  Board evaluation: 55
+2019/04/23 23:36:49  Player 1 moves (6|3) --> (7|4)
+2019/04/23 23:36:49  Board evaluation: 57
+2019/04/23 23:36:50  AI - medium explored 27435 node(s) in 1.052s
+2019/04/23 23:36:51  AI - medium moves (1|2) --> (2|1)
+2019/04/23 23:36:51  Board evaluation: 54
+2019/04/23 23:36:51  Player 1 moves (5|4) --> (6|5)
+2019/04/23 23:36:51  Board evaluation: 56
+2019/04/23 23:36:54  AI - medium explored 53693 node(s) in 2.255s
+2019/04/23 23:36:54  AI - medium moves (2|1) --> (1|0)
+2019/04/23 23:36:54  Board evaluation: 50
+2019/04/23 23:36:55  Player 1 moves (6|5) --> (5|6)
+2019/04/23 23:36:55  Board evaluation: 58
+2019/04/23 23:36:58  AI - medium explored 63550 node(s) in 3.197s
+2019/04/23 23:36:59  AI - medium moves (3|2) --> (4|3)
+2019/04/23 23:36:59  Board evaluation: 54
+2019/04/23 23:36:59  Player 1 moves (5|6) --> (4|7)
+2019/04/23 23:36:59  Board evaluation: 57
+2019/04/23 23:37:04  AI - medium explored 83286 node(s) in 4.248s
+2019/04/23 23:37:04  AI - medium moves (2|3) --> (1|2)
+2019/04/23 23:37:04  Board evaluation: 47
+2019/04/23 23:37:05  Player 1 moves (4|7) --> (3|6)
+2019/04/23 23:37:05  Board evaluation: 51
+2019/04/23 23:37:09  AI - medium explored 85441 node(s) in 4.276s
+2019/04/23 23:37:10  AI - medium moves (4|3) --> (3|4)
+2019/04/23 23:37:10  Board evaluation: 49
+2019/04/23 23:37:10  Player 1 moves (7|4) --> (6|5)
+2019/04/23 23:37:10  Board evaluation: 52
+2019/04/23 23:37:14  AI - medium explored 80424 node(s) in 3.445s
+2019/04/23 23:37:14  AI - medium moves (5|2) --> (6|3)
+2019/04/23 23:37:14  Board evaluation: 46
+2019/04/23 23:37:15  Player 1 moves (6|5) --> (5|6)
+2019/04/23 23:37:15  Board evaluation: 48
+2019/04/23 23:37:20  AI - medium explored 117074 node(s) in 5.707s
+2019/04/23 23:37:21  AI - medium moves (3|4) --> (4|5)
+2019/04/23 23:37:21  Board evaluation: 50
+2019/04/23 23:37:24  Player 1 captures (3|6) --> (5|4)
+2019/04/23 23:37:24  Board evaluation: 22
+2019/04/23 23:37:24  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:37:25  AI - medium captures (6|3) --> (4|5)
+2019/04/23 23:37:25  Board evaluation: 49
+2019/04/23 23:37:25  AI - medium explored 1 node(s) in 0.0s
+2019/04/23 23:37:26  AI - medium captures (4|5) --> (6|7)
+2019/04/23 23:37:26  Board evaluation: 68
+2019/04/23 23:37:27  Player 1 moves (0|3) --> (1|4)
+2019/04/23 23:37:27  Board evaluation: 68
+2019/04/23 23:37:28  AI - medium explored 7314 node(s) in 0.378s
+2019/04/23 23:37:28  AI - medium moves (1|0) --> (2|1)
+2019/04/23 23:37:28  Board evaluation: 66
+2019/04/23 23:37:29  Player 1 moves (1|4) --> (0|5)
+2019/04/23 23:37:29  Board evaluation: 75
+2019/04/23 23:37:29  AI - medium explored 7331 node(s) in 0.425s
+2019/04/23 23:37:30  AI - medium moves (2|1) --> (3|2)
+2019/04/23 23:37:30  Board evaluation: 70
+2019/04/23 23:37:30  Player 1 moves (0|5) --> (1|6)
+2019/04/23 23:37:30  Board evaluation: 74
+2019/04/23 23:37:31  AI - medium explored 16406 node(s) in 0.889s
+2019/04/23 23:37:31  AI - medium moves (6|7) --> (5|6)
+2019/04/23 23:37:31  Board evaluation: 71
+2019/04/23 23:37:32  Player 1 moves (1|6) --> (2|7)
+2019/04/23 23:37:32  Board evaluation: 72
+2019/04/23 23:37:33  AI - medium explored 21344 node(s) in 1.105s
+2019/04/23 23:37:33  AI - medium moves (5|6) --> (4|5)
+2019/04/23 23:37:34  Board evaluation: 67
+2019/04/23 23:37:35  Player 1 moves (2|7) --> (1|6)
+2019/04/23 23:37:35  Board evaluation: 74
+2019/04/23 23:37:36  AI - medium explored 32417 node(s) in 1.661s
+2019/04/23 23:37:37  AI - medium moves (4|5) --> (3|4)
+2019/04/23 23:37:37  Board evaluation: 68
+2019/04/23 23:37:38  Game quit.
+2019/04/27 22:25:53  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 22:25:53  Player 1: AI - medium
+2019/04/27 22:25:53  Player 2: AI - medium
+2019/04/27 22:25:53  Game started.
+2019/04/27 22:25:53  Board evaluation: 3
+2019/04/27 22:25:53  AI - medium explored 1 node(s) in 0.001s
+2019/04/27 22:25:54  AI - medium moves (4|5) --> (3|4)
+2019/04/27 22:25:54  Board evaluation: -2
+2019/04/27 22:25:54  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:25:54  AI - medium moves (1|2) --> (0|3)
+2019/04/27 22:25:54  Board evaluation: 7
+2019/04/27 22:25:55  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:25:55  AI - medium moves (3|6) --> (4|5)
+2019/04/27 22:25:55  Board evaluation: 2
+2019/04/27 22:25:56  AI - medium explored 10612 node(s) in 0.749s
+2019/04/27 22:25:56  AI - medium moves (0|1) --> (1|2)
+2019/04/27 22:25:56  Board evaluation: 2
+2019/04/27 22:25:57  AI - medium explored 5491 node(s) in 0.351s
+2019/04/27 22:25:57  AI - medium moves (6|5) --> (5|4)
+2019/04/27 22:25:57  Board evaluation: -2
+2019/04/27 22:25:58  AI - medium explored 11030 node(s) in 0.517s
+2019/04/27 22:25:59  AI - medium moves (5|2) --> (4|3)
+2019/04/27 22:25:59  Board evaluation: 4
+2019/04/27 22:25:59  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:26:00  AI - medium captures (3|4) --> (5|2)
+2019/04/27 22:26:00  Board evaluation: 2
+2019/04/27 22:26:00  AI - medium explored 11519 node(s) in 0.625s
+2019/04/27 22:26:01  AI - medium captures (6|1) --> (4|3)
+2019/04/27 22:26:01  Board evaluation: -7
+2019/04/27 22:26:01  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:26:02  AI - medium captures (4|3) --> (6|5)
+2019/04/27 22:26:03  Board evaluation: -8
+2019/04/27 22:26:04  AI - medium explored 20457 node(s) in 1.166s
+2019/04/27 22:26:05  AI - medium captures (7|6) --> (5|4)
+2019/04/27 22:26:05  Board evaluation: 0
+2019/04/27 22:26:07  AI - medium explored 36751 node(s) in 1.918s
+2019/04/27 22:26:07  AI - medium moves (7|0) --> (6|1)
+2019/04/27 22:26:07  Board evaluation: 1
+2019/04/27 22:26:09  AI - medium explored 27635 node(s) in 1.408s
+2019/04/27 22:26:09  AI - medium moves (2|5) --> (1|4)
+2019/04/27 22:26:09  Board evaluation: -11
+2019/04/27 22:26:09  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:26:10  AI - medium captures (0|3) --> (2|5)
+2019/04/27 22:26:10  Board evaluation: -11
+2019/04/27 22:26:10  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:26:12  AI - medium captures (1|6) --> (3|4)
+2019/04/27 22:26:12  Board evaluation: -1
+2019/04/27 22:26:13  AI - medium explored 25102 node(s) in 1.227s
+2019/04/27 22:26:13  AI - medium moves (1|0) --> (0|1)
+2019/04/27 22:26:13  Board evaluation: 4
+2019/04/27 22:26:15  AI - medium explored 19301 node(s) in 1.112s
+2019/04/27 22:26:15  AI - medium moves (2|7) --> (1|6)
+2019/04/27 22:26:15  Board evaluation: 2
+2019/04/27 22:26:16  AI - medium explored 10434 node(s) in 0.542s
+2019/04/27 22:26:16  AI - medium moves (6|1) --> (5|2)
+2019/04/27 22:26:16  Board evaluation: 4
+2019/04/27 22:26:17  AI - medium explored 6415 node(s) in 0.314s
+2019/04/27 22:26:17  AI - medium moves (1|6) --> (2|5)
+2019/04/27 22:26:17  Board evaluation: -1
+2019/04/27 22:26:18  AI - medium explored 16898 node(s) in 0.759s
+2019/04/27 22:26:18  AI - medium moves (1|2) --> (2|3)
+2019/04/27 22:26:18  Board evaluation: 13
+2019/04/27 22:26:19  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:26:20  AI - medium captures (3|4) --> (1|2)
+2019/04/27 22:26:20  Board evaluation: 4
+2019/04/27 22:26:20  AI - medium explored 12637 node(s) in 0.639s
+2019/04/27 22:26:21  AI - medium captures (2|1) --> (0|3)
+2019/04/27 22:26:21  Board evaluation: 3
+2019/04/27 22:26:23  AI - medium explored 26536 node(s) in 1.377s
+2019/04/27 22:26:23  AI - medium moves (0|7) --> (1|6)
+2019/04/27 22:26:23  Board evaluation: 2
+2019/04/27 22:26:25  AI - medium explored 29219 node(s) in 1.337s
+2019/04/27 22:26:25  AI - medium moves (0|1) --> (1|2)
+2019/04/27 22:26:25  Board evaluation: 2
+2019/04/27 22:26:26  AI - medium explored 12100 node(s) in 0.599s
+2019/04/27 22:26:26  AI - medium moves (6|7) --> (7|6)
+2019/04/27 22:26:26  Board evaluation: -3
+2019/04/27 22:26:27  AI - medium explored 10104 node(s) in 0.393s
+2019/04/27 22:26:27  AI - medium moves (3|2) --> (4|3)
+2019/04/27 22:26:27  Board evaluation: 1
+2019/04/27 22:26:27  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:26:28  AI - medium captures (5|4) --> (3|2)
+2019/04/27 22:26:28  Board evaluation: 7
+2019/04/27 22:26:29  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:26:30  AI - medium captures (4|1) --> (2|3)
+2019/04/27 22:26:30  Board evaluation: -3
+2019/04/27 22:26:30  AI - medium explored 14054 node(s) in 0.707s
+2019/04/27 22:26:31  AI - medium moves (4|5) --> (5|4)
+2019/04/27 22:26:31  Board evaluation: -8
+2019/04/27 22:26:32  AI - medium explored 10325 node(s) in 0.598s
+2019/04/27 22:26:32  AI - medium moves (3|0) --> (4|1)
+2019/04/27 22:26:32  Board evaluation: -6
+2019/04/27 22:26:32  AI - medium explored 5336 node(s) in 0.311s
+2019/04/27 22:26:33  AI - medium moves (5|6) --> (4|5)
+2019/04/27 22:26:33  Board evaluation: -9
+2019/04/27 22:26:33  AI - medium explored 4579 node(s) in 0.285s
+2019/04/27 22:26:34  AI - medium moves (5|0) --> (6|1)
+2019/04/27 22:26:34  Board evaluation: -6
+2019/04/27 22:26:34  AI - medium explored 3486 node(s) in 0.197s
+2019/04/27 22:26:35  AI - medium moves (2|5) --> (3|4)
+2019/04/27 22:26:35  Board evaluation: -10
+2019/04/27 22:26:35  AI - medium explored 3044 node(s) in 0.148s
+2019/04/27 22:26:35  AI - medium moves (5|2) --> (6|3)
+2019/04/27 22:26:35  Board evaluation: -6
+2019/04/27 22:26:36  AI - medium explored 5637 node(s) in 0.314s
+2019/04/27 22:26:36  AI - medium moves (7|6) --> (6|5)
+2019/04/27 22:26:36  Board evaluation: -6
+2019/04/27 22:26:37  AI - medium explored 2217 node(s) in 0.112s
+2019/04/27 22:26:37  AI - medium moves (6|1) --> (5|2)
+2019/04/27 22:26:37  Board evaluation: -4
+2019/04/27 22:26:37  AI - medium explored 1639 node(s) in 0.11s
+2019/04/27 22:26:38  AI - medium moves (6|5) --> (7|4)
+2019/04/27 22:26:38  Board evaluation: -11
+2019/04/27 22:26:38  AI - medium explored 343 node(s) in 0.022s
+2019/04/27 22:26:38  AI - medium moves (0|3) --> (1|4)
+2019/04/27 22:26:38  Board evaluation: -9
+2019/04/27 22:26:38  AI - medium explored 287 node(s) in 0.021s
+2019/04/27 22:26:39  AI - medium moves (4|7) --> (3|6)
+2019/04/27 22:26:39  Board evaluation: -12
+2019/04/27 22:26:39  AI - medium explored 117 node(s) in 0.008s
+2019/04/27 22:26:40  AI - medium moves (4|1) --> (3|2)
+2019/04/27 22:26:40  Board evaluation: -9
+2019/04/27 22:26:40  AI - medium explored 219 node(s) in 0.058s
+2019/04/27 22:26:40  AI - medium moves (1|6) --> (2|5)
+2019/04/27 22:26:40  Board evaluation: -3
+2019/04/27 22:26:40  AI - medium explored 105 node(s) in 0.007s
+2019/04/27 22:26:41  AI - medium moves (1|2) --> (0|3)
+2019/04/27 22:26:41  Board evaluation: 1
+2019/04/27 22:26:41  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:26:42  AI - medium captures (3|4) --> (1|2)
+2019/04/27 22:26:42  Board evaluation: 19
+2019/04/27 22:26:42  AI - medium explored 181 node(s) in 0.014s
+2019/04/27 22:26:43  AI - medium moves (3|2) --> (2|3)
+2019/04/27 22:26:43  Board evaluation: 17
+2019/04/27 22:26:43  AI - medium explored 462 node(s) in 0.028s
+2019/04/27 22:26:43  AI - medium moves (2|5) --> (3|4)
+2019/04/27 22:26:43  Board evaluation: 14
+2019/04/27 22:26:43  AI - medium explored 49 node(s) in 0.004s
+2019/04/27 22:26:44  AI - medium moves (5|2) --> (4|3)
+2019/04/27 22:26:44  Board evaluation: 27
+2019/04/27 22:26:44  AI - medium explored 198 node(s) in 0.021s
+2019/04/27 22:26:45  AI - medium captures (3|4) --> (5|2)
+2019/04/27 22:26:45  Board evaluation: 36
+2019/04/27 22:26:45  AI - medium explored 214 node(s) in 0.021s
+2019/04/27 22:26:45  AI - medium moves (2|3) --> (3|4)
+2019/04/27 22:26:45  Board evaluation: 51
+2019/04/27 22:26:46  AI - medium explored 659 node(s) in 0.062s
+2019/04/27 22:26:47  AI - medium captures (0|5) --> (2|3)
+2019/04/27 22:26:47  Board evaluation: 56
+2019/04/27 22:26:47  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:26:48  AI - medium captures (3|4) --> (5|6)
+2019/04/27 22:26:48  Board evaluation: 42
+2019/04/27 22:26:48  AI - medium explored 4235 node(s) in 0.284s
+2019/04/27 22:26:49  AI - medium moves (3|6) --> (4|5)
+2019/04/27 22:26:49  Board evaluation: 47
+2019/04/27 22:26:49  AI - medium explored 4095 node(s) in 0.26s
+2019/04/27 22:26:49  AI - medium moves (5|6) --> (4|7)
+2019/04/27 22:26:49  Board evaluation: 49
+2019/04/27 22:26:50  AI - medium explored 5662 node(s) in 0.331s
+2019/04/27 22:26:50  AI - medium moves (5|2) --> (6|1)
+2019/04/27 22:26:50  Board evaluation: 56
+2019/04/27 22:26:50  AI - medium explored 1339 node(s) in 0.083s
+2019/04/27 22:26:51  AI - medium moves (4|7) --> (5|6)
+2019/04/27 22:26:51  Board evaluation: 55
+2019/04/27 22:26:51  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:26:52  AI - medium captures (7|4) --> (5|2)
+2019/04/27 22:26:52  Board evaluation: 66
+2019/04/27 22:26:52  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:26:53  AI - medium captures (5|6) --> (3|4)
+2019/04/27 22:26:53  Board evaluation: 59
+2019/04/27 22:26:54  AI - medium explored 8268 node(s) in 0.776s
+2019/04/27 22:26:55  AI - medium moves (6|1) --> (5|0)
+2019/04/27 22:26:55  Board evaluation: 53
+2019/04/27 22:26:55  AI - medium explored 8281 node(s) in 0.513s
+2019/04/27 22:26:56  AI - medium moves (3|4) --> (4|5)
+2019/04/27 22:26:56  Board evaluation: 48
+2019/04/27 22:26:56  AI - medium explored 2378 node(s) in 0.165s
+2019/04/27 22:26:56  AI - medium moves (5|4) --> (4|3)
+2019/04/27 22:26:56  Board evaluation: 53
+2019/04/27 22:26:58  AI - medium explored 20103 node(s) in 1.288s
+2019/04/27 22:26:58  AI - medium moves (0|3) --> (1|4)
+2019/04/27 22:26:58  Board evaluation: 52
+2019/04/27 22:27:00  AI - medium explored 22424 node(s) in 1.458s
+2019/04/27 22:27:00  AI - medium moves (1|2) --> (2|1)
+2019/04/27 22:27:00  Board evaluation: 45
+2019/04/27 22:27:02  AI - medium explored 30914 node(s) in 1.937s
+2019/04/27 22:27:03  AI - medium moves (7|2) --> (6|3)
+2019/04/27 22:27:03  Board evaluation: 43
+2019/04/27 22:27:06  AI - medium explored 49839 node(s) in 3.174s
+2019/04/27 22:27:07  AI - medium moves (2|1) --> (1|0)
+2019/04/27 22:27:07  Board evaluation: 39
+2019/04/27 22:27:09  AI - medium explored 36847 node(s) in 2.303s
+2019/04/27 22:27:09  AI - medium moves (6|3) --> (5|4)
+2019/04/27 22:27:09  Board evaluation: 44
+2019/04/27 22:27:13  AI - medium explored 48963 node(s) in 3.301s
+2019/04/27 22:27:13  AI - medium moves (4|3) --> (3|2)
+2019/04/27 22:27:13  Board evaluation: 40
+2019/04/27 22:27:17  AI - medium explored 59574 node(s) in 3.745s
+2019/04/27 22:27:18  AI - medium moves (5|4) --> (6|5)
+2019/04/27 22:27:18  Board evaluation: 45
+2019/04/27 22:27:21  AI - medium explored 47542 node(s) in 2.88s
+2019/04/27 22:27:21  AI - medium moves (5|0) --> (6|1)
+2019/04/27 22:27:21  Board evaluation: 41
+2019/04/27 22:27:25  AI - medium explored 52335 node(s) in 3.352s
+2019/04/27 22:27:25  AI - medium moves (6|5) --> (7|6)
+2019/04/27 22:27:25  Board evaluation: 48
+2019/04/27 22:27:32  AI - medium explored 92503 node(s) in 6.449s
+2019/04/27 22:27:32  AI - medium moves (5|2) --> (4|1)
+2019/04/27 22:27:32  Board evaluation: 44
+2019/04/27 22:27:37  AI - medium explored 62742 node(s) in 4.339s
+2019/04/27 22:27:37  AI - medium moves (7|6) --> (6|7)
+2019/04/27 22:27:37  Board evaluation: 47
+2019/04/27 22:27:43  AI - medium explored 87782 node(s) in 6.049s
+2019/04/27 22:27:44  AI - medium moves (6|1) --> (5|2)
+2019/04/27 22:27:44  Board evaluation: 43
+2019/04/27 22:27:47  AI - medium explored 56156 node(s) in 3.597s
+2019/04/27 22:27:48  AI - medium moves (6|7) --> (5|6)
+2019/04/27 22:27:48  Board evaluation: 45
+2019/04/27 22:27:51  AI - medium explored 51028 node(s) in 3.261s
+2019/04/27 22:27:52  AI - medium moves (4|1) --> (5|0)
+2019/04/27 22:27:52  Board evaluation: 39
+2019/04/27 22:27:55  Game quit.
+2019/04/27 22:33:59  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 22:33:59  Player 1: AI - medium
+2019/04/27 22:33:59  Player 2: AI - medium
+2019/04/27 22:33:59  Game started.
+2019/04/27 22:33:59  Board evaluation: 3
+2019/04/27 22:34:00  AI - medium explored 1 node(s) in 0.001s
+2019/04/27 22:34:00  AI - medium moves (4|5) --> (3|4)
+2019/04/27 22:34:00  Board evaluation: -2
+2019/04/27 22:34:00  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:01  AI - medium moves (3|2) --> (2|3)
+2019/04/27 22:34:01  Board evaluation: -4
+2019/04/27 22:34:01  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:01  AI - medium moves (6|5) --> (7|4)
+2019/04/27 22:34:02  Board evaluation: -12
+2019/04/27 22:34:02  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:03  AI - medium captures (2|3) --> (4|5)
+2019/04/27 22:34:03  Board evaluation: -5
+2019/04/27 22:34:04  AI - medium explored 12007 node(s) in 0.905s
+2019/04/27 22:34:05  AI - medium captures (5|6) --> (3|4)
+2019/04/27 22:34:05  Board evaluation: -1
+2019/04/27 22:34:06  AI - medium explored 24596 node(s) in 1.313s
+2019/04/27 22:34:07  AI - medium moves (5|2) --> (6|3)
+2019/04/27 22:34:07  Board evaluation: 12
+2019/04/27 22:34:07  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:08  AI - medium captures (7|4) --> (5|2)
+2019/04/27 22:34:08  Board evaluation: 7
+2019/04/27 22:34:08  AI - medium explored 11772 node(s) in 0.676s
+2019/04/27 22:34:09  AI - medium captures (6|1) --> (4|3)
+2019/04/27 22:34:09  Board evaluation: 12
+2019/04/27 22:34:09  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:11  AI - medium captures (3|4) --> (5|2)
+2019/04/27 22:34:11  Board evaluation: 12
+2019/04/27 22:34:11  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:12  AI - medium captures (4|1) --> (6|3)
+2019/04/27 22:34:12  Board evaluation: -3
+2019/04/27 22:34:17  AI - medium explored 86381 node(s) in 5.136s
+2019/04/27 22:34:17  AI - medium moves (7|6) --> (6|5)
+2019/04/27 22:34:17  Board evaluation: -4
+2019/04/27 22:34:20  AI - medium explored 53246 node(s) in 2.848s
+2019/04/27 22:34:21  AI - medium moves (3|0) --> (4|1)
+2019/04/27 22:34:21  Board evaluation: -1
+2019/04/27 22:34:23  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 22:34:23  Player 1: AI - medium
+2019/04/27 22:34:23  Player 2: AI - medium
+2019/04/27 22:34:23  Game started.
+2019/04/27 22:34:23  Board evaluation: 3
+2019/04/27 22:34:23  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:24  AI - medium moves (4|5) --> (3|4)
+2019/04/27 22:34:24  Board evaluation: -2
+2019/04/27 22:34:24  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:24  AI - medium moves (3|2) --> (4|3)
+2019/04/27 22:34:24  Board evaluation: 3
+2019/04/27 22:34:24  AI - medium explored 1 node(s) in 0.002s
+2019/04/27 22:34:24  AI - medium rejected move (4|7) --> (5|6)
+2019/04/27 22:34:24  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:25  AI - medium moves (3|6) --> (4|5)
+2019/04/27 22:34:25  Board evaluation: 0
+2019/04/27 22:34:25  AI - medium rejected move (6|5) --> (7|4)
+2019/04/27 22:34:25  AI - medium explored 11998 node(s) in 0.631s
+2019/04/27 22:34:26  AI - medium explored 14869 node(s) in 0.621s
+2019/04/27 22:34:26  AI - medium moves (4|1) --> (3|2)
+2019/04/27 22:34:26  Board evaluation: 3
+2019/04/27 22:34:26  AI - medium rejected move (4|1) --> (3|2)
+2019/04/27 22:34:26  AI - medium explored 7517 node(s) in 0.399s
+2019/04/27 22:34:27  AI - medium explored 10863 node(s) in 0.52s
+2019/04/27 22:34:27  AI - medium moves (2|7) --> (3|6)
+2019/04/27 22:34:27  Board evaluation: 1
+2019/04/27 22:34:27  AI - medium rejected move (2|7) --> (3|6)
+2019/04/27 22:34:27  AI - medium explored 581 node(s) in 0.285s
+2019/04/27 22:34:28  AI - medium explored 4428 node(s) in 0.278s
+2019/04/27 22:34:28  AI - medium moves (5|0) --> (4|1)
+2019/04/27 22:34:28  Board evaluation: 3
+2019/04/27 22:34:28  AI - medium explored 1875 node(s) in 0.131s
+2019/04/27 22:34:28  AI - medium rejected move (5|0) --> (4|1)
+2019/04/27 22:34:28  AI - medium explored 1875 node(s) in 0.109s
+2019/04/27 22:34:29  AI - medium moves (6|5) --> (5|4)
+2019/04/27 22:34:29  Board evaluation: -10
+2019/04/27 22:34:29  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:29  AI - medium rejected move (3|4) --> (2|3)
+2019/04/27 22:34:29  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:30  AI - medium captures (4|3) --> (6|5)
+2019/04/27 22:34:30  Board evaluation: -2
+2019/04/27 22:34:30  AI - medium rejected move (4|3) --> (6|5)
+2019/04/27 22:34:31  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 22:34:31  Player 1: AI - medium
+2019/04/27 22:34:31  Player 2: AI - medium
+2019/04/27 22:34:31  Game started.
+2019/04/27 22:34:31  Board evaluation: 3
+2019/04/27 22:34:31  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:31  AI - medium rejected move (7|6) --> (5|4)
+2019/04/27 22:34:31  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:32  AI - medium moves (6|5) --> (7|4)
+2019/04/27 22:34:32  Board evaluation: -5
+2019/04/27 22:34:32  AI - medium rejected move (2|5) --> (3|4)
+2019/04/27 22:34:32  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:32  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:32  AI - medium moves (5|2) --> (4|3)
+2019/04/27 22:34:32  Board evaluation: 1
+2019/04/27 22:34:32  AI - medium rejected move (7|2) --> (6|3)
+2019/04/27 22:34:32  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:32  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:33  AI - medium moves (7|4) --> (6|3)
+2019/04/27 22:34:33  Board evaluation: -9
+2019/04/27 22:34:33  AI - medium rejected move (2|5) --> (3|4)
+2019/04/27 22:34:33  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:33  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:34  AI - medium captures (7|2) --> (5|4)
+2019/04/27 22:34:34  Board evaluation: -11
+2019/04/27 22:34:34  AI - medium rejected move (7|2) --> (5|4)
+2019/04/27 22:34:34  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:34  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:34:35  Game quit.
+2019/04/27 22:35:22  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 22:35:22  Player 1: AI - easy
+2019/04/27 22:35:22  Player 2: AI - easy
+2019/04/27 22:35:22  Game started.
+2019/04/27 22:35:22  Board evaluation: 3
+2019/04/27 22:35:23  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:23  AI - easy moves (0|5) --> (1|4)
+2019/04/27 22:35:23  Board evaluation: 1
+2019/04/27 22:35:23  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:24  AI - easy moves (5|2) --> (4|3)
+2019/04/27 22:35:24  Board evaluation: 6
+2019/04/27 22:35:24  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:24  AI - easy moves (4|5) --> (5|4)
+2019/04/27 22:35:24  Board evaluation: 1
+2019/04/27 22:35:25  AI - easy explored 430 node(s) in 0.059s
+2019/04/27 22:35:25  AI - easy moves (1|2) --> (2|3)
+2019/04/27 22:35:25  Board evaluation: -2
+2019/04/27 22:35:25  AI - easy explored 501 node(s) in 0.046s
+2019/04/27 22:35:26  AI - easy moves (1|6) --> (0|5)
+2019/04/27 22:35:26  Board evaluation: 0
+2019/04/27 22:35:28  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 22:35:28  Player 1: AI - easy
+2019/04/27 22:35:28  Player 2: AI - easy
+2019/04/27 22:35:28  Game started.
+2019/04/27 22:35:28  Board evaluation: 3
+2019/04/27 22:35:28  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:29  AI - easy moves (4|5) --> (5|4)
+2019/04/27 22:35:29  Board evaluation: -2
+2019/04/27 22:35:29  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:30  AI - easy moves (3|2) --> (4|3)
+2019/04/27 22:35:30  Board evaluation: 10
+2019/04/27 22:35:30  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:31  AI - easy captures (5|4) --> (3|2)
+2019/04/27 22:35:31  Board evaluation: 2
+2019/04/27 22:35:31  AI - easy explored 203 node(s) in 0.02s
+2019/04/27 22:35:32  AI - easy captures (4|1) --> (2|3)
+2019/04/27 22:35:32  Board evaluation: 0
+2019/04/27 22:35:32  AI - easy explored 942 node(s) in 0.065s
+2019/04/27 22:35:32  AI - easy moves (2|5) --> (3|4)
+2019/04/27 22:35:32  Board evaluation: -14
+2019/04/27 22:35:32  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:33  AI - easy captures (2|3) --> (4|5)
+2019/04/27 22:35:33  Board evaluation: -4
+2019/04/27 22:35:34  AI - easy explored 482 node(s) in 0.026s
+2019/04/27 22:35:35  AI - easy captures (3|6) --> (5|4)
+2019/04/27 22:35:35  Board evaluation: 0
+2019/04/27 22:35:35  AI - easy explored 980 node(s) in 0.053s
+2019/04/27 22:35:35  AI - easy moves (5|2) --> (4|3)
+2019/04/27 22:35:35  Board evaluation: 12
+2019/04/27 22:35:35  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:36  AI - easy captures (5|4) --> (3|2)
+2019/04/27 22:35:36  Board evaluation: 11
+2019/04/27 22:35:36  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:37  AI - easy captures (2|1) --> (4|3)
+2019/04/27 22:35:37  Board evaluation: 0
+2019/04/27 22:35:38  AI - easy explored 1857 node(s) in 0.154s
+2019/04/27 22:35:38  AI - easy moves (6|5) --> (5|4)
+2019/04/27 22:35:38  Board evaluation: -5
+2019/04/27 22:35:38  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:39  AI - easy captures (4|3) --> (6|5)
+2019/04/27 22:35:39  Board evaluation: -6
+2019/04/27 22:35:42  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 22:35:42  Player 1: AI - easy
+2019/04/27 22:35:42  Player 2: AI - easy
+2019/04/27 22:35:42  Game started.
+2019/04/27 22:35:42  Board evaluation: 3
+2019/04/27 22:35:42  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:43  AI - easy moves (2|5) --> (3|4)
+2019/04/27 22:35:43  Board evaluation: -2
+2019/04/27 22:35:43  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:43  AI - easy moves (1|2) --> (0|3)
+2019/04/27 22:35:43  Board evaluation: 5
+2019/04/27 22:35:43  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:44  AI - easy moves (3|4) --> (4|3)
+2019/04/27 22:35:44  Board evaluation: -17
+2019/04/27 22:35:44  AI - easy explored 19 node(s) in 0.006s
+2019/04/27 22:35:45  AI - easy captures (3|2) --> (5|4)
+2019/04/27 22:35:45  Board evaluation: 2
+2019/04/27 22:35:45  AI - easy explored 51 node(s) in 0.004s
+2019/04/27 22:35:46  AI - easy captures (6|5) --> (4|3)
+2019/04/27 22:35:46  Board evaluation: -10
+2019/04/27 22:35:46  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:47  AI - easy captures (5|2) --> (3|4)
+2019/04/27 22:35:47  Board evaluation: -6
+2019/04/27 22:35:47  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:48  AI - easy captures (4|5) --> (2|3)
+2019/04/27 22:35:48  Board evaluation: 1
+2019/04/27 22:35:49  AI - easy explored 551 node(s) in 0.045s
+2019/04/27 22:35:49  AI - easy moves (4|1) --> (3|2)
+2019/04/27 22:35:49  Board evaluation: 7
+2019/04/27 22:35:49  AI - easy explored 1 node(s) in 0.0s
+2019/04/27 22:35:50  AI - easy captures (2|3) --> (4|1)
+2019/04/27 22:35:50  Board evaluation: 4
+2019/04/27 22:35:50  AI - easy explored 133 node(s) in 0.014s
+2019/04/27 22:35:51  AI - easy captures (5|0) --> (3|2)
+2019/04/27 22:35:51  Board evaluation: -3
+2019/04/27 22:35:54  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 22:35:54  Player 1: AI - hard
+2019/04/27 22:35:54  Player 2: AI - hard
+2019/04/27 22:35:54  Game started.
+2019/04/27 22:35:55  Board evaluation: 3
+2019/04/27 22:35:55  AI - hard explored 1 node(s) in 0.0s
+2019/04/27 22:35:55  AI - hard moves (2|5) --> (1|4)
+2019/04/27 22:35:55  Board evaluation: -1
+2019/04/27 22:35:55  AI - hard explored 1 node(s) in 0.0s
+2019/04/27 22:35:56  AI - hard moves (5|2) --> (4|3)
+2019/04/27 22:35:56  Board evaluation: 3
+2019/04/27 22:35:56  AI - hard explored 1 node(s) in 0.0s
+2019/04/27 22:35:56  AI - hard moves (6|5) --> (7|4)
+2019/04/27 22:35:56  Board evaluation: -4
+2019/04/27 22:36:22  AI - hard explored 530938 node(s) in 26.028s
+2019/04/27 22:36:23  AI - hard moves (3|2) --> (2|3)
+2019/04/27 22:36:23  Board evaluation: 9
+2019/04/27 22:36:23  AI - hard explored 1 node(s) in 0.0s
+2019/04/27 22:36:24  AI - hard captures (1|4) --> (3|2)
+2019/04/27 22:36:24  Board evaluation: 9
+2019/04/27 22:36:24  AI - hard explored 1 node(s) in 0.0s
+2019/04/27 22:36:25  AI - hard captures (4|1) --> (2|3)
+2019/04/27 22:36:25  Board evaluation: -4
+2019/04/27 22:36:36  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 22:36:36  Player 1: AI - hard
+2019/04/27 22:36:36  Player 2: AI - hard
+2019/04/27 22:36:36  Game started.
+2019/04/27 22:36:36  Board evaluation: 3
+2019/04/27 22:36:36  AI - hard explored 1 node(s) in 0.0s
+2019/04/27 22:36:37  AI - hard moves (6|5) --> (5|4)
+2019/04/27 22:36:37  Board evaluation: -2
+2019/04/27 22:36:37  AI - hard explored 1 node(s) in 0.0s
+2019/04/27 22:36:38  AI - hard moves (5|2) --> (6|3)
+2019/04/27 22:36:38  Board evaluation: 2
+2019/04/27 22:36:38  AI - hard explored 1 node(s) in 0.0s
+2019/04/27 22:36:38  AI - hard moves (4|5) --> (3|4)
+2019/04/27 22:36:38  Board evaluation: -12
+2019/04/27 22:36:38  AI - hard explored 1 node(s) in 0.0s
+2019/04/27 22:36:39  AI - hard captures (6|3) --> (4|5)
+2019/04/27 22:36:39  Board evaluation: -9
+2019/04/27 22:36:39  AI - hard explored 1 node(s) in 0.0s
+2019/04/27 22:36:41  AI - hard captures (3|6) --> (5|4)
+2019/04/27 22:36:41  Board evaluation: 2
+2019/04/27 22:36:45  Game quit.
+2019/04/27 22:39:44  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 22:39:44  Player 1: AI - medium
+2019/04/27 22:39:44  Player 2: AI - medium
+2019/04/27 22:39:44  Game started.
+2019/04/27 22:39:44  Board evaluation: 3
+2019/04/27 22:39:44  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:39:44  AI - medium moves (6|5) --> (5|4)
+2019/04/27 22:39:44  Board evaluation: -2
+2019/04/27 22:39:45  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:39:45  AI - medium moves (7|2) --> (6|3)
+2019/04/27 22:39:45  Board evaluation: 7
+2019/04/27 22:39:45  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:39:46  AI - medium captures (5|4) --> (7|2)
+2019/04/27 22:39:46  Board evaluation: 14
+2019/04/27 22:39:47  AI - medium explored 17752 node(s) in 0.916s
+2019/04/27 22:39:48  AI - medium moves (5|2) --> (6|3)
+2019/04/27 22:39:48  Board evaluation: 18
+2019/04/27 22:39:49  AI - medium explored 23158 node(s) in 1.357s
+2019/04/27 22:39:50  Game quit.
+2019/04/27 22:43:16  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 22:43:16  Player 1: Player 1
+2019/04/27 22:43:16  Player 2: AI - medium
+2019/04/27 22:43:16  Game started.
+2019/04/27 22:43:16  Board evaluation: 3
+2019/04/27 22:43:18  Player 1 moves (4|5) --> (3|4)
+2019/04/27 22:43:18  Board evaluation: -2
+2019/04/27 22:43:18  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:43:18  AI - medium moves (3|2) --> (2|3)
+2019/04/27 22:43:18  Board evaluation: -4
+2019/04/27 22:43:20  Player 1 rejected move (2|5) --> (2|4)
+2019/04/27 22:43:22  Player 1 moves (2|5) --> (1|4)
+2019/04/27 22:43:22  Board evaluation: -2
+2019/04/27 22:43:22  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:43:23  AI - medium captures (2|3) --> (4|5)
+2019/04/27 22:43:23  Board evaluation: 0
+2019/04/27 22:43:24  Player 1 captures (3|6) --> (5|4)
+2019/04/27 22:43:24  Board evaluation: 4
+2019/04/27 22:43:25  AI - medium explored 18593 node(s) in 1.1s
+2019/04/27 22:43:25  AI - medium moves (5|2) --> (4|3)
+2019/04/27 22:43:25  Board evaluation: 17
+2019/04/27 22:43:26  Player 1 captures (5|4) --> (3|2)
+2019/04/27 22:43:26  Board evaluation: 8
+2019/04/27 22:43:26  AI - medium explored 3367 node(s) in 0.149s
+2019/04/27 22:43:27  AI - medium captures (2|1) --> (4|3)
+2019/04/27 22:43:27  Board evaluation: 4
+2019/04/27 22:43:28  Game quit.
+2019/04/27 22:46:04  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 22:46:04  Player 1: Player 1
+2019/04/27 22:46:04  Player 2: AI - medium
+2019/04/27 22:46:04  Game started.
+2019/04/27 22:46:04  Board evaluation: 3
+2019/04/27 22:46:06  Player 1 moves (4|5) --> (3|4)
+2019/04/27 22:46:06  Board evaluation: -2
+2019/04/27 22:46:06  AI - medium explored 1 node(s) in 0.001s
+2019/04/27 22:46:06  AI - medium moves (5|2) --> (6|3)
+2019/04/27 22:46:06  Board evaluation: 2
+2019/04/27 22:46:07  Player 1 moves (6|5) --> (7|4)
+2019/04/27 22:46:07  Board evaluation: 2
+2019/04/27 22:46:08  AI - medium explored 9876 node(s) in 0.619s
+2019/04/27 22:46:08  AI - medium moves (3|2) --> (2|3)
+2019/04/27 22:46:08  Board evaluation: 0
+2019/04/27 22:46:09  Player 1 rejected move (5|6) --> (4|5)
+2019/04/27 22:46:11  Player 1 captures (7|4) --> (5|2)
+2019/04/27 22:46:11  Board evaluation: -5
+2019/04/27 22:46:11  AI - medium explored 1956 node(s) in 0.132s
+2019/04/27 22:46:12  AI - medium captures (6|1) --> (4|3)
+2019/04/27 22:46:12  Board evaluation: 1
+2019/04/27 22:46:13  Player 1 captures (3|4) --> (5|2)
+2019/04/27 22:46:13  Board evaluation: 8
+2019/04/27 22:46:13  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:46:14  AI - medium captures (4|1) --> (6|3)
+2019/04/27 22:46:14  Board evaluation: -7
+2019/04/27 22:46:15  Player 1 moves (7|6) --> (6|5)
+2019/04/27 22:46:15  Board evaluation: -8
+2019/04/27 22:46:15  AI - medium explored 13915 node(s) in 0.813s
+2019/04/27 22:46:16  AI - medium moves (7|0) --> (6|1)
+2019/04/27 22:46:16  Board evaluation: -7
+2019/04/27 22:46:16  Player 1 moves (6|5) --> (7|4)
+2019/04/27 22:46:16  Board evaluation: -6
+2019/04/27 22:46:17  AI - medium explored 3064 node(s) in 0.2s
+2019/04/27 22:46:17  AI - medium moves (6|1) --> (5|2)
+2019/04/27 22:46:17  Board evaluation: -10
+2019/04/27 22:46:18  Player 1 moves (5|6) --> (6|5)
+2019/04/27 22:46:18  Board evaluation: -13
+2019/04/27 22:46:19  AI - medium explored 19874 node(s) in 0.947s
+2019/04/27 22:46:20  AI - medium moves (5|0) --> (4|1)
+2019/04/27 22:46:20  Board evaluation: -11
+2019/04/27 22:46:20  Player 1 moves (6|7) --> (5|6)
+2019/04/27 22:46:20  Board evaluation: -13
+2019/04/27 22:46:21  AI - medium explored 3499 node(s) in 0.179s
+2019/04/27 22:46:21  AI - medium moves (5|2) --> (4|3)
+2019/04/27 22:46:21  Board evaluation: 0
+2019/04/27 22:46:22  Player 1 rejected move (2|5) --> (1|4)
+2019/04/27 22:46:24  Player 1 captures (7|4) --> (5|2)
+2019/04/27 22:46:24  Board evaluation: 7
+2019/04/27 22:46:24  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:46:25  AI - medium captures (4|1) --> (6|3)
+2019/04/27 22:46:25  Board evaluation: -12
+2019/04/27 22:46:26  Player 1 rejected move (2|5) --> (2|5)
+2019/04/27 22:46:27  Player 1 moves (6|5) --> (7|4)
+2019/04/27 22:46:27  Board evaluation: -10
+2019/04/27 22:46:28  AI - medium explored 2837 node(s) in 0.185s
+2019/04/27 22:46:28  AI - medium moves (6|3) --> (5|4)
+2019/04/27 22:46:28  Board evaluation: -14
+2019/04/27 22:46:29  Player 1 moves (2|5) --> (1|4)
+2019/04/27 22:46:29  Board evaluation: -10
+2019/04/27 22:46:30  AI - medium explored 6129 node(s) in 0.318s
+2019/04/27 22:46:30  AI - medium moves (5|4) --> (6|5)
+2019/04/27 22:46:30  Board evaluation: -6
+2019/04/27 22:46:32  Player 1 captures (1|4) --> (3|2)
+2019/04/27 22:46:32  Board evaluation: 2
+2019/04/27 22:46:33  AI - medium explored 8638 node(s) in 0.544s
+2019/04/27 22:46:33  AI - medium moves (4|3) --> (3|4)
+2019/04/27 22:46:33  Board evaluation: -2
+2019/04/27 22:46:36  Player 1 moves (3|6) --> (4|5)
+2019/04/27 22:46:36  Board evaluation: 1
+2019/04/27 22:46:36  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:46:37  AI - medium captures (2|1) --> (4|3)
+2019/04/27 22:46:37  Board evaluation: -10
+2019/04/27 22:46:38  Player 1 captures (4|5) --> (2|3)
+2019/04/27 22:46:38  Board evaluation: -7
+2019/04/27 22:46:38  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:46:39  AI - medium captures (1|2) --> (3|4)
+2019/04/27 22:46:39  Board evaluation: -19
+2019/04/27 22:46:42  Player 1 moves (0|5) --> (1|4)
+2019/04/27 22:46:42  Board evaluation: -21
+2019/04/27 22:46:43  AI - medium explored 14773 node(s) in 0.74s
+2019/04/27 22:46:43  AI - medium moves (3|0) --> (2|1)
+2019/04/27 22:46:43  Board evaluation: -18
+2019/04/27 22:46:44  Player 1 moves (1|4) --> (2|3)
+2019/04/27 22:46:44  Board evaluation: -24
+2019/04/27 22:46:44  AI - medium explored 7585 node(s) in 0.456s
+2019/04/27 22:46:45  AI - medium moves (2|1) --> (1|2)
+2019/04/27 22:46:45  Board evaluation: -17
+2019/04/27 22:46:47  Player 1 moves (1|6) --> (0|5)
+2019/04/27 22:46:47  Board evaluation: -25
+2019/04/27 22:46:47  AI - medium explored 11041 node(s) in 0.523s
+2019/04/27 22:46:48  AI - medium moves (4|3) --> (5|4)
+2019/04/27 22:46:48  Board evaluation: -21
+2019/04/27 22:46:49  Player 1 moves (0|5) --> (1|4)
+2019/04/27 22:46:49  Board evaluation: -21
+2019/04/27 22:46:50  AI - medium explored 6123 node(s) in 0.345s
+2019/04/27 22:46:50  AI - medium moves (5|4) --> (4|5)
+2019/04/27 22:46:50  Board evaluation: -24
+2019/04/27 22:46:52  Player 1 moves (2|3) --> (3|2)
+2019/04/27 22:46:52  Board evaluation: -31
+2019/04/27 22:46:52  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:46:53  AI - medium captures (4|5) --> (6|7)
+2019/04/27 22:46:53  Board evaluation: -34
+2019/04/27 22:46:54  Player 1 moves (3|2) --> (4|1)
+2019/04/27 22:46:54  Board evaluation: -37
+2019/04/27 22:46:56  AI - medium explored 29256 node(s) in 1.816s
+2019/04/27 22:46:56  AI - medium moves (1|2) --> (0|3)
+2019/04/27 22:46:56  Board evaluation: -36
+2019/04/27 22:46:57  Player 1 moves (1|4) --> (2|3)
+2019/04/27 22:46:57  Board evaluation: -32
+2019/04/27 22:46:59  AI - medium explored 36109 node(s) in 2.226s
+2019/04/27 22:47:00  AI - medium moves (1|0) --> (2|1)
+2019/04/27 22:47:00  Board evaluation: -29
+2019/04/27 22:47:01  Player 1 moves (4|1) --> (3|0)
+2019/04/27 22:47:01  Board evaluation: -28
+2019/04/27 22:47:02  AI - medium explored 13597 node(s) in 0.867s
+2019/04/27 22:47:02  AI - medium moves (2|1) --> (1|2)
+2019/04/27 22:47:02  Board evaluation: -33
+2019/04/27 22:47:08  Player 1 moves (2|7) --> (3|6)
+2019/04/27 22:47:08  Board evaluation: -33
+2019/04/27 22:47:09  AI - medium explored 7182 node(s) in 0.464s
+2019/04/27 22:47:09  AI - medium moves (3|4) --> (2|5)
+2019/04/27 22:47:09  Board evaluation: -32
+2019/04/27 22:47:10  Player 1 captures (3|6) --> (1|4)
+2019/04/27 22:47:10  Board evaluation: -24
+2019/04/27 22:47:10  AI - medium explored 2712 node(s) in 0.195s
+2019/04/27 22:47:11  AI - medium captures (0|3) --> (2|5)
+2019/04/27 22:47:11  Board evaluation: -38
+2019/04/27 22:47:12  Player 1 moves (2|3) --> (3|2)
+2019/04/27 22:47:12  Board evaluation: -33
+2019/04/27 22:47:13  AI - medium explored 7656 node(s) in 0.383s
+2019/04/27 22:47:13  AI - medium moves (6|7) --> (5|6)
+2019/04/27 22:47:13  Board evaluation: -30
+2019/04/27 22:47:14  Player 1 moves (3|2) --> (4|1)
+2019/04/27 22:47:14  Board evaluation: -36
+2019/04/27 22:47:15  AI - medium explored 5739 node(s) in 0.441s
+2019/04/27 22:47:15  AI - medium moves (5|6) --> (4|5)
+2019/04/27 22:47:15  Board evaluation: -32
+2019/04/27 22:47:16  Player 1 moves (4|1) --> (5|0)
+2019/04/27 22:47:16  Board evaluation: -36
+2019/04/27 22:47:17  AI - medium explored 14298 node(s) in 0.919s
+2019/04/27 22:47:18  AI - medium moves (1|2) --> (0|3)
+2019/04/27 22:47:18  Board evaluation: -30
+2019/04/27 22:47:19  Player 1 moves (3|0) --> (2|1)
+2019/04/27 22:47:19  Board evaluation: -35
+2019/04/27 22:47:20  AI - medium explored 28640 node(s) in 1.762s
+2019/04/27 22:47:21  AI - medium moves (0|3) --> (1|4)
+2019/04/27 22:47:21  Board evaluation: -32
+2019/04/27 22:47:22  Player 1 moves (2|1) --> (3|2)
+2019/04/27 22:47:22  Board evaluation: -36
+2019/04/27 22:47:24  AI - medium explored 26153 node(s) in 1.666s
+2019/04/27 22:47:24  AI - medium moves (0|1) --> (1|2)
+2019/04/27 22:47:24  Board evaluation: -35
+2019/04/27 22:47:25  Player 1 moves (5|0) --> (4|1)
+2019/04/27 22:47:25  Board evaluation: -38
+2019/04/27 22:47:28  AI - medium explored 52968 node(s) in 3.183s
+2019/04/27 22:47:29  AI - medium moves (1|2) --> (2|3)
+2019/04/27 22:47:29  Board evaluation: -35
+2019/04/27 22:47:30  Player 1 moves (4|1) --> (5|2)
+2019/04/27 22:47:30  Board evaluation: -39
+2019/04/27 22:47:32  AI - medium explored 38079 node(s) in 2.352s
+2019/04/27 22:47:33  AI - medium moves (2|3) --> (3|4)
+2019/04/27 22:47:33  Board evaluation: -36
+2019/04/27 22:47:34  Player 1 moves (3|2) --> (2|3)
+2019/04/27 22:47:34  Board evaluation: -32
+2019/04/27 22:47:35  AI - medium explored 8219 node(s) in 0.6s
+2019/04/27 22:47:36  AI - medium moves (1|4) --> (0|5)
+2019/04/27 22:47:36  Board evaluation: -34
+2019/04/27 22:47:36  Player 1 moves (2|3) --> (1|4)
+2019/04/27 22:47:37  Board evaluation: -31
+2019/04/27 22:47:37  AI - medium explored 4574 node(s) in 0.311s
+2019/04/27 22:47:37  AI - medium moves (4|5) --> (3|6)
+2019/04/27 22:47:37  Board evaluation: -31
+2019/04/27 22:47:39  Player 1 moves (5|2) --> (4|3)
+2019/04/27 22:47:39  Board evaluation: -39
+2019/04/27 22:47:40  AI - medium explored 10800 node(s) in 0.885s
+2019/04/27 22:47:40  AI - medium moves (0|5) --> (1|6)
+2019/04/27 22:47:40  Board evaluation: -36
+2019/04/27 22:47:44  Player 1 moves (4|3) --> (3|2)
+2019/04/27 22:47:44  Board evaluation: -40
+2019/04/27 22:47:45  AI - medium explored 15439 node(s) in 1.149s
+2019/04/27 22:47:45  AI - medium moves (1|6) --> (2|7)
+2019/04/27 22:47:45  Board evaluation: -36
+2019/04/27 22:47:47  Player 1 moves (3|2) --> (2|3)
+2019/04/27 22:47:47  Board evaluation: -36
+2019/04/27 22:47:47  AI - medium explored 3591 node(s) in 0.344s
+2019/04/27 22:47:48  AI - medium moves (6|5) --> (7|6)
+2019/04/27 22:47:48  Board evaluation: -30
+2019/04/27 22:47:49  Player 1 captures (2|3) --> (4|5)
+2019/04/27 22:47:49  Board evaluation: -27
+2019/04/27 22:47:49  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:47:50  AI - medium captures (3|6) --> (5|4)
+2019/04/27 22:47:50  Board evaluation: -42
+2019/04/27 22:47:51  Player 1 captures (1|4) --> (3|6)
+2019/04/27 22:47:51  Board evaluation: -44
+2019/04/27 22:47:51  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:47:52  AI - medium captures (2|7) --> (4|5)
+2019/04/27 22:47:52  Board evaluation: -63
+2019/04/27 22:47:54  Player 1 moves (7|4) --> (6|3)
+2019/04/27 22:47:54  Board evaluation: -56
+2019/04/27 22:47:55  AI - medium explored 5962 node(s) in 0.595s
+2019/04/27 22:47:55  AI - medium moves (5|4) --> (4|3)
+2019/04/27 22:47:55  Board evaluation: -63
+2019/04/27 22:47:57  Player 1 moves (6|3) --> (5|2)
+2019/04/27 22:47:57  Board evaluation: -64
+2019/04/27 22:47:57  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 22:47:58  AI - medium captures (4|3) --> (6|1)
+2019/04/27 22:47:58  Board evaluation: -77
+2019/04/27 22:47:59  Player 1 moves (0|7) --> (1|6)
+2019/04/27 22:47:59  Board evaluation: -80
+2019/04/27 22:47:59  AI - medium explored 7410 node(s) in 0.736s
+2019/04/27 22:48:00  AI - medium moves (7|2) --> (6|3)
+2019/04/27 22:48:00  Board evaluation: -78
+2019/04/27 22:48:00  Player 1 moves (1|6) --> (2|5)
+2019/04/27 22:48:00  Board evaluation: -75
+2019/04/27 22:48:02  AI - medium explored 11787 node(s) in 1.254s
+2019/04/27 22:48:02  AI - medium moves (6|1) --> (5|2)
+2019/04/27 22:48:02  Board evaluation: -70
+2019/04/27 22:48:03  Player 1 moves (2|5) --> (1|4)
+2019/04/27 22:48:03  Board evaluation: -73
+2019/04/27 22:48:04  AI - medium explored 16844 node(s) in 1.79s
+2019/04/27 22:48:05  AI - medium moves (7|6) --> (6|7)
+2019/04/27 22:48:05  Board evaluation: -71
+2019/04/27 22:48:06  Player 1 moves (1|4) --> (2|3)
+2019/04/27 22:48:06  Board evaluation: -71
+2019/04/27 22:48:09  AI - medium explored 23371 node(s) in 2.781s
+2019/04/27 22:48:09  AI - medium moves (5|2) --> (4|1)
+2019/04/27 22:48:09  Board evaluation: -66
+2019/04/27 22:48:10  Player 1 moves (2|3) --> (1|2)
+2019/04/27 22:48:10  Board evaluation: -75
+2019/04/27 22:48:13  AI - medium explored 21755 node(s) in 2.492s
+2019/04/27 22:48:13  AI - medium moves (6|3) --> (7|4)
+2019/04/27 22:48:13  Board evaluation: -68
+2019/04/27 22:48:14  Player 1 moves (1|2) --> (2|1)
+2019/04/27 22:48:14  Board evaluation: -73
+2019/04/27 22:48:16  AI - medium explored 17887 node(s) in 2.153s
+2019/04/27 22:48:16  AI - medium moves (7|4) --> (6|5)
+2019/04/27 22:48:16  Board evaluation: -72
+2019/04/27 22:48:17  Player 1 moves (2|1) --> (3|0)
+2019/04/27 22:48:17  Board evaluation: -70
+2019/04/27 22:48:18  AI - medium explored 4193 node(s) in 0.58s
+2019/04/27 22:48:18  AI - medium moves (4|1) --> (3|2)
+2019/04/27 22:48:18  Board evaluation: -72
+2019/04/27 22:48:20  Game quit.
+2019/04/27 23:21:45  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 23:21:45  Player 1: AI - medium
+2019/04/27 23:21:45  Player 2: AI - medium
+2019/04/27 23:21:45  Game started.
+2019/04/27 23:21:45  Board evaluation: 3
+2019/04/27 23:21:45  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:21:46  AI - medium moves (6|5) --> (5|4)
+2019/04/27 23:21:46  Board evaluation: -2
+2019/04/27 23:21:46  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:21:47  AI - medium moves (3|2) --> (4|3)
+2019/04/27 23:21:47  Board evaluation: 3
+2019/04/27 23:21:47  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:21:48  AI - medium captures (5|4) --> (3|2)
+2019/04/27 23:21:48  Board evaluation: 1
+2019/04/27 23:21:48  AI - medium explored 6144 node(s) in 0.459s
+2019/04/27 23:21:49  AI - medium captures (4|1) --> (2|3)
+2019/04/27 23:21:49  Board evaluation: 0
+2019/04/27 23:21:50  AI - medium explored 13893 node(s) in 0.816s
+2019/04/27 23:21:51  AI - medium moves (7|6) --> (6|5)
+2019/04/27 23:21:51  Board evaluation: -2
+2019/04/27 23:21:52  AI - medium moves (3|0) --> (4|1)
+2019/04/27 23:21:52  Board evaluation: 1
+2019/04/27 23:21:54  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 23:21:54  Player 1: AI - medium
+2019/04/27 23:21:54  Player 2: AI - medium
+2019/04/27 23:21:54  Game started.
+2019/04/27 23:21:54  Board evaluation: 3
+2019/04/27 23:21:54  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:21:55  AI - medium moves (4|5) --> (5|4)
+2019/04/27 23:21:55  Board evaluation: -2
+2019/04/27 23:21:55  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:21:55  AI - medium moves (1|2) --> (2|3)
+2019/04/27 23:21:55  Board evaluation: 2
+2019/04/27 23:21:56  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:21:56  AI - medium moves (2|5) --> (1|4)
+2019/04/27 23:21:56  Board evaluation: -2
+2019/04/27 23:21:57  AI - medium explored 10337 node(s) in 0.559s
+2019/04/27 23:21:57  AI - medium moves (3|2) --> (4|3)
+2019/04/27 23:21:57  Board evaluation: 21
+2019/04/27 23:21:57  AI - medium explored 23 node(s) in 0.004s
+2019/04/27 23:21:58  AI - medium captures (1|4) --> (3|2)
+2019/04/27 23:21:58  Board evaluation: 9
+2019/04/27 23:21:58  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:21:59  AI - medium captures (4|1) --> (2|3)
+2019/04/27 23:22:00  Board evaluation: 7
+2019/04/27 23:22:00  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:22:01  AI - medium captures (5|4) --> (3|2)
+2019/04/27 23:22:01  Board evaluation: 7
+2019/04/27 23:22:01  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:22:02  AI - medium captures (2|1) --> (4|3)
+2019/04/27 23:22:02  Board evaluation: -5
+2019/04/27 23:22:03  AI - medium explored 18402 node(s) in 1.116s
+2019/04/27 23:22:03  AI - medium moves (5|6) --> (4|5)
+2019/04/27 23:22:03  Board evaluation: -9
+2019/04/27 23:22:04  AI - medium explored 13791 node(s) in 0.679s
+2019/04/27 23:22:05  AI - medium moves (4|3) --> (3|4)
+2019/04/27 23:22:05  Board evaluation: -14
+2019/04/27 23:22:06  AI - medium explored 16864 node(s) in 1.034s
+2019/04/27 23:22:06  AI - medium moves (3|6) --> (2|5)
+2019/04/27 23:22:06  Board evaluation: -11
+2019/04/27 23:22:06  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:22:07  AI - medium captures (3|4) --> (5|6)
+2019/04/27 23:22:07  Board evaluation: -15
+2019/04/27 23:22:08  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:22:09  AI - medium captures (6|7) --> (4|5)
+2019/04/27 23:22:09  Board evaluation: 2
+2019/04/27 23:22:11  AI - medium explored 46520 node(s) in 2.482s
+2019/04/27 23:22:12  AI - medium moves (3|0) --> (2|1)
+2019/04/27 23:22:12  Board evaluation: 4
+2019/04/27 23:22:15  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/27 23:22:15  Player 1: AI - medium
+2019/04/27 23:22:15  Player 2: AI - medium
+2019/04/27 23:22:15  Game started.
+2019/04/27 23:22:15  Board evaluation: 3
+2019/04/27 23:22:15  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:22:15  AI - medium moves (2|5) --> (3|4)
+2019/04/27 23:22:15  Board evaluation: -2
+2019/04/27 23:22:15  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:22:16  AI - medium moves (1|2) --> (0|3)
+2019/04/27 23:22:16  Board evaluation: 5
+2019/04/27 23:22:16  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:22:16  AI - medium moves (3|4) --> (2|3)
+2019/04/27 23:22:16  Board evaluation: -7
+2019/04/27 23:22:16  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:22:18  AI - medium captures (3|2) --> (1|4)
+2019/04/27 23:22:18  Board evaluation: -8
+2019/04/27 23:22:18  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:22:19  AI - medium captures (0|5) --> (2|3)
+2019/04/27 23:22:19  Board evaluation: 1
+2019/04/27 23:22:19  AI - medium explored 12393 node(s) in 0.723s
+2019/04/27 23:22:20  AI - medium moves (4|1) --> (3|2)
+2019/04/27 23:22:20  Board evaluation: 8
+2019/04/27 23:22:20  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:22:21  AI - medium captures (2|3) --> (4|1)
+2019/04/27 23:22:21  Board evaluation: 14
+2019/04/27 23:22:21  AI - medium explored 1 node(s) in 0.0s
+2019/04/27 23:22:22  AI - medium captures (5|0) --> (3|2)
+2019/04/27 23:22:22  Board evaluation: -1
+2019/04/27 23:22:25  AI - medium explored 49160 node(s) in 3.106s
+2019/04/27 23:22:26  AI - medium moves (1|6) --> (2|5)
+2019/04/27 23:22:26  Board evaluation: -5
+2019/04/27 23:22:28  Game quit.
+2019/04/30 15:08:32  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 15:08:32  Player 1: Player 1
+2019/04/30 15:08:32  Player 2: AI - medium
+2019/04/30 15:08:32  Game started.
+2019/04/30 15:08:32  Board evaluation: 3
+2019/04/30 15:08:34  Player 1 moves (6|5) --> (7|4)
+2019/04/30 15:08:34  Board evaluation: -5
+2019/04/30 15:08:34  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:08:34  AI - medium moves (3|2) --> (2|3)
+2019/04/30 15:08:34  Board evaluation: 0
+2019/04/30 15:08:36  Player 1 moves (2|5) --> (3|4)
+2019/04/30 15:08:36  Board evaluation: -5
+2019/04/30 15:08:36  AI - medium explored 8336 node(s) in 0.529s
+2019/04/30 15:08:37  AI - medium moves (5|2) --> (4|3)
+2019/04/30 15:08:37  Board evaluation: 2
+2019/04/30 15:08:39  Player 1 captures (3|4) --> (5|2)
+2019/04/30 15:08:39  Board evaluation: 0
+2019/04/30 15:08:39  AI - medium explored 1445 node(s) in 0.073s
+2019/04/30 15:08:40  AI - medium captures (6|1) --> (4|3)
+2019/04/30 15:08:40  Board evaluation: -3
+2019/04/30 15:08:41  Player 1 moves (5|6) --> (6|5)
+2019/04/30 15:08:41  Board evaluation: -7
+2019/04/30 15:08:41  AI - medium explored 12321 node(s) in 0.474s
+2019/04/30 15:08:42  AI - medium moves (2|1) --> (3|2)
+2019/04/30 15:08:42  Board evaluation: -3
+2019/04/30 15:08:43  Player 1 moves (4|5) --> (5|4)
+2019/04/30 15:08:43  Board evaluation: -5
+2019/04/30 15:08:45  AI - medium explored 46644 node(s) in 2.591s
+2019/04/30 15:08:46  AI - medium moves (7|0) --> (6|1)
+2019/04/30 15:08:46  Board evaluation: -5
+2019/04/30 15:08:47  Player 1 moves (3|6) --> (2|5)
+2019/04/30 15:08:47  Board evaluation: -9
+2019/04/30 15:08:48  AI - medium explored 22125 node(s) in 1.16s
+2019/04/30 15:08:48  AI - medium moves (1|0) --> (2|1)
+2019/04/30 15:08:48  Board evaluation: -7
+2019/04/30 15:08:50  Player 1 moves (4|7) --> (3|6)
+2019/04/30 15:08:50  Board evaluation: -9
+2019/04/30 15:08:50  AI - medium explored 6022 node(s) in 0.369s
+2019/04/30 15:08:51  AI - medium moves (6|1) --> (5|2)
+2019/04/30 15:08:51  Board evaluation: -6
+2019/04/30 15:08:51  Player 1 moves (3|6) --> (4|5)
+2019/04/30 15:08:52  Board evaluation: -9
+2019/04/30 15:08:52  AI - medium explored 1584 node(s) in 0.095s
+2019/04/30 15:08:52  AI - medium moves (2|3) --> (3|4)
+2019/04/30 15:08:52  Board evaluation: -5
+2019/04/30 15:08:53  Player 1 captures (4|5) --> (2|3)
+2019/04/30 15:08:53  Board evaluation: -5
+2019/04/30 15:08:53  AI - medium explored 1822 node(s) in 0.12s
+2019/04/30 15:08:54  AI - medium captures (1|2) --> (3|4)
+2019/04/30 15:08:54  Board evaluation: -5
+2019/04/30 15:08:55  Player 1 moves (0|5) --> (1|4)
+2019/04/30 15:08:55  Board evaluation: -6
+2019/04/30 15:08:55  AI - medium explored 2794 node(s) in 0.169s
+2019/04/30 15:08:56  AI - medium moves (5|2) --> (6|3)
+2019/04/30 15:08:56  Board evaluation: -3
+2019/04/30 15:08:57  Player 1 captures (7|4) --> (5|2)
+2019/04/30 15:08:57  Board evaluation: 8
+2019/04/30 15:08:57  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:08:58  AI - medium captures (4|1) --> (6|3)
+2019/04/30 15:08:58  Board evaluation: -12
+2019/04/30 15:08:58  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:08:59  AI - medium captures (6|3) --> (4|5)
+2019/04/30 15:08:59  Board evaluation: -27
+2019/04/30 15:09:00  Player 1 moves (1|4) --> (0|3)
+2019/04/30 15:09:00  Board evaluation: -35
+2019/04/30 15:09:01  AI - medium explored 3971 node(s) in 0.245s
+2019/04/30 15:09:01  AI - medium moves (5|0) --> (4|1)
+2019/04/30 15:09:01  Board evaluation: -33
+2019/04/30 15:09:03  Player 1 moves (1|6) --> (0|5)
+2019/04/30 15:09:03  Board evaluation: -49
+2019/04/30 15:09:03  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:09:04  AI - medium captures (3|4) --> (1|6)
+2019/04/30 15:09:04  Board evaluation: -48
+2019/04/30 15:09:05  Player 1 captures (0|7) --> (2|5)
+2019/04/30 15:09:05  Board evaluation: -26
+2019/04/30 15:09:05  AI - medium explored 5585 node(s) in 0.287s
+2019/04/30 15:09:06  AI - medium moves (2|1) --> (1|2)
+2019/04/30 15:09:06  Board evaluation: -14
+2019/04/30 15:09:07  Player 1 captures (0|3) --> (2|1)
+2019/04/30 15:09:07  Board evaluation: -12
+2019/04/30 15:09:08  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:09:09  AI - medium captures (3|0) --> (1|2)
+2019/04/30 15:09:09  Board evaluation: -30
+2019/04/30 15:09:10  Player 1 moves (6|5) --> (7|4)
+2019/04/30 15:09:10  Board evaluation: -35
+2019/04/30 15:09:11  AI - medium explored 10198 node(s) in 0.621s
+2019/04/30 15:09:11  AI - medium moves (4|3) --> (5|4)
+2019/04/30 15:09:11  Board evaluation: -34
+2019/04/30 15:09:12  Player 1 moves (7|4) --> (6|3)
+2019/04/30 15:09:12  Board evaluation: -33
+2019/04/30 15:09:13  AI - medium explored 5648 node(s) in 0.377s
+2019/04/30 15:09:13  AI - medium moves (4|5) --> (3|6)
+2019/04/30 15:09:13  Board evaluation: -23
+2019/04/30 15:09:15  Player 1 captures (2|7) --> (4|5)
+2019/04/30 15:09:15  Board evaluation: -14
+2019/04/30 15:09:16  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:09:17  AI - medium captures (5|4) --> (3|6)
+2019/04/30 15:09:17  Board evaluation: -30
+2019/04/30 15:09:19  Player 1 moves (2|5) --> (3|4)
+2019/04/30 15:09:19  Board evaluation: -35
+2019/04/30 15:09:19  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:09:20  AI - medium captures (7|2) --> (5|4)
+2019/04/30 15:09:20  Board evaluation: -52
+2019/04/30 15:09:21  Player 1 moves (6|7) --> (5|6)
+2019/04/30 15:09:21  Board evaluation: -53
+2019/04/30 15:09:21  AI - medium explored 3849 node(s) in 0.216s
+2019/04/30 15:09:21  AI - medium moves (5|4) --> (4|5)
+2019/04/30 15:09:21  Board evaluation: -60
+2019/04/30 15:09:22  Player 1 moves (5|6) --> (6|5)
+2019/04/30 15:09:22  Board evaluation: -55
+2019/04/30 15:09:22  AI - medium explored 3545 node(s) in 0.183s
+2019/04/30 15:09:23  AI - medium moves (4|1) --> (5|2)
+2019/04/30 15:09:23  Board evaluation: -50
+2019/04/30 15:09:23  Player 1 moves (6|5) --> (7|4)
+2019/04/30 15:09:23  Board evaluation: -56
+2019/04/30 15:09:24  AI - medium explored 3720 node(s) in 0.209s
+2019/04/30 15:09:24  AI - medium moves (1|2) --> (2|3)
+2019/04/30 15:09:24  Board evaluation: -44
+2019/04/30 15:09:26  Player 1 captures (3|4) --> (1|2)
+2019/04/30 15:09:26  Board evaluation: -42
+2019/04/30 15:09:26  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:09:27  AI - medium captures (0|1) --> (2|3)
+2019/04/30 15:09:27  Board evaluation: -60
+2019/04/30 15:09:28  Player 1 moves (7|6) --> (6|5)
+2019/04/30 15:09:28  Board evaluation: -60
+2019/04/30 15:09:28  AI - medium explored 3563 node(s) in 0.342s
+2019/04/30 15:09:29  AI - medium moves (3|2) --> (4|3)
+2019/04/30 15:09:29  Board evaluation: -58
+2019/04/30 15:10:05  Game quit.
+2019/04/30 15:11:06  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 15:11:06  Player 1: Player 1
+2019/04/30 15:11:06  Player 2: AI - medium
+2019/04/30 15:11:06  Game started.
+2019/04/30 15:11:06  Board evaluation: 3
+2019/04/30 15:11:08  Player 1 moves (2|5) --> (3|4)
+2019/04/30 15:11:08  Board evaluation: -2
+2019/04/30 15:11:08  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:11:08  AI - medium moves (3|2) --> (2|3)
+2019/04/30 15:11:08  Board evaluation: 3
+2019/04/30 15:11:09  Player 1 moves (3|6) --> (2|5)
+2019/04/30 15:11:09  Board evaluation: 0
+2019/04/30 15:11:10  AI - medium explored 11990 node(s) in 0.846s
+2019/04/30 15:11:11  AI - medium moves (5|2) --> (4|3)
+2019/04/30 15:11:11  Board evaluation: 14
+2019/04/30 15:11:13  Player 1 captures (3|4) --> (5|2)
+2019/04/30 15:11:13  Board evaluation: 2
+2019/04/30 15:11:13  AI - medium explored 5793 node(s) in 0.333s
+2019/04/30 15:11:14  AI - medium captures (4|1) --> (6|3)
+2019/04/30 15:11:14  Board evaluation: -2
+2019/04/30 15:11:14  Player 1 moves (6|5) --> (7|4)
+2019/04/30 15:11:14  Board evaluation: -2
+2019/04/30 15:11:15  AI - medium explored 5538 node(s) in 0.392s
+2019/04/30 15:11:15  AI - medium moves (5|0) --> (4|1)
+2019/04/30 15:11:15  Board evaluation: 2
+2019/04/30 15:11:16  Player 1 captures (7|4) --> (5|2)
+2019/04/30 15:11:16  Board evaluation: -1
+2019/04/30 15:11:16  AI - medium explored 7629 node(s) in 0.438s
+2019/04/30 15:11:17  AI - medium captures (4|1) --> (6|3)
+2019/04/30 15:11:17  Board evaluation: -9
+2019/04/30 15:11:19  Player 1 moves (5|6) --> (6|5)
+2019/04/30 15:11:19  Board evaluation: -13
+2019/04/30 15:11:20  AI - medium explored 22971 node(s) in 1.254s
+2019/04/30 15:11:20  AI - medium moves (3|0) --> (4|1)
+2019/04/30 15:11:20  Board evaluation: -8
+2019/04/30 15:11:21  Player 1 moves (6|5) --> (7|4)
+2019/04/30 15:11:21  Board evaluation: -7
+2019/04/30 15:11:21  AI - medium explored 5694 node(s) in 0.322s
+2019/04/30 15:11:22  AI - medium moves (4|1) --> (3|2)
+2019/04/30 15:11:22  Board evaluation: -5
+2019/04/30 15:11:23  Player 1 rejected move (7|6) --> (6|5)
+2019/04/30 15:11:24  Player 1 captures (7|4) --> (5|2)
+2019/04/30 15:11:24  Board evaluation: -1
+2019/04/30 15:11:24  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:11:25  AI - medium captures (6|1) --> (4|3)
+2019/04/30 15:11:25  Board evaluation: -15
+2019/04/30 15:11:25  Player 1 moves (6|7) --> (5|6)
+2019/04/30 15:11:26  Board evaluation: -17
+2019/04/30 15:11:26  AI - medium explored 5389 node(s) in 0.301s
+2019/04/30 15:11:26  AI - medium moves (7|0) --> (6|1)
+2019/04/30 15:11:26  Board evaluation: -15
+2019/04/30 15:11:27  Player 1 moves (5|6) --> (6|5)
+2019/04/30 15:11:27  Board evaluation: -19
+2019/04/30 15:11:27  AI - medium explored 4027 node(s) in 0.169s
+2019/04/30 15:11:27  AI - medium moves (4|3) --> (3|4)
+2019/04/30 15:11:27  Board evaluation: -17
+2019/04/30 15:11:30  Player 1 captures (2|5) --> (4|3)
+2019/04/30 15:11:30  Board evaluation: -7
+2019/04/30 15:11:30  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:11:31  AI - medium captures (3|2) --> (5|4)
+2019/04/30 15:11:31  Board evaluation: -22
+2019/04/30 15:11:31  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:11:31  AI - medium captures (5|4) --> (3|6)
+2019/04/30 15:11:31  Board evaluation: -22
+2019/04/30 15:11:32  Player 1 captures (2|7) --> (4|5)
+2019/04/30 15:11:32  Board evaluation: -13
+2019/04/30 15:11:33  AI - medium explored 13918 node(s) in 0.685s
+2019/04/30 15:11:33  AI - medium moves (2|3) --> (1|4)
+2019/04/30 15:11:33  Board evaluation: 1
+2019/04/30 15:11:35  Player 1 captures (0|5) --> (2|3)
+2019/04/30 15:11:35  Board evaluation: 4
+2019/04/30 15:11:35  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:11:36  AI - medium captures (1|2) --> (3|4)
+2019/04/30 15:11:36  Board evaluation: -14
+2019/04/30 15:11:36  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:11:37  AI - medium captures (3|4) --> (5|6)
+2019/04/30 15:11:37  Board evaluation: -28
+2019/04/30 15:11:38  Player 1 moves (6|5) --> (7|4)
+2019/04/30 15:11:38  Board evaluation: -28
+2019/04/30 15:11:38  AI - medium explored 5431 node(s) in 0.295s
+2019/04/30 15:11:38  AI - medium moves (5|6) --> (6|7)
+2019/04/30 15:11:38  Board evaluation: -28
+2019/04/30 15:11:40  Player 1 moves (7|6) --> (6|5)
+2019/04/30 15:11:40  Board evaluation: -26
+2019/04/30 15:11:42  AI - medium explored 33397 node(s) in 2.124s
+2019/04/30 15:11:42  AI - medium moves (6|7) --> (7|6)
+2019/04/30 15:11:42  Board evaluation: -28
+2019/04/30 15:11:43  Player 1 moves (6|5) --> (5|4)
+2019/04/30 15:11:43  Board evaluation: -26
+2019/04/30 15:11:46  AI - medium explored 39797 node(s) in 2.42s
+2019/04/30 15:11:46  AI - medium moves (2|1) --> (3|2)
+2019/04/30 15:11:46  Board evaluation: -22
+2019/04/30 15:11:48  Player 1 moves (1|6) --> (2|5)
+2019/04/30 15:11:48  Board evaluation: -25
+2019/04/30 15:11:50  AI - medium explored 32059 node(s) in 1.705s
+2019/04/30 15:11:50  AI - medium moves (6|1) --> (5|2)
+2019/04/30 15:11:50  Board evaluation: -20
+2019/04/30 15:11:51  Player 1 moves (2|5) --> (3|4)
+2019/04/30 15:11:51  Board evaluation: -24
+2019/04/30 15:11:52  AI - medium explored 9789 node(s) in 0.515s
+2019/04/30 15:11:52  AI - medium moves (7|6) --> (6|5)
+2019/04/30 15:11:52  Board evaluation: -30
+2019/04/30 15:11:56  Player 1 rejected move (7|4) --> (5|3)
+2019/04/30 15:11:57  Player 1 moves (7|4) --> (6|3)
+2019/04/30 15:11:57  Board evaluation: -32
+2019/04/30 15:11:57  AI - medium explored 783 node(s) in 0.064s
+2019/04/30 15:11:58  AI - medium captures (5|2) --> (7|4)
+2019/04/30 15:11:58  Board evaluation: -50
+2019/04/30 15:11:58  Player 1 moves (5|4) --> (6|3)
+2019/04/30 15:11:58  Board evaluation: -54
+2019/04/30 15:11:58  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:11:59  AI - medium captures (7|2) --> (5|4)
+2019/04/30 15:11:59  Board evaluation: -71
+2019/04/30 15:12:01  Player 1 moves (4|7) --> (3|6)
+2019/04/30 15:12:01  Board evaluation: -74
+2019/04/30 15:12:01  AI - medium explored 7288 node(s) in 0.643s
+2019/04/30 15:12:02  AI - medium moves (5|4) --> (4|5)
+2019/04/30 15:12:02  Board evaluation: -69
+2019/04/30 15:12:02  Player 1 captures (3|6) --> (5|4)
+2019/04/30 15:12:02  Board evaluation: -51
+2019/04/30 15:12:03  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:12:03  AI - medium captures (6|5) --> (4|3)
+2019/04/30 15:12:03  Board evaluation: -66
+2019/04/30 15:12:03  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:12:04  AI - medium captures (4|3) --> (2|5)
+2019/04/30 15:12:04  Board evaluation: -90
+2019/04/30 15:12:05  Player 1 moves (0|7) --> (1|6)
+2019/04/30 15:12:05  Board evaluation: -90
+2019/04/30 15:12:05  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 15:12:06  AI - medium captures (2|5) --> (0|7)
+2019/04/30 15:12:06  Player AI - medium has won the game!
+2019/04/30 15:12:10  Game quit.
+2019/04/30 17:00:18  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:00:19  Player 1: AI - medium
+2019/04/30 17:00:19  Player 2: AI - medium
+2019/04/30 17:00:19  Game started.
+2019/04/30 17:00:19  Board evaluation: 3
+2019/04/30 17:00:19  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:19  AI - medium moves (0|5) --> (1|4)
+2019/04/30 17:00:19  Board evaluation: 1
+2019/04/30 17:00:19  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:20  AI - medium moves (1|2) --> (2|3)
+2019/04/30 17:00:20  Board evaluation: -1
+2019/04/30 17:00:20  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:20  AI - medium moves (2|5) --> (3|4)
+2019/04/30 17:00:20  Board evaluation: 0
+2019/04/30 17:00:20  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:21  AI - medium captures (2|3) --> (0|5)
+2019/04/30 17:00:21  Board evaluation: -13
+2019/04/30 17:00:22  AI - medium explored 15307 node(s) in 1.036s
+2019/04/30 17:00:23  AI - medium moves (1|6) --> (2|5)
+2019/04/30 17:00:23  Board evaluation: -16
+2019/04/30 17:00:23  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:00:23  Player 1: AI - medium
+2019/04/30 17:00:23  Player 2: AI - medium
+2019/04/30 17:00:23  Game started.
+2019/04/30 17:00:23  Board evaluation: 3
+2019/04/30 17:00:24  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:24  AI - medium moves (4|5) --> (5|4)
+2019/04/30 17:00:24  Board evaluation: -2
+2019/04/30 17:00:24  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:24  AI - medium moves (1|2) --> (0|3)
+2019/04/30 17:00:25  Board evaluation: 6
+2019/04/30 17:00:25  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:25  AI - medium moves (2|5) --> (1|4)
+2019/04/30 17:00:25  Board evaluation: -6
+2019/04/30 17:00:25  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:26  AI - medium captures (0|3) --> (2|5)
+2019/04/30 17:00:26  Board evaluation: -2
+2019/04/30 17:00:26  AI - medium explored 7373 node(s) in 0.473s
+2019/04/30 17:00:27  AI - medium captures (3|6) --> (1|4)
+2019/04/30 17:00:27  Board evaluation: 4
+2019/04/30 17:00:28  AI - medium explored 19408 node(s) in 1.113s
+2019/04/30 17:00:29  Game quit.
+2019/04/30 17:00:51  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:00:51  Player 1: AI - medium
+2019/04/30 17:00:51  Player 2: AI - medium
+2019/04/30 17:00:51  Game started.
+2019/04/30 17:00:52  Board evaluation: 3
+2019/04/30 17:00:52  AI - medium explored 1 node(s) in 0.001s
+2019/04/30 17:00:52  AI - medium moves (2|5) --> (3|4)
+2019/04/30 17:00:52  Board evaluation: -2
+2019/04/30 17:00:52  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:53  AI - medium moves (5|2) --> (6|3)
+2019/04/30 17:00:53  Board evaluation: 3
+2019/04/30 17:00:53  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:53  AI - medium moves (1|6) --> (2|5)
+2019/04/30 17:00:53  Board evaluation: -2
+2019/04/30 17:00:54  AI - medium explored 14758 node(s) in 1.011s
+2019/04/30 17:00:55  AI - medium moves (6|1) --> (5|2)
+2019/04/30 17:00:55  Board evaluation: 2
+2019/04/30 17:00:55  AI - medium explored 9298 node(s) in 0.692s
+2019/04/30 17:00:56  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:00:56  Player 1: AI - medium
+2019/04/30 17:00:56  Player 2: AI - medium
+2019/04/30 17:00:56  Game started.
+2019/04/30 17:00:56  Board evaluation: 3
+2019/04/30 17:00:56  AI - medium rejected move (0|7) --> (1|6)
+2019/04/30 17:00:56  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:56  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:56  AI - medium moves (0|5) --> (1|4)
+2019/04/30 17:00:56  Board evaluation: 1
+2019/04/30 17:00:56  AI - medium rejected move (2|5) --> (3|4)
+2019/04/30 17:00:56  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:56  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:57  AI - medium moves (7|2) --> (6|3)
+2019/04/30 17:00:57  Board evaluation: 3
+2019/04/30 17:00:57  AI - medium rejected move (3|2) --> (2|3)
+2019/04/30 17:00:57  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:57  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:00:57  AI - medium moves (1|6) --> (0|5)
+2019/04/30 17:00:57  Board evaluation: -4
+2019/04/30 17:00:57  AI - medium rejected move (6|5) --> (7|4)
+2019/04/30 17:00:59  AI - medium explored 37378 node(s) in 1.306s
+2019/04/30 17:00:59  AI - medium explored 38160 node(s) in 1.278s
+2019/04/30 17:00:59  AI - medium moves (6|1) --> (7|2)
+2019/04/30 17:00:59  Board evaluation: 3
+2019/04/30 17:00:59  AI - medium rejected move (6|1) --> (7|2)
+2019/04/30 17:01:00  Game quit.
+2019/04/30 17:01:38  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:01:38  Player 1: AI - medium
+2019/04/30 17:01:38  Player 2: AI - medium
+2019/04/30 17:01:39  Game started.
+2019/04/30 17:01:39  Board evaluation: 3
+2019/04/30 17:01:39  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:01:39  AI - medium moves (4|5) --> (5|4)
+2019/04/30 17:01:39  Board evaluation: -2
+2019/04/30 17:01:39  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:01:40  AI - medium moves (7|2) --> (6|3)
+2019/04/30 17:01:40  Board evaluation: 0
+2019/04/30 17:01:40  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:01:41  AI - medium captures (5|4) --> (7|2)
+2019/04/30 17:01:41  Board evaluation: 14
+2019/04/30 17:01:42  AI - medium explored 15765 node(s) in 1.156s
+2019/04/30 17:01:42  AI - medium moves (1|2) --> (2|3)
+2019/04/30 17:01:42  Board evaluation: 18
+2019/04/30 17:01:45  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:01:45  Player 1: AI - medium
+2019/04/30 17:01:45  Player 2: AI - medium
+2019/04/30 17:01:45  Game started.
+2019/04/30 17:01:45  Board evaluation: 3
+2019/04/30 17:01:46  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:01:46  AI - medium moves (2|5) --> (3|4)
+2019/04/30 17:01:46  Board evaluation: -2
+2019/04/30 17:01:46  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:01:46  AI - medium moves (3|2) --> (4|3)
+2019/04/30 17:01:46  Board evaluation: -4
+2019/04/30 17:01:47  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:01:47  AI - medium moves (0|5) --> (1|4)
+2019/04/30 17:01:47  Board evaluation: -6
+2019/04/30 17:01:47  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:01:48  AI - medium captures (4|3) --> (2|5)
+2019/04/30 17:01:48  Board evaluation: -7
+2019/04/30 17:01:48  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:01:49  AI - medium captures (1|6) --> (3|4)
+2019/04/30 17:01:49  Board evaluation: 6
+2019/04/30 17:01:50  AI - medium explored 18600 node(s) in 1.047s
+2019/04/30 17:01:50  AI - medium moves (1|2) --> (2|3)
+2019/04/30 17:01:50  Board evaluation: 18
+2019/04/30 17:01:50  AI - medium explored 317 node(s) in 0.02s
+2019/04/30 17:01:51  AI - medium captures (1|4) --> (3|2)
+2019/04/30 17:01:51  Board evaluation: 9
+2019/04/30 17:01:51  AI - medium explored 1466 node(s) in 0.109s
+2019/04/30 17:01:52  AI - medium captures (4|1) --> (2|3)
+2019/04/30 17:01:52  Board evaluation: 15
+2019/04/30 17:01:52  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:01:53  AI - medium captures (3|4) --> (1|2)
+2019/04/30 17:01:53  Board evaluation: 8
+2019/04/30 17:01:55  AI - medium explored 22337 node(s) in 1.723s
+2019/04/30 17:01:56  AI - medium captures (0|1) --> (2|3)
+2019/04/30 17:01:56  Board evaluation: 0
+2019/04/30 17:01:59  AI - medium explored 42741 node(s) in 3.077s
+2019/04/30 17:01:59  AI - medium moves (0|7) --> (1|6)
+2019/04/30 17:01:59  Board evaluation: -2
+2019/04/30 17:02:01  AI - medium explored 22342 node(s) in 1.251s
+2019/04/30 17:02:01  AI - medium moves (5|0) --> (4|1)
+2019/04/30 17:02:01  Board evaluation: 0
+2019/04/30 17:02:02  AI - medium explored 19422 node(s) in 1.084s
+2019/04/30 17:02:03  AI - medium moves (4|5) --> (3|4)
+2019/04/30 17:02:03  Board evaluation: -4
+2019/04/30 17:02:03  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:02:04  AI - medium captures (2|3) --> (4|5)
+2019/04/30 17:02:04  Board evaluation: -3
+2019/04/30 17:02:05  AI - medium explored 14284 node(s) in 0.983s
+2019/04/30 17:02:05  AI - medium captures (3|6) --> (5|4)
+2019/04/30 17:02:05  Board evaluation: 1
+2019/04/30 17:02:08  AI - medium explored 42472 node(s) in 2.596s
+2019/04/30 17:02:08  AI - medium moves (4|1) --> (3|2)
+2019/04/30 17:02:08  Board evaluation: 4
+2019/04/30 17:02:11  AI - medium explored 47769 node(s) in 2.887s
+2019/04/30 17:02:12  AI - medium moves (5|6) --> (4|5)
+2019/04/30 17:02:12  Board evaluation: -2
+2019/04/30 17:02:15  AI - medium explored 61592 node(s) in 3.281s
+2019/04/30 17:02:16  AI - medium moves (3|2) --> (2|3)
+2019/04/30 17:02:16  Board evaluation: 3
+2019/04/30 17:02:18  AI - medium explored 42757 node(s) in 2.29s
+2019/04/30 17:02:18  AI - medium moves (1|6) --> (2|5)
+2019/04/30 17:02:18  Board evaluation: 1
+2019/04/30 17:02:20  AI - medium explored 34344 node(s) in 1.777s
+2019/04/30 17:02:21  AI - medium moves (5|2) --> (4|3)
+2019/04/30 17:02:21  Board evaluation: 14
+2019/04/30 17:02:21  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:02:22  AI - medium captures (5|4) --> (3|2)
+2019/04/30 17:02:22  Board evaluation: 11
+2019/04/30 17:02:22  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:02:22  AI - medium captures (2|1) --> (4|3)
+2019/04/30 17:02:22  Board evaluation: 3
+2019/04/30 17:02:23  AI - medium explored 13288 node(s) in 0.799s
+2019/04/30 17:02:24  AI - medium moves (6|7) --> (5|6)
+2019/04/30 17:02:24  Board evaluation: 1
+2019/04/30 17:02:24  AI - medium explored 7715 node(s) in 0.313s
+2019/04/30 17:02:24  AI - medium moves (3|0) --> (4|1)
+2019/04/30 17:02:24  Board evaluation: 3
+2019/04/30 17:02:25  AI - medium explored 6531 node(s) in 0.372s
+2019/04/30 17:02:25  AI - medium moves (2|7) --> (3|6)
+2019/04/30 17:02:25  Board evaluation: 1
+2019/04/30 17:02:25  AI - medium explored 2436 node(s) in 0.125s
+2019/04/30 17:02:26  AI - medium moves (4|1) --> (3|2)
+2019/04/30 17:02:26  Board evaluation: 1
+2019/04/30 17:02:26  AI - medium explored 1521 node(s) in 0.102s
+2019/04/30 17:02:26  AI - medium moves (6|5) --> (5|4)
+2019/04/30 17:02:26  Board evaluation: -11
+2019/04/30 17:02:26  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:02:27  AI - medium captures (4|3) --> (6|5)
+2019/04/30 17:02:27  Board evaluation: -5
+2019/04/30 17:02:27  AI - medium explored 1369 node(s) in 0.088s
+2019/04/30 17:02:28  AI - medium captures (7|6) --> (5|4)
+2019/04/30 17:02:28  Board evaluation: 5
+2019/04/30 17:02:28  AI - medium explored 1406 node(s) in 0.066s
+2019/04/30 17:02:29  AI - medium moves (6|1) --> (5|2)
+2019/04/30 17:02:29  Board evaluation: 8
+2019/04/30 17:02:29  AI - medium explored 1334 node(s) in 0.059s
+2019/04/30 17:02:29  AI - medium moves (2|5) --> (3|4)
+2019/04/30 17:02:29  Board evaluation: 10
+2019/04/30 17:02:29  AI - medium explored 1382 node(s) in 0.081s
+2019/04/30 17:02:30  AI - medium moves (1|0) --> (0|1)
+2019/04/30 17:02:30  Board evaluation: 15
+2019/04/30 17:02:30  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:02:31  AI - medium captures (3|4) --> (1|2)
+2019/04/30 17:02:31  Board evaluation: 23
+2019/04/30 17:02:31  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:02:32  AI - medium captures (0|1) --> (2|3)
+2019/04/30 17:02:32  Board evaluation: -1
+2019/04/30 17:02:32  AI - medium explored 1030 node(s) in 0.053s
+2019/04/30 17:02:32  AI - medium moves (3|6) --> (2|5)
+2019/04/30 17:02:32  Board evaluation: -3
+2019/04/30 17:02:32  AI - medium explored 1232 node(s) in 0.092s
+2019/04/30 17:02:33  AI - medium moves (5|2) --> (4|3)
+2019/04/30 17:02:33  Board evaluation: -7
+2019/04/30 17:02:33  AI - medium explored 369 node(s) in 0.025s
+2019/04/30 17:02:33  AI - medium moves (5|6) --> (6|5)
+2019/04/30 17:02:33  Board evaluation: -3
+2019/04/30 17:02:33  AI - medium explored 277 node(s) in 0.024s
+2019/04/30 17:02:34  AI - medium moves (7|0) --> (6|1)
+2019/04/30 17:02:34  Board evaluation: -2
+2019/04/30 17:02:34  AI - medium explored 533 node(s) in 0.042s
+2019/04/30 17:02:34  AI - medium moves (4|7) --> (3|6)
+2019/04/30 17:02:34  Board evaluation: -3
+2019/04/30 17:02:34  AI - medium explored 172 node(s) in 0.014s
+2019/04/30 17:02:35  AI - medium moves (6|1) --> (5|2)
+2019/04/30 17:02:35  Board evaluation: 0
+2019/04/30 17:02:35  AI - medium explored 318 node(s) in 0.027s
+2019/04/30 17:02:35  AI - medium moves (6|5) --> (7|4)
+2019/04/30 17:02:35  Board evaluation: -15
+2019/04/30 17:02:35  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:02:36  AI - medium captures (4|3) --> (6|5)
+2019/04/30 17:02:36  Board evaluation: -24
+2019/04/30 17:02:36  AI - medium explored 1322 node(s) in 0.081s
+2019/04/30 17:02:37  AI - medium moves (2|5) --> (3|4)
+2019/04/30 17:02:37  Board evaluation: -22
+2019/04/30 17:02:37  AI - medium explored 1724 node(s) in 0.108s
+2019/04/30 17:02:37  AI - medium moves (2|3) --> (1|4)
+2019/04/30 17:02:37  Board evaluation: -23
+2019/04/30 17:02:37  AI - medium explored 1943 node(s) in 0.177s
+2019/04/30 17:02:38  AI - medium moves (3|4) --> (2|3)
+2019/04/30 17:02:38  Board evaluation: -18
+2019/04/30 17:02:38  AI - medium explored 3567 node(s) in 0.261s
+2019/04/30 17:02:39  AI - medium moves (6|5) --> (5|6)
+2019/04/30 17:02:39  Board evaluation: -15
+2019/04/30 17:02:39  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:02:39  AI - medium captures (2|3) --> (4|1)
+2019/04/30 17:02:39  Board evaluation: -6
+2019/04/30 17:02:40  AI - medium explored 7241 node(s) in 0.744s
+2019/04/30 17:02:41  AI - medium moves (5|6) --> (4|7)
+2019/04/30 17:02:41  Board evaluation: -6
+2019/04/30 17:02:41  AI - medium explored 1248 node(s) in 0.105s
+2019/04/30 17:02:41  AI - medium moves (4|1) --> (3|0)
+2019/04/30 17:02:41  Board evaluation: -13
+2019/04/30 17:02:41  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:02:42  Game quit.
+2019/04/30 17:08:59  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:09:00  Player 1: AI - medium
+2019/04/30 17:09:00  Player 2: AI - medium
+2019/04/30 17:09:00  Game started.
+2019/04/30 17:09:00  Board evaluation: 3
+2019/04/30 17:09:00  AI - medium explored 1 node(s) in 0.001s
+2019/04/30 17:09:00  AI - medium moves (4|5) --> (5|4)
+2019/04/30 17:09:00  Board evaluation: -2
+2019/04/30 17:09:00  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:01  AI - medium moves (5|2) --> (4|3)
+2019/04/30 17:09:01  Board evaluation: 3
+2019/04/30 17:09:01  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:01  AI - medium moves (2|5) --> (3|4)
+2019/04/30 17:09:01  Board evaluation: -3
+2019/04/30 17:09:01  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:02  AI - medium captures (4|3) --> (2|5)
+2019/04/30 17:09:02  Board evaluation: 0
+2019/04/30 17:09:03  AI - medium explored 11068 node(s) in 0.871s
+2019/04/30 17:09:04  AI - medium captures (1|6) --> (3|4)
+2019/04/30 17:09:04  Board evaluation: 2
+2019/04/30 17:09:06  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:09:06  Player 1: AI - medium
+2019/04/30 17:09:06  Player 2: AI - medium
+2019/04/30 17:09:06  Game started.
+2019/04/30 17:09:06  Board evaluation: 3
+2019/04/30 17:09:06  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:07  AI - medium moves (6|5) --> (5|4)
+2019/04/30 17:09:07  Board evaluation: -2
+2019/04/30 17:09:07  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:07  AI - medium moves (5|2) --> (6|3)
+2019/04/30 17:09:07  Board evaluation: 2
+2019/04/30 17:09:07  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:08  AI - medium moves (5|6) --> (6|5)
+2019/04/30 17:09:08  Board evaluation: -1
+2019/04/30 17:09:09  AI - medium explored 16387 node(s) in 0.965s
+2019/04/30 17:09:09  AI - medium moves (6|1) --> (5|2)
+2019/04/30 17:09:09  Board evaluation: 2
+2019/04/30 17:09:10  AI - medium explored 13016 node(s) in 0.809s
+2019/04/30 17:09:11  AI - medium moves (4|7) --> (5|6)
+2019/04/30 17:09:11  Board evaluation: 0
+2019/04/30 17:09:11  AI - medium explored 9836 node(s) in 0.513s
+2019/04/30 17:09:12  AI - medium moves (7|0) --> (6|1)
+2019/04/30 17:09:12  Board evaluation: 0
+2019/04/30 17:09:12  AI - medium explored 2745 node(s) in 0.128s
+2019/04/30 17:09:12  AI - medium moves (5|4) --> (4|3)
+2019/04/30 17:09:12  Board evaluation: -22
+2019/04/30 17:09:12  AI - medium explored 117 node(s) in 0.011s
+2019/04/30 17:09:13  AI - medium captures (3|2) --> (5|4)
+2019/04/30 17:09:13  Board evaluation: -12
+2019/04/30 17:09:13  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:14  AI - medium captures (6|5) --> (4|3)
+2019/04/30 17:09:14  Board evaluation: -15
+2019/04/30 17:09:14  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:15  AI - medium captures (5|2) --> (3|4)
+2019/04/30 17:09:15  Board evaluation: -4
+2019/04/30 17:09:15  AI - medium explored 1690 node(s) in 0.081s
+2019/04/30 17:09:16  AI - medium captures (2|5) --> (4|3)
+2019/04/30 17:09:16  Board evaluation: -6
+2019/04/30 17:09:16  AI - medium explored 12565 node(s) in 0.636s
+2019/04/30 17:09:17  AI - medium moves (1|2) --> (0|3)
+2019/04/30 17:09:17  Board evaluation: 0
+2019/04/30 17:09:18  AI - medium explored 13593 node(s) in 0.845s
+2019/04/30 17:09:18  AI - medium moves (1|6) --> (2|5)
+2019/04/30 17:09:18  Board evaluation: -3
+2019/04/30 17:09:19  AI - medium explored 21161 node(s) in 1.128s
+2019/04/30 17:09:20  AI - medium moves (0|3) --> (1|4)
+2019/04/30 17:09:20  Board evaluation: 11
+2019/04/30 17:09:20  AI - medium explored 2148 node(s) in 0.118s
+2019/04/30 17:09:21  AI - medium captures (2|5) --> (0|3)
+2019/04/30 17:09:21  Board evaluation: 13
+2019/04/30 17:09:22  AI - medium explored 12427 node(s) in 0.686s
+2019/04/30 17:09:22  AI - medium moves (2|1) --> (1|2)
+2019/04/30 17:09:22  Board evaluation: 26
+2019/04/30 17:09:22  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:23  AI - medium captures (0|3) --> (2|1)
+2019/04/30 17:09:23  Board evaluation: 22
+2019/04/30 17:09:23  AI - medium explored 1683 node(s) in 0.095s
+2019/04/30 17:09:24  AI - medium captures (1|0) --> (3|2)
+2019/04/30 17:09:24  Board evaluation: 6
+2019/04/30 17:09:24  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:25  AI - medium captures (3|2) --> (5|4)
+2019/04/30 17:09:25  Board evaluation: -10
+2019/04/30 17:09:26  AI - medium explored 27063 node(s) in 1.504s
+2019/04/30 17:09:27  AI - medium moves (3|6) --> (2|5)
+2019/04/30 17:09:27  Board evaluation: -23
+2019/04/30 17:09:27  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:28  AI - medium captures (5|4) --> (3|6)
+2019/04/30 17:09:28  Board evaluation: -25
+2019/04/30 17:09:28  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:29  AI - medium captures (2|7) --> (4|5)
+2019/04/30 17:09:29  Board evaluation: -5
+2019/04/30 17:09:30  AI - medium explored 29214 node(s) in 1.627s
+2019/04/30 17:09:31  AI - medium moves (4|1) --> (3|2)
+2019/04/30 17:09:31  Board evaluation: -1
+2019/04/30 17:09:32  AI - medium explored 29822 node(s) in 1.672s
+2019/04/30 17:09:33  AI - medium moves (0|5) --> (1|4)
+2019/04/30 17:09:33  Board evaluation: -2
+2019/04/30 17:09:35  AI - medium explored 37644 node(s) in 2.247s
+2019/04/30 17:09:36  AI - medium moves (3|0) --> (2|1)
+2019/04/30 17:09:36  Board evaluation: 1
+2019/04/30 17:09:37  AI - medium explored 21193 node(s) in 1.106s
+2019/04/30 17:09:37  AI - medium moves (0|7) --> (1|6)
+2019/04/30 17:09:37  Board evaluation: -1
+2019/04/30 17:09:38  AI - medium explored 24315 node(s) in 1.248s
+2019/04/30 17:09:39  AI - medium moves (6|3) --> (5|4)
+2019/04/30 17:09:39  Board evaluation: 5
+2019/04/30 17:09:39  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:40  AI - medium captures (4|5) --> (6|3)
+2019/04/30 17:09:40  Board evaluation: 15
+2019/04/30 17:09:40  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:41  AI - medium captures (7|2) --> (5|4)
+2019/04/30 17:09:41  Board evaluation: 5
+2019/04/30 17:09:41  AI - medium explored 12730 node(s) in 0.732s
+2019/04/30 17:09:42  AI - medium moves (2|5) --> (3|4)
+2019/04/30 17:09:42  Board evaluation: 1
+2019/04/30 17:09:43  AI - medium explored 16383 node(s) in 1.013s
+2019/04/30 17:09:43  AI - medium moves (2|1) --> (1|2)
+2019/04/30 17:09:43  Board evaluation: 1
+2019/04/30 17:09:44  AI - medium explored 5513 node(s) in 0.277s
+2019/04/30 17:09:44  AI - medium moves (5|6) --> (6|5)
+2019/04/30 17:09:44  Board evaluation: 2
+2019/04/30 17:09:44  AI - medium explored 1798 node(s) in 0.129s
+2019/04/30 17:09:45  AI - medium moves (5|4) --> (4|5)
+2019/04/30 17:09:45  Board evaluation: -1
+2019/04/30 17:09:45  AI - medium explored 8036 node(s) in 0.374s
+2019/04/30 17:09:46  AI - medium moves (1|4) --> (0|3)
+2019/04/30 17:09:46  Board evaluation: 1
+2019/04/30 17:09:46  AI - medium explored 5530 node(s) in 0.409s
+2019/04/30 17:09:46  AI - medium moves (1|2) --> (2|3)
+2019/04/30 17:09:46  Board evaluation: 5
+2019/04/30 17:09:46  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:47  AI - medium captures (3|4) --> (1|2)
+2019/04/30 17:09:47  Board evaluation: 9
+2019/04/30 17:09:47  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:09:48  AI - medium captures (0|1) --> (2|3)
+2019/04/30 17:09:48  Board evaluation: -11
+2019/04/30 17:09:50  AI - medium explored 27398 node(s) in 1.747s
+2019/04/30 17:09:50  AI - medium moves (0|3) --> (1|2)
+2019/04/30 17:09:50  Board evaluation: -10
+2019/04/30 17:09:53  AI - medium explored 39227 node(s) in 2.297s
+2019/04/30 17:09:53  AI - medium moves (6|1) --> (5|2)
+2019/04/30 17:09:53  Board evaluation: -5
+2019/04/30 17:09:55  Game quit.
+2019/04/30 17:21:09  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:21:09  Player 1: AI - medium
+2019/04/30 17:21:09  Player 2: AI - medium
+2019/04/30 17:21:09  Game started.
+2019/04/30 17:21:09  Board evaluation: 3
+2019/04/30 17:21:10  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:10  AI - medium moves (4|5) --> (3|4)
+2019/04/30 17:21:10  Board evaluation: -2
+2019/04/30 17:21:10  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:10  AI - medium moves (3|2) --> (4|3)
+2019/04/30 17:21:10  Board evaluation: 3
+2019/04/30 17:21:11  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:11  AI - medium moves (2|5) --> (1|4)
+2019/04/30 17:21:11  Board evaluation: -10
+2019/04/30 17:21:11  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:11  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:21:12  Player 1: AI - medium
+2019/04/30 17:21:12  Player 2: AI - medium
+2019/04/30 17:21:12  Game started.
+2019/04/30 17:21:12  Board evaluation: 3
+2019/04/30 17:21:12  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:12  AI - medium rejected move (4|3) --> (2|5)
+2019/04/30 17:21:12  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:12  AI - medium moves (6|5) --> (5|4)
+2019/04/30 17:21:12  Board evaluation: -2
+2019/04/30 17:21:12  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:12  AI - medium rejected move (4|5) --> (5|4)
+2019/04/30 17:21:12  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:13  AI - medium moves (5|2) --> (4|3)
+2019/04/30 17:21:13  Board evaluation: -4
+2019/04/30 17:21:13  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:13  AI - medium rejected move (3|2) --> (2|3)
+2019/04/30 17:21:13  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:13  AI - medium moves (0|5) --> (1|4)
+2019/04/30 17:21:13  Board evaluation: -6
+2019/04/30 17:21:13  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:13  AI - medium rejected move (4|5) --> (3|4)
+2019/04/30 17:21:13  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:14  AI - medium captures (4|3) --> (6|5)
+2019/04/30 17:21:14  Board evaluation: 0
+2019/04/30 17:21:14  AI - medium rejected move (4|3) --> (6|5)
+2019/04/30 17:21:15  AI - medium explored 21389 node(s) in 1.084s
+2019/04/30 17:21:15  AI - medium explored 24187 node(s) in 1.096s
+2019/04/30 17:21:16  AI - medium captures (5|6) --> (7|4)
+2019/04/30 17:21:16  Board evaluation: 1
+2019/04/30 17:21:16  AI - medium rejected move (5|6) --> (7|4)
+2019/04/30 17:21:18  AI - medium explored 51399 node(s) in 2.067s
+2019/04/30 17:21:18  AI - medium explored 54547 node(s) in 2.037s
+2019/04/30 17:21:19  AI - medium moves (7|2) --> (6|3)
+2019/04/30 17:21:19  Board evaluation: 12
+2019/04/30 17:21:19  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:19  AI - medium rejected move (7|2) --> (6|3)
+2019/04/30 17:21:19  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:21:19  AI - medium captures (7|4) --> (5|2)
+2019/04/30 17:21:19  Board evaluation: 6
+2019/04/30 17:21:20  AI - medium rejected move (7|4) --> (5|2)
+2019/04/30 17:21:20  Game quit.
+2019/04/30 17:22:25  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:22:25  Player 1: AI - medium
+2019/04/30 17:22:25  Player 2: AI - medium
+2019/04/30 17:22:25  Game started.
+2019/04/30 17:22:25  Board evaluation: 3
+2019/04/30 17:22:25  AI - medium explored 1 node(s) in 0.001s
+2019/04/30 17:22:26  AI - medium moves (2|5) --> (1|4)
+2019/04/30 17:22:26  Board evaluation: -1
+2019/04/30 17:22:26  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:22:26  AI - medium moves (5|2) --> (4|3)
+2019/04/30 17:22:26  Board evaluation: 3
+2019/04/30 17:22:26  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:22:27  AI - medium moves (6|5) --> (5|4)
+2019/04/30 17:22:27  Board evaluation: -9
+2019/04/30 17:22:27  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:22:28  AI - medium captures (4|3) --> (6|5)
+2019/04/30 17:22:28  Board evaluation: -2
+2019/04/30 17:22:28  AI - medium explored 12882 node(s) in 0.741s
+2019/04/30 17:22:29  AI - medium captures (5|6) --> (7|4)
+2019/04/30 17:22:29  Board evaluation: -1
+2019/04/30 17:22:32  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:22:32  Player 1: AI - medium
+2019/04/30 17:22:32  Player 2: AI - medium
+2019/04/30 17:22:32  Game started.
+2019/04/30 17:22:32  Board evaluation: 3
+2019/04/30 17:22:32  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:22:33  AI - medium moves (2|5) --> (1|4)
+2019/04/30 17:22:33  Board evaluation: -1
+2019/04/30 17:22:33  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:22:33  AI - medium moves (3|2) --> (2|3)
+2019/04/30 17:22:33  Board evaluation: 11
+2019/04/30 17:22:33  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:22:34  AI - medium captures (1|4) --> (3|2)
+2019/04/30 17:22:34  Board evaluation: 2
+2019/04/30 17:22:35  AI - medium explored 3636 node(s) in 0.213s
+2019/04/30 17:22:35  AI - medium captures (4|1) --> (2|3)
+2019/04/30 17:22:35  Board evaluation: -1
+2019/04/30 17:22:37  AI - medium explored 18440 node(s) in 1.114s
+2019/04/30 17:22:37  AI - medium moves (1|6) --> (2|5)
+2019/04/30 17:22:37  Board evaluation: -5
+2019/04/30 17:22:39  AI - medium explored 30947 node(s) in 1.644s
+2019/04/30 17:22:39  AI - medium moves (5|0) --> (4|1)
+2019/04/30 17:22:39  Board evaluation: -2
+2019/04/30 17:22:41  AI - medium explored 23226 node(s) in 1.385s
+2019/04/30 17:22:41  AI - medium moves (0|7) --> (1|6)
+2019/04/30 17:22:41  Board evaluation: -2
+2019/04/30 17:22:42  AI - medium explored 11282 node(s) in 0.497s
+2019/04/30 17:22:42  AI - medium moves (4|1) --> (3|2)
+2019/04/30 17:22:42  Board evaluation: 2
+2019/04/30 17:22:43  AI - medium explored 7433 node(s) in 0.505s
+2019/04/30 17:22:43  AI - medium moves (2|5) --> (1|4)
+2019/04/30 17:22:43  Board evaluation: -4
+2019/04/30 17:22:43  AI - medium explored 5902 node(s) in 0.223s
+2019/04/30 17:22:44  AI - medium moves (5|2) --> (4|3)
+2019/04/30 17:22:44  Board evaluation: -1
+2019/04/30 17:22:44  AI - medium explored 7005 node(s) in 0.411s
+2019/04/30 17:22:45  AI - medium moves (6|5) --> (5|4)
+2019/04/30 17:22:45  Board evaluation: -13
+2019/04/30 17:22:45  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:22:45  AI - medium captures (4|3) --> (6|5)
+2019/04/30 17:22:45  Board evaluation: -6
+2019/04/30 17:22:46  AI - medium explored 3539 node(s) in 0.202s
+2019/04/30 17:22:47  AI - medium captures (7|6) --> (5|4)
+2019/04/30 17:22:47  Board evaluation: 2
+2019/04/30 17:22:47  AI - medium explored 5813 node(s) in 0.389s
+2019/04/30 17:22:47  AI - medium moves (6|1) --> (5|2)
+2019/04/30 17:22:47  Board evaluation: 5
+2019/04/30 17:22:49  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:22:49  Player 1: AI - medium
+2019/04/30 17:22:49  Player 2: AI - medium
+2019/04/30 17:22:49  Game started.
+2019/04/30 17:22:49  Board evaluation: 3
+2019/04/30 17:22:49  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:22:50  AI - medium moves (4|5) --> (3|4)
+2019/04/30 17:22:50  Board evaluation: -2
+2019/04/30 17:22:50  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:22:50  AI - medium moves (5|2) --> (6|3)
+2019/04/30 17:22:50  Board evaluation: 2
+2019/04/30 17:22:50  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:22:51  AI - medium moves (2|5) --> (1|4)
+2019/04/30 17:22:51  Board evaluation: -2
+2019/04/30 17:22:52  AI - medium explored 12387 node(s) in 0.755s
+2019/04/30 17:22:52  Game quit.
+2019/04/30 17:22:57  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:22:57  Player 1: Player 1
+2019/04/30 17:22:57  Player 2: AI - medium
+2019/04/30 17:22:57  Game started.
+2019/04/30 17:22:57  Board evaluation: 3
+2019/04/30 17:22:58  Player 1 moves (4|5) --> (3|4)
+2019/04/30 17:22:58  Board evaluation: -2
+2019/04/30 17:22:58  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:22:58  AI - medium moves (3|2) --> (2|3)
+2019/04/30 17:22:58  Board evaluation: -4
+2019/04/30 17:23:00  Player 1 moves (5|6) --> (4|5)
+2019/04/30 17:23:00  Board evaluation: 0
+2019/04/30 17:23:00  AI - medium explored 10972 node(s) in 0.635s
+2019/04/30 17:23:01  AI - medium moves (2|1) --> (3|2)
+2019/04/30 17:23:01  Board evaluation: 3
+2019/04/30 17:23:01  Player 1 moves (6|5) --> (5|4)
+2019/04/30 17:23:01  Board evaluation: -1
+2019/04/30 17:23:02  AI - medium explored 6832 node(s) in 0.434s
+2019/04/30 17:23:02  AI - medium moves (5|2) --> (6|3)
+2019/04/30 17:23:02  Board evaluation: 4
+2019/04/30 17:23:05  Player 1 moves (3|4) --> (4|3)
+2019/04/30 17:23:05  Board evaluation: 7
+2019/04/30 17:23:05  AI - medium explored 3827 node(s) in 0.265s
+2019/04/30 17:23:05  AI - medium moves (3|0) --> (2|1)
+2019/04/30 17:23:05  Board evaluation: 1
+2019/04/30 17:23:07  Player 1 moves (2|5) --> (3|4)
+2019/04/30 17:23:07  Board evaluation: -3
+2019/04/30 17:23:07  AI - medium explored 2509 node(s) in 0.191s
+2019/04/30 17:23:08  AI - medium moves (6|1) --> (5|2)
+2019/04/30 17:23:08  Board evaluation: 8
+2019/04/30 17:23:09  Player 1 captures (4|3) --> (6|1)
+2019/04/30 17:23:09  Board evaluation: 7
+2019/04/30 17:23:09  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:23:10  AI - medium captures (7|0) --> (5|2)
+2019/04/30 17:23:10  Board evaluation: -13
+2019/04/30 17:23:12  Player 1 moves (7|6) --> (6|5)
+2019/04/30 17:23:13  Board evaluation: -14
+2019/04/30 17:23:13  AI - medium explored 1493 node(s) in 0.097s
+2019/04/30 17:23:13  AI - medium moves (3|2) --> (4|3)
+2019/04/30 17:23:13  Board evaluation: -8
+2019/04/30 17:23:16  Player 1 captures (5|4) --> (3|2)
+2019/04/30 17:23:16  Board evaluation: -1
+2019/04/30 17:23:16  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:23:17  AI - medium captures (2|1) --> (4|3)
+2019/04/30 17:23:17  Board evaluation: -20
+2019/04/30 17:23:17  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:23:18  AI - medium captures (4|3) --> (2|5)
+2019/04/30 17:23:18  Board evaluation: -18
+2019/04/30 17:23:19  Player 1 captures (1|6) --> (3|4)
+2019/04/30 17:23:19  Board evaluation: -15
+2019/04/30 17:23:20  AI - medium explored 25686 node(s) in 1.376s
+2019/04/30 17:23:21  AI - medium moves (5|0) --> (6|1)
+2019/04/30 17:23:21  Board evaluation: -12
+2019/04/30 17:23:21  Player 1 moves (6|5) --> (7|4)
+2019/04/30 17:23:21  Board evaluation: -19
+2019/04/30 17:23:22  AI - medium explored 2829 node(s) in 0.15s
+2019/04/30 17:23:22  AI - medium moves (4|1) --> (3|2)
+2019/04/30 17:23:22  Board evaluation: -17
+2019/04/30 17:23:24  Player 1 moves (3|6) --> (2|5)
+2019/04/30 17:23:24  Board evaluation: -21
+2019/04/30 17:23:24  AI - medium explored 3095 node(s) in 0.182s
+2019/04/30 17:23:25  AI - medium moves (1|2) --> (0|3)
+2019/04/30 17:23:25  Board evaluation: -5
+2019/04/30 17:23:29  Player 1 rejected move (6|7) --> (7|6)
+2019/04/30 17:23:32  Player 1 captures (3|4) --> (1|2)
+2019/04/30 17:23:32  Board evaluation: -6
+2019/04/30 17:23:32  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:23:33  AI - medium captures (0|1) --> (2|3)
+2019/04/30 17:23:33  Board evaluation: -19
+2019/04/30 17:23:34  Player 1 moves (2|5) --> (3|4)
+2019/04/30 17:23:34  Board evaluation: -17
+2019/04/30 17:23:34  AI - medium explored 1582 node(s) in 0.111s
+2019/04/30 17:23:34  AI - medium moves (1|0) --> (0|1)
+2019/04/30 17:23:34  Board evaluation: -13
+2019/04/30 17:23:35  Player 1 rejected move (2|7) --> (3|6)
+2019/04/30 17:23:37  Player 1 captures (3|4) --> (1|2)
+2019/04/30 17:23:37  Board evaluation: -7
+2019/04/30 17:23:37  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:23:38  AI - medium captures (0|1) --> (2|3)
+2019/04/30 17:23:38  Board evaluation: -27
+2019/04/30 17:23:39  Player 1 moves (2|7) --> (3|6)
+2019/04/30 17:23:39  Board evaluation: -30
+2019/04/30 17:23:39  AI - medium explored 1199 node(s) in 0.097s
+2019/04/30 17:23:40  AI - medium moves (3|2) --> (4|3)
+2019/04/30 17:23:40  Board evaluation: -27
+2019/04/30 17:23:41  Player 1 moves (6|7) --> (7|6)
+2019/04/30 17:23:41  Board evaluation: -32
+2019/04/30 17:23:41  AI - medium explored 1193 node(s) in 0.081s
+2019/04/30 17:23:42  AI - medium moves (0|3) --> (1|4)
+2019/04/30 17:23:42  Board evaluation: -32
+2019/04/30 17:23:43  Player 1 moves (0|7) --> (1|6)
+2019/04/30 17:23:43  Board evaluation: -32
+2019/04/30 17:23:43  AI - medium explored 399 node(s) in 0.027s
+2019/04/30 17:23:44  AI - medium moves (4|3) --> (3|4)
+2019/04/30 17:23:44  Board evaluation: -36
+2019/04/30 17:23:47  Player 1 moves (4|7) --> (5|6)
+2019/04/30 17:23:47  Board evaluation: -31
+2019/04/30 17:23:47  AI - medium explored 59 node(s) in 0.002s
+2019/04/30 17:23:47  AI - medium moves (5|2) --> (4|3)
+2019/04/30 17:23:47  Board evaluation: -19
+2019/04/30 17:23:48  Player 1 rejected move (5|6) --> (6|5)
+2019/04/30 17:23:50  Player 1 captures (7|4) --> (5|2)
+2019/04/30 17:23:50  Board evaluation: 4
+2019/04/30 17:23:51  Player 1 captures (5|2) --> (7|0)
+2019/04/30 17:23:51  Board evaluation: 9
+2019/04/30 17:23:51  AI - medium explored 330 node(s) in 0.023s
+2019/04/30 17:23:51  AI - medium moves (7|2) --> (6|3)
+2019/04/30 17:23:51  Board evaluation: 10
+2019/04/30 17:23:53  Player 1 moves (7|6) --> (6|5)
+2019/04/30 17:23:53  Board evaluation: 11
+2019/04/30 17:23:53  AI - medium explored 194 node(s) in 0.011s
+2019/04/30 17:23:54  AI - medium moves (4|3) --> (5|4)
+2019/04/30 17:23:54  Board evaluation: 13
+2019/04/30 17:23:54  Player 1 captures (6|5) --> (4|3)
+2019/04/30 17:23:54  Board evaluation: 37
+2019/04/30 17:23:54  AI - medium explored 245 node(s) in 0.011s
+2019/04/30 17:23:55  AI - medium moves (6|3) --> (7|4)
+2019/04/30 17:23:55  Board evaluation: 45
+2019/04/30 17:23:57  Player 1 moves (7|0) --> (6|1)
+2019/04/30 17:23:57  Board evaluation: 45
+2019/04/30 17:23:57  AI - medium explored 357 node(s) in 0.034s
+2019/04/30 17:23:57  AI - medium moves (7|4) --> (6|5)
+2019/04/30 17:23:58  Board evaluation: 47
+2019/04/30 17:23:59  Player 1 captures (5|6) --> (7|4)
+2019/04/30 17:23:59  Board evaluation: 58
+2019/04/30 17:23:59  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:24:00  AI - medium captures (3|4) --> (5|6)
+2019/04/30 17:24:00  Board evaluation: 47
+2019/04/30 17:24:01  Player 1 moves (3|6) --> (4|5)
+2019/04/30 17:24:01  Board evaluation: 44
+2019/04/30 17:24:01  AI - medium explored 3347 node(s) in 0.212s
+2019/04/30 17:24:02  AI - medium moves (5|6) --> (6|7)
+2019/04/30 17:24:02  Board evaluation: 52
+2019/04/30 17:24:02  Player 1 moves (4|5) --> (5|4)
+2019/04/30 17:24:02  Board evaluation: 48
+2019/04/30 17:24:03  AI - medium explored 3546 node(s) in 0.274s
+2019/04/30 17:24:03  AI - medium moves (6|7) --> (5|6)
+2019/04/30 17:24:03  Board evaluation: 51
+2019/04/30 17:24:04  Player 1 moves (5|4) --> (6|3)
+2019/04/30 17:24:04  Board evaluation: 44
+2019/04/30 17:24:04  AI - medium explored 10143 node(s) in 0.628s
+2019/04/30 17:24:05  AI - medium moves (5|6) --> (4|5)
+2019/04/30 17:24:05  Board evaluation: 50
+2019/04/30 17:24:07  Player 1 moves (4|3) --> (3|2)
+2019/04/30 17:24:07  Board evaluation: 47
+2019/04/30 17:24:07  AI - medium explored 6162 node(s) in 0.381s
+2019/04/30 17:24:08  AI - medium moves (4|5) --> (3|4)
+2019/04/30 17:24:08  Board evaluation: 53
+2019/04/30 17:24:09  Player 1 moves (6|3) --> (7|2)
+2019/04/30 17:24:09  Board evaluation: 47
+2019/04/30 17:24:09  AI - medium explored 3819 node(s) in 0.313s
+2019/04/30 17:24:10  AI - medium moves (1|4) --> (2|5)
+2019/04/30 17:24:10  Board evaluation: 43
+2019/04/30 17:24:14  Player 1 moves (3|2) --> (2|1)
+2019/04/30 17:24:14  Board evaluation: 39
+2019/04/30 17:24:14  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:24:15  AI - medium captures (2|5) --> (0|7)
+2019/04/30 17:24:15  Board evaluation: 38
+2019/04/30 17:24:15  Player 1 moves (2|1) --> (3|0)
+2019/04/30 17:24:15  Board evaluation: 31
+2019/04/30 17:24:17  AI - medium explored 15900 node(s) in 1.345s
+2019/04/30 17:24:17  AI - medium moves (3|4) --> (4|5)
+2019/04/30 17:24:17  Board evaluation: 32
+2019/04/30 17:24:18  Player 1 moves (6|1) --> (5|2)
+2019/04/30 17:24:18  Board evaluation: 29
+2019/04/30 17:24:21  AI - medium explored 45062 node(s) in 2.94s
+2019/04/30 17:24:21  AI - medium moves (4|5) --> (5|4)
+2019/04/30 17:24:21  Board evaluation: 39
+2019/04/30 17:24:22  Player 1 moves (3|0) --> (4|1)
+2019/04/30 17:24:22  Board evaluation: 34
+2019/04/30 17:24:24  AI - medium explored 28179 node(s) in 2.057s
+2019/04/30 17:24:25  AI - medium moves (0|7) --> (1|6)
+2019/04/30 17:24:25  Board evaluation: 35
+2019/04/30 17:24:27  Player 1 moves (4|1) --> (3|2)
+2019/04/30 17:24:27  Board evaluation: 38
+2019/04/30 17:24:28  AI - medium explored 14364 node(s) in 1.036s
+2019/04/30 17:24:28  AI - medium moves (5|4) --> (6|3)
+2019/04/30 17:24:28  Board evaluation: 34
+2019/04/30 17:24:32  Player 1 captures (3|2) --> (1|4)
+2019/04/30 17:24:32  Board evaluation: 50
+2019/04/30 17:24:32  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:24:33  AI - medium captures (6|3) --> (4|1)
+2019/04/30 17:24:33  Board evaluation: 33
+2019/04/30 17:24:35  Player 1 moves (7|2) --> (6|1)
+2019/04/30 17:24:35  Board evaluation: 30
+2019/04/30 17:24:36  AI - medium explored 8811 node(s) in 0.794s
+2019/04/30 17:24:36  AI - medium moves (4|1) --> (5|0)
+2019/04/30 17:24:36  Board evaluation: 35
+2019/04/30 17:24:37  Player 1 moves (6|1) --> (7|0)
+2019/04/30 17:24:37  Board evaluation: 36
+2019/04/30 17:24:38  AI - medium explored 6395 node(s) in 0.645s
+2019/04/30 17:24:38  AI - medium moves (5|0) --> (4|1)
+2019/04/30 17:24:38  Board evaluation: 33
+2019/04/30 17:24:39  Player 1 moves (7|4) --> (6|3)
+2019/04/30 17:24:39  Board evaluation: 32
+2019/04/30 17:24:40  AI - medium explored 12320 node(s) in 1.271s
+2019/04/30 17:24:41  AI - medium moves (4|1) --> (5|0)
+2019/04/30 17:24:41  Board evaluation: 44
+2019/04/30 17:24:41  Player 1 moves (6|3) --> (7|2)
+2019/04/30 17:24:41  Board evaluation: 41
+2019/04/30 17:24:42  AI - medium explored 4325 node(s) in 0.435s
+2019/04/30 17:24:42  AI - medium moves (5|0) --> (4|1)
+2019/04/30 17:24:42  Board evaluation: 40
+2019/04/30 17:24:43  Player 1 moves (7|0) --> (6|1)
+2019/04/30 17:24:43  Board evaluation: 40
+2019/04/30 17:24:45  AI - medium explored 14224 node(s) in 1.738s
+2019/04/30 17:24:45  AI - medium moves (4|1) --> (3|0)
+2019/04/30 17:24:45  Board evaluation: 50
+2019/04/30 17:24:46  Player 1 moves (6|1) --> (5|2)
+2019/04/30 17:24:46  Board evaluation: 46
+2019/04/30 17:24:48  AI - medium explored 20004 node(s) in 2.025s
+2019/04/30 17:24:49  AI - medium moves (3|0) --> (2|1)
+2019/04/30 17:24:49  Board evaluation: 48
+2019/04/30 17:24:50  Player 1 moves (7|2) --> (6|1)
+2019/04/30 17:24:50  Board evaluation: 46
+2019/04/30 17:24:54  AI - medium explored 43175 node(s) in 4.442s
+2019/04/30 17:24:55  AI - medium moves (2|1) --> (1|2)
+2019/04/30 17:24:55  Board evaluation: 49
+2019/04/30 17:24:55  Player 1 moves (6|1) --> (5|0)
+2019/04/30 17:24:55  Board evaluation: 45
+2019/04/30 17:24:58  AI - medium explored 25658 node(s) in 2.832s
+2019/04/30 17:24:59  AI - medium moves (1|2) --> (0|3)
+2019/04/30 17:24:59  Board evaluation: 48
+2019/04/30 17:24:59  Player 1 moves (1|4) --> (2|3)
+2019/04/30 17:24:59  Board evaluation: 50
+2019/04/30 17:25:01  AI - medium explored 13847 node(s) in 1.133s
+2019/04/30 17:25:01  AI - medium moves (1|6) --> (2|7)
+2019/04/30 17:25:01  Board evaluation: 57
+2019/04/30 17:25:04  Player 1 moves (5|2) --> (4|3)
+2019/04/30 17:25:04  Board evaluation: 58
+2019/04/30 17:25:04  AI - medium explored 9182 node(s) in 0.771s
+2019/04/30 17:25:05  AI - medium moves (2|7) --> (3|6)
+2019/04/30 17:25:05  Board evaluation: 57
+2019/04/30 17:25:06  Player 1 moves (4|3) --> (5|4)
+2019/04/30 17:25:06  Board evaluation: 49
+2019/04/30 17:25:07  AI - medium explored 14255 node(s) in 1.123s
+2019/04/30 17:25:08  AI - medium moves (0|3) --> (1|4)
+2019/04/30 17:25:08  Board evaluation: 44
+2019/04/30 17:25:09  Player 1 moves (2|3) --> (3|4)
+2019/04/30 17:25:09  Board evaluation: 56
+2019/04/30 17:25:09  AI - medium explored 3783 node(s) in 0.276s
+2019/04/30 17:25:10  AI - medium moves (1|4) --> (0|3)
+2019/04/30 17:25:10  Board evaluation: 54
+2019/04/30 17:25:14  Player 1 moves (5|4) --> (4|3)
+2019/04/30 17:25:14  Board evaluation: 49
+2019/04/30 17:25:15  AI - medium explored 17360 node(s) in 1.481s
+2019/04/30 17:25:16  AI - medium moves (3|6) --> (2|7)
+2019/04/30 17:25:16  Board evaluation: 59
+2019/04/30 17:25:17  Player 1 moves (0|5) --> (1|4)
+2019/04/30 17:25:17  Board evaluation: 47
+2019/04/30 17:25:17  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:25:18  AI - medium captures (0|3) --> (2|5)
+2019/04/30 17:25:18  Board evaluation: 51
+2019/04/30 17:25:19  Player 1 captures (3|4) --> (1|6)
+2019/04/30 17:25:19  Board evaluation: 62
+2019/04/30 17:25:19  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:25:20  AI - medium captures (2|7) --> (0|5)
+2019/04/30 17:25:20  Board evaluation: 44
+2019/04/30 17:25:20  Player 1 moves (4|3) --> (3|4)
+2019/04/30 17:25:20  Board evaluation: 42
+2019/04/30 17:25:20  AI - medium explored 1553 node(s) in 0.196s
+2019/04/30 17:25:21  AI - medium moves (0|5) --> (1|4)
+2019/04/30 17:25:21  Board evaluation: 42
+2019/04/30 17:25:22  Player 1 moves (5|0) --> (4|1)
+2019/04/30 17:25:22  Board evaluation: 38
+2019/04/30 17:25:22  AI - medium explored 2105 node(s) in 0.311s
+2019/04/30 17:25:23  AI - medium moves (1|4) --> (0|3)
+2019/04/30 17:25:23  Board evaluation: 51
+2019/04/30 17:25:23  Player 1 moves (3|4) --> (2|3)
+2019/04/30 17:25:23  Board evaluation: 45
+2019/04/30 17:25:24  AI - medium explored 5 node(s) in 0.0s
+2019/04/30 17:25:24  AI - medium moves (0|3) --> (1|2)
+2019/04/30 17:25:24  Board evaluation: 50
+2019/04/30 17:25:25  Player 1 captures (2|3) --> (0|1)
+2019/04/30 17:25:25  Player Player 1 has won the game!
+2019/04/30 17:25:27  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 17:25:27  Player 1: AI - medium
+2019/04/30 17:25:27  Player 2: Player 1
+2019/04/30 17:25:27  Game started.
+2019/04/30 17:25:27  Board evaluation: 3
+2019/04/30 17:25:27  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:25:27  AI - medium moves (6|5) --> (7|4)
+2019/04/30 17:25:27  Board evaluation: -5
+2019/04/30 17:25:28  Player 1 moves (5|2) --> (6|3)
+2019/04/30 17:25:28  Board evaluation: 7
+2019/04/30 17:25:28  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 17:25:29  AI - medium captures (7|4) --> (5|2)
+2019/04/30 17:25:29  Board evaluation: 2
+2019/04/30 17:25:30  Player 1 captures (6|1) --> (4|3)
+2019/04/30 17:25:30  Board evaluation: 0
+2019/04/30 17:25:31  Game quit.
+2019/04/30 18:38:03  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 18:38:03  Player 1: AI - medium
+2019/04/30 18:38:03  Player 2: AI - medium
+2019/04/30 18:38:03  Game started.
+2019/04/30 18:38:03  Board evaluation: 3
+2019/04/30 18:38:05  AI - medium explored 16372 node(s) in 1.34s
+2019/04/30 18:38:05  AI - medium moves (2|5) --> (1|4)
+2019/04/30 18:38:05  Board evaluation: -1
+2019/04/30 18:38:06  AI - medium explored 16802 node(s) in 1.141s
+2019/04/30 18:38:07  AI - medium moves (3|2) --> (2|3)
+2019/04/30 18:38:07  Board evaluation: 11
+2019/04/30 18:38:07  AI - medium explored 1 node(s) in 0.0s
+2019/04/30 18:38:08  AI - medium captures (1|4) --> (3|2)
+2019/04/30 18:38:08  Board evaluation: 2
+2019/04/30 18:38:08  AI - medium explored 3636 node(s) in 0.154s
+2019/04/30 18:38:08  Game quit.
+2019/04/30 18:38:15  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/04/30 18:38:15  Player 1: AI - hard
+2019/04/30 18:38:15  Player 2: AI - medium
+2019/04/30 18:38:15  Game started.
+2019/04/30 18:38:15  Board evaluation: 3
+2019/04/30 18:39:06  AI - hard explored 807042 node(s) in 50.218s
+2019/04/30 18:39:06  AI - hard moves (0|5) --> (1|4)
+2019/04/30 18:39:06  Board evaluation: 1
+2019/04/30 18:39:07  AI - medium explored 14589 node(s) in 0.904s
+2019/04/30 18:39:08  AI - medium moves (5|2) --> (6|3)
+2019/04/30 18:39:08  Board evaluation: 5
+2019/04/30 18:39:13  Game quit.
+2019/05/01 09:04:56  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/05/01 09:04:56  Player 1: Player 1
+2019/05/01 09:04:56  Player 2: AI - medium
+2019/05/01 09:04:56  Game started.
+2019/05/01 09:04:56  Board evaluation: 3
+2019/05/01 09:04:58  Player 1 moves (4|5) --> (3|4)
+2019/05/01 09:04:58  Board evaluation: -2
+2019/05/01 09:04:59  AI - medium explored 16744 node(s) in 0.784s
+2019/05/01 09:04:59  AI - medium moves (7|2) --> (6|3)
+2019/05/01 09:04:59  Board evaluation: -1
+2019/05/01 09:05:01  Player 1 moves (6|5) --> (7|4)
+2019/05/01 09:05:01  Board evaluation: -9
+2019/05/01 09:05:02  AI - medium explored 13334 node(s) in 0.617s
+2019/05/01 09:05:02  AI - medium moves (5|2) --> (4|3)
+2019/05/01 09:05:02  Board evaluation: 14
+2019/05/01 09:05:04  Player 1 captures (3|4) --> (5|2)
+2019/05/01 09:05:04  Board evaluation: 4
+2019/05/01 09:05:04  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 09:05:05  AI - medium captures (6|1) --> (4|3)
+2019/05/01 09:05:05  Board evaluation: 2
+2019/05/01 09:05:07  Player 1 captures (7|4) --> (5|2)
+2019/05/01 09:05:07  Board evaluation: 4
+2019/05/01 09:05:07  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 09:05:08  AI - medium captures (4|1) --> (6|3)
+2019/05/01 09:05:08  Board evaluation: -8
+2019/05/01 09:05:09  Player 1 moves (7|6) --> (6|5)
+2019/05/01 09:05:09  Board evaluation: -9
+2019/05/01 09:05:11  AI - medium explored 36431 node(s) in 1.892s
+2019/05/01 09:05:12  AI - medium moves (4|3) --> (3|4)
+2019/05/01 09:05:12  Board evaluation: 7
+2019/05/01 09:05:14  Player 1 captures (2|5) --> (4|3)
+2019/05/01 09:05:14  Board evaluation: 7
+2019/05/01 09:05:14  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 09:05:14  AI - medium captures (3|2) --> (5|4)
+2019/05/01 09:05:15  Board evaluation: -12
+2019/05/01 09:05:15  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 09:05:15  AI - medium captures (5|4) --> (7|6)
+2019/05/01 09:05:15  Board evaluation: -25
+2019/05/01 09:05:16  Player 1 moves (5|6) --> (6|5)
+2019/05/01 09:05:16  Board evaluation: -29
+2019/05/01 09:05:18  AI - medium explored 31202 node(s) in 1.452s
+2019/05/01 09:05:18  AI - medium moves (5|0) --> (4|1)
+2019/05/01 09:05:18  Board evaluation: -27
+2019/05/01 09:05:19  Player 1 moves (6|5) --> (7|4)
+2019/05/01 09:05:19  Board evaluation: -24
+2019/05/01 09:05:20  AI - medium explored 18144 node(s) in 0.883s
+2019/05/01 09:05:20  AI - medium moves (1|2) --> (2|3)
+2019/05/01 09:05:20  Board evaluation: -21
+2019/05/01 09:05:22  Player 1 captures (7|4) --> (5|2)
+2019/05/01 09:05:22  Board evaluation: -14
+2019/05/01 09:05:22  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 09:05:23  AI - medium captures (4|1) --> (6|3)
+2019/05/01 09:05:23  Board evaluation: -34
+2019/05/01 09:05:24  Player 1 moves (4|7) --> (5|6)
+2019/05/01 09:05:24  Board evaluation: -36
+2019/05/01 09:05:25  AI - medium explored 20906 node(s) in 1.063s
+2019/05/01 09:05:25  AI - medium moves (7|0) --> (6|1)
+2019/05/01 09:05:25  Board evaluation: -33
+2019/05/01 09:05:26  Player 1 moves (5|6) --> (6|5)
+2019/05/01 09:05:26  Board evaluation: -37
+2019/05/01 09:05:27  AI - medium explored 25861 node(s) in 1.239s
+2019/05/01 09:05:28  AI - medium moves (6|1) --> (5|2)
+2019/05/01 09:05:28  Board evaluation: -35
+2019/05/01 09:05:28  Player 1 moves (6|5) --> (7|4)
+2019/05/01 09:05:28  Board evaluation: -40
+2019/05/01 09:05:29  AI - medium explored 11282 node(s) in 0.584s
+2019/05/01 09:05:29  AI - medium moves (2|1) --> (3|2)
+2019/05/01 09:05:29  Board evaluation: -35
+2019/05/01 09:05:30  Player 1 moves (3|6) --> (4|5)
+2019/05/01 09:05:30  Board evaluation: -39
+2019/05/01 09:05:31  AI - medium explored 11164 node(s) in 0.674s
+2019/05/01 09:05:31  AI - medium moves (3|0) --> (2|1)
+2019/05/01 09:05:31  Board evaluation: -37
+2019/05/01 09:05:32  Player 1 moves (1|6) --> (2|5)
+2019/05/01 09:05:32  Board evaluation: -41
+2019/05/01 09:05:32  AI - medium explored 7974 node(s) in 0.302s
+2019/05/01 09:05:33  AI - medium moves (0|1) --> (1|2)
+2019/05/01 09:05:33  Board evaluation: -39
+2019/05/01 09:05:33  Player 1 moves (2|5) --> (3|4)
+2019/05/01 09:05:33  Board evaluation: -44
+2019/05/01 09:05:34  AI - medium explored 1493 node(s) in 0.095s
+2019/05/01 09:05:34  AI - medium moves (3|2) --> (4|3)
+2019/05/01 09:05:34  Board evaluation: -47
+2019/05/01 09:05:36  Player 1 moves (2|7) --> (1|6)
+2019/05/01 09:05:36  Board evaluation: -49
+2019/05/01 09:05:36  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 09:05:37  AI - medium captures (4|3) --> (2|5)
+2019/05/01 09:05:37  Board evaluation: -51
+2019/05/01 09:05:37  Player 1 captures (1|6) --> (3|4)
+2019/05/01 09:05:38  Board evaluation: -37
+2019/05/01 09:05:38  AI - medium explored 1215 node(s) in 0.09s
+2019/05/01 09:05:38  AI - medium moves (2|1) --> (3|2)
+2019/05/01 09:05:38  Board evaluation: -34
+2019/05/01 09:05:40  Player 1 moves (0|7) --> (1|6)
+2019/05/01 09:05:40  Board evaluation: -35
+2019/05/01 09:05:40  AI - medium explored 1440 node(s) in 0.104s
+2019/05/01 09:05:41  AI - medium moves (1|0) --> (0|1)
+2019/05/01 09:05:41  Board evaluation: -31
+2019/05/01 09:05:43  Player 1 moves (1|6) --> (2|5)
+2019/05/01 09:05:43  Board evaluation: -34
+2019/05/01 09:05:43  AI - medium explored 552 node(s) in 0.035s
+2019/05/01 09:05:43  AI - medium moves (3|2) --> (4|3)
+2019/05/01 09:05:43  Board evaluation: -30
+2019/05/01 09:05:47  Player 1 moves (6|7) --> (5|6)
+2019/05/01 09:05:47  Board evaluation: -31
+2019/05/01 09:05:47  AI - medium explored 757 node(s) in 0.038s
+2019/05/01 09:05:48  AI - medium moves (1|2) --> (0|3)
+2019/05/01 09:05:48  Board evaluation: -16
+2019/05/01 09:05:50  Player 1 rejected move (5|6) --> (6|5)
+2019/05/01 09:05:51  Player 1 captures (3|4) --> (1|2)
+2019/05/01 09:05:51  Board evaluation: -14
+2019/05/01 09:05:51  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 09:05:52  AI - medium captures (0|1) --> (2|3)
+2019/05/01 09:05:52  Board evaluation: -33
+2019/05/01 09:05:55  Player 1 moves (5|6) --> (6|5)
+2019/05/01 09:05:55  Board evaluation: -39
+2019/05/01 09:05:55  AI - medium explored 552 node(s) in 0.086s
+2019/05/01 09:05:55  AI - medium moves (7|6) --> (6|7)
+2019/05/01 09:05:55  Board evaluation: -34
+2019/05/01 09:05:56  Player 1 moves (6|5) --> (5|4)
+2019/05/01 09:05:56  Board evaluation: -30
+2019/05/01 09:05:56  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 09:05:57  AI - medium captures (4|3) --> (6|5)
+2019/05/01 09:05:57  Board evaluation: -56
+2019/05/01 09:05:58  Player 1 moves (4|5) --> (5|4)
+2019/05/01 09:05:58  Board evaluation: -60
+2019/05/01 09:05:58  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 09:05:59  AI - medium captures (6|3) --> (4|5)
+2019/05/01 09:05:59  Board evaluation: -76
+2019/05/01 09:05:59  Player 1 moves (2|5) --> (3|4)
+2019/05/01 09:05:59  Board evaluation: -70
+2019/05/01 09:06:00  AI - medium explored 3919 node(s) in 0.3s
+2019/05/01 09:06:00  AI - medium moves (6|5) --> (7|6)
+2019/05/01 09:06:00  Board evaluation: -66
+2019/05/01 09:06:01  Player 1 captures (3|4) --> (1|2)
+2019/05/01 09:06:01  Board evaluation: -56
+2019/05/01 09:06:02  AI - medium explored 6282 node(s) in 0.532s
+2019/05/01 09:06:02  AI - medium moves (4|5) --> (3|6)
+2019/05/01 09:06:02  Board evaluation: -53
+2019/05/01 09:06:03  Player 1 moves (1|2) --> (2|1)
+2019/05/01 09:06:03  Board evaluation: -57
+2019/05/01 09:06:04  AI - medium explored 13167 node(s) in 1.22s
+2019/05/01 09:06:04  AI - medium moves (6|7) --> (5|6)
+2019/05/01 09:06:04  Board evaluation: -53
+2019/05/01 09:06:05  Player 1 moves (2|1) --> (3|0)
+2019/05/01 09:06:05  Board evaluation: -59
+2019/05/01 09:06:07  AI - medium explored 24316 node(s) in 1.824s
+2019/05/01 09:06:07  AI - medium moves (7|6) --> (6|7)
+2019/05/01 09:06:07  Board evaluation: -56
+2019/05/01 09:06:08  Player 1 moves (3|0) --> (4|1)
+2019/05/01 09:06:08  Board evaluation: -51
+2019/05/01 09:06:08  AI - medium explored 7562 node(s) in 0.584s
+2019/05/01 09:06:09  AI - medium moves (5|2) --> (4|3)
+2019/05/01 09:06:09  Board evaluation: -53
+2019/05/01 09:06:09  Player 1 moves (4|1) --> (5|2)
+2019/05/01 09:06:09  Board evaluation: -50
+2019/05/01 09:06:10  AI - medium explored 11768 node(s) in 0.807s
+2019/05/01 09:06:11  AI - medium moves (4|3) --> (5|4)
+2019/05/01 09:06:11  Board evaluation: -52
+2019/05/01 09:06:11  Player 1 moves (5|2) --> (6|3)
+2019/05/01 09:06:11  Board evaluation: -51
+2019/05/01 09:06:12  AI - medium explored 5826 node(s) in 0.699s
+2019/05/01 09:06:13  AI - medium moves (3|6) --> (2|7)
+2019/05/01 09:06:13  Board evaluation: -47
+2019/05/01 09:06:14  Player 1 captures (6|3) --> (4|5)
+2019/05/01 09:06:14  Board evaluation: -42
+2019/05/01 09:06:14  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 09:06:15  AI - medium captures (5|6) --> (3|4)
+2019/05/01 09:06:15  Board evaluation: -68
+2019/05/01 09:06:15  Player 1 moves (7|4) --> (6|3)
+2019/05/01 09:06:15  Board evaluation: -66
+2019/05/01 09:06:16  AI - medium explored 8921 node(s) in 1.049s
+2019/05/01 09:06:17  AI - medium moves (3|4) --> (4|3)
+2019/05/01 09:06:17  Board evaluation: -66
+2019/05/01 09:06:17  Player 1 moves (6|3) --> (7|2)
+2019/05/01 09:06:17  Board evaluation: -71
+2019/05/01 09:06:18  AI - medium explored 7891 node(s) in 0.726s
+2019/05/01 09:06:18  AI - medium moves (4|3) --> (5|2)
+2019/05/01 09:06:19  Board evaluation: -68
+2019/05/01 09:06:19  Player 1 moves (7|2) --> (6|1)
+2019/05/01 09:06:19  Board evaluation: -78
+2019/05/01 09:06:19  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 09:06:20  AI - medium captures (5|2) --> (7|0)
+2019/05/01 09:06:20  Board evaluation: -90
+2019/05/01 09:06:21  Player 1 rejected move (0|5) --> (1|3)
+2019/05/01 09:06:22  Player 1 moves (0|5) --> (1|4)
+2019/05/01 09:06:22  Board evaluation: -92
+2019/05/01 09:06:22  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 09:06:23  AI - medium captures (0|3) --> (2|5)
+2019/05/01 09:06:23  Player AI - medium has won the game!
+2019/05/01 09:06:26  Game quit.
+2019/05/01 23:08:25  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/05/01 23:08:25  Player 1: Player 1
+2019/05/01 23:08:25  Player 2: AI - medium
+2019/05/01 23:08:25  Game started.
+2019/05/01 23:08:25  Board evaluation: 3
+2019/05/01 23:08:26  Player 1 moves (2|5) --> (3|4)
+2019/05/01 23:08:26  Board evaluation: -2
+2019/05/01 23:08:27  AI - medium explored 16210 node(s) in 0.893s
+2019/05/01 23:08:28  AI - medium moves (7|2) --> (6|3)
+2019/05/01 23:08:28  Board evaluation: 0
+2019/05/01 23:08:29  Player 1 moves (6|5) --> (7|4)
+2019/05/01 23:08:29  Board evaluation: -8
+2019/05/01 23:08:29  AI - medium explored 8486 node(s) in 0.338s
+2019/05/01 23:08:30  AI - medium moves (5|2) --> (4|3)
+2019/05/01 23:08:30  Board evaluation: 6
+2019/05/01 23:08:31  Player 1 captures (3|4) --> (5|2)
+2019/05/01 23:08:31  Board evaluation: 5
+2019/05/01 23:08:31  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 23:08:31  AI - medium captures (6|1) --> (4|3)
+2019/05/01 23:08:31  Board evaluation: 2
+2019/05/01 23:08:32  Player 1 rejected move (5|6) --> (6|5)
+2019/05/01 23:08:34  Player 1 captures (7|4) --> (5|2)
+2019/05/01 23:08:34  Board evaluation: 5
+2019/05/01 23:08:34  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 23:08:35  AI - medium captures (4|1) --> (6|3)
+2019/05/01 23:08:35  Board evaluation: -7
+2019/05/01 23:08:38  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/05/01 23:08:38  Player 1: AI - medium
+2019/05/01 23:08:38  Player 2: AI - medium
+2019/05/01 23:08:38  Game started.
+2019/05/01 23:08:38  Board evaluation: 3
+2019/05/01 23:08:39  AI - medium explored 16372 node(s) in 0.744s
+2019/05/01 23:08:40  AI - medium moves (2|5) --> (1|4)
+2019/05/01 23:08:40  Board evaluation: -1
+2019/05/01 23:08:40  AI - medium explored 16802 node(s) in 0.799s
+2019/05/01 23:08:41  AI - medium moves (3|2) --> (2|3)
+2019/05/01 23:08:41  Board evaluation: 11
+2019/05/01 23:08:41  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 23:08:42  AI - medium captures (1|4) --> (3|2)
+2019/05/01 23:08:42  Board evaluation: 2
+2019/05/01 23:08:42  AI - medium explored 3636 node(s) in 0.177s
+2019/05/01 23:08:43  AI - medium captures (4|1) --> (2|3)
+2019/05/01 23:08:43  Board evaluation: -1
+2019/05/01 23:08:44  AI - medium explored 18440 node(s) in 0.963s
+2019/05/01 23:08:44  AI - medium moves (1|6) --> (2|5)
+2019/05/01 23:08:44  Board evaluation: -5
+2019/05/01 23:08:46  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/05/01 23:08:46  Player 1: AI - medium
+2019/05/01 23:08:46  Player 2: AI - medium
+2019/05/01 23:08:46  Game started.
+2019/05/01 23:08:46  Board evaluation: 3
+2019/05/01 23:08:47  AI - medium explored 16372 node(s) in 0.759s
+2019/05/01 23:08:47  AI - medium moves (2|5) --> (1|4)
+2019/05/01 23:08:47  Board evaluation: -1
+2019/05/01 23:08:48  AI - medium explored 16802 node(s) in 0.646s
+2019/05/01 23:08:48  AI - medium moves (3|2) --> (2|3)
+2019/05/01 23:08:48  Board evaluation: 11
+2019/05/01 23:08:48  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 23:08:49  AI - medium captures (1|4) --> (3|2)
+2019/05/01 23:08:49  Board evaluation: 2
+2019/05/01 23:08:49  AI - medium explored 3636 node(s) in 0.145s
+2019/05/01 23:08:50  AI - medium captures (2|1) --> (4|3)
+2019/05/01 23:08:50  Board evaluation: 0
+2019/05/01 23:08:51  AI - medium explored 17800 node(s) in 0.815s
+2019/05/01 23:08:51  Game quit.
+2019/05/01 23:14:50  #~~~~~~~~~~~~~~~~~~~~~~~#
+2019/05/01 23:14:50  Player 1: AI - medium
+2019/05/01 23:14:50  Player 2: AI - medium
+2019/05/01 23:14:50  Game started.
+2019/05/01 23:14:50  Board evaluation: 3
+2019/05/01 23:14:51  AI - medium explored 16372 node(s) in 1.027s
+2019/05/01 23:14:52  AI - medium moves (2|5) --> (1|4)
+2019/05/01 23:14:52  Board evaluation: -1
+2019/05/01 23:14:53  AI - medium explored 16802 node(s) in 0.989s
+2019/05/01 23:14:53  AI - medium moves (3|2) --> (2|3)
+2019/05/01 23:14:53  Board evaluation: 11
+2019/05/01 23:14:53  AI - medium explored 1 node(s) in 0.0s
+2019/05/01 23:14:54  AI - medium captures (1|4) --> (3|2)
+2019/05/01 23:14:54  Board evaluation: 2
+2019/05/01 23:14:54  AI - medium explored 3636 node(s) in 0.235s
+2019/05/01 23:14:55  AI - medium captures (2|1) --> (4|3)
+2019/05/01 23:14:55  Board evaluation: 0
+2019/05/01 23:14:56  Game quit.
