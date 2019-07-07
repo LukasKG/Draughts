@@ -1,16 +1,8 @@
 # Introduction
 
-For this project I created a draught game with two players. The players can be selected freely and are either human or AI opponents chosen from a scale of available skill levels. This allows the game combinations “Human vs. Human”, “Human vs. AI” and “AI vs. AI”. The interface can be seen in Fig. \ref{fig:screen}. The menu bar contains options to start a new game or show the rules under “Help”.
+For this project I created a draught game with two players. The players can be selected freely and are either human or AI opponents chosen from a scale of available skill levels. This allows the game combinations “Human vs. Human”, “Human vs. AI” and “AI vs. AI”. The interface can be seen in the picture below. The menu bar contains options to start a new game or show the rules under “Help”.
 
-\begin{figure}[!htb]
-	\centering
-	\includegraphics[width=0.6\linewidth]{mainScreen.jpg}
-	\caption{A screenshot of a game in play.}
-	\label{fig:screen}
-\end{figure}
-
-
-<img src="Pictures/mainScreen.JPG" align="center" width="400" >
+<p align="center"><img src="Pictures/mainScreen.JPG" width="400"></p>
 
 I identified four major parts of the game and developed it accordingly. The \textbf{state} of the game (class \textit{State}) represents the position on the board and the available moves. The \textbf{GUI} (classes \textit{UI} and \textit{SelectionScreen}) handles the visualisation and user in- and output. The \textbf{evaluation} of a board position (class \textit{Analysis}) calculates the value of a game state to allow the AI to find good moves. The \textbf{search} for such a move is part of the class \textit{Player}. A log file and the console output record relevant events throughout the game.
 
