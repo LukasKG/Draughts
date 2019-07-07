@@ -2,6 +2,8 @@
 
 For this project I created a draught game with two players. The players can be selected freely and are either human or AI opponents chosen from a scale of available skill levels. This allows the game combinations “Human vs. Human”, “Human vs. AI” and “AI vs. AI”. The interface can be seen in Fig. 1. The menu bar contains options to start a new game or show the rules under “Help”.
 
+The game was developed based on the JavaFX framework and can be played by running the main class *UI*.
+
 <figure>
 	<p align="center">
 		<img src="Pictures/mainScreen.JPG" width="400" align="center">
@@ -103,7 +105,7 @@ The bottom of the search is reached either if the maximum search depth based on 
 
 # GUI
 
-The design of the user interface is inspired by Lichess[[1]]. This includes the colour scheme and the board, which is copied from the web application. The game pieces were designed using Adobe Illustrator.
+The design of the user interface is inspired by Lichess[1]. This includes the colour scheme and the board, which is copied from the web application. The game pieces were designed using Adobe Illustrator.
 
 The interface was developed using JavaFX and is split into the two classes *UI* and *SelectionScreen*. The latter one changes the game stage to a screen which allows the user to select two players, define the difficulty settings, and start the game.
 
@@ -117,7 +119,7 @@ When the game finishes, a screen pops up (*UI*, line 234), displaying the winner
 
 The main screen also shows the player names, who’s turn it is (symbolised by a red gear or brain symbol) and how many nodes were explored by AI players for the last move. Additional information like the evaluation of the current position, available moves, and calculation time can be found in the console, which is used for development purposes and is not part of the game. It can be excluded from the game by changing two lines of code, but I preferred to include it since it offers valuable insight into the game.
 
-[[1]]: https://lichess.org/
+[1]: https://lichess.org/
 
 # References
 
