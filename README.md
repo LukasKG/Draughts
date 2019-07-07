@@ -22,7 +22,7 @@ The board is represented by a 2-dimensional integer array as shown in Fig. 2. Th
 
 <figure>
 	<p align="center">
-		<img src="Pictures/picBoard.png" width="600" align="center">
+		<img src="Pictures/picBoard.png" width="500" align="center">
 	</p>
 	<p align="center">
 		<figcaption><b>Fig. 2: The initial board representation of the game state.</b>
@@ -46,14 +46,12 @@ In order to allow interaction with the GUI and other classes, the *State* provid
 
 The legal moves are calculated as shown in Fig. 3 (*State*, line 439). First, all pieces of the player who’s turn it is are located (*State*, line 372). In case of an ongoing capturing sequence, only the last moved piece is considered. Next, all possible moves of these pieces are estimated (*State*, line 333). This is done by checking for free squares and enemy stones to capture in all possible directions (*State*, line 293). If the list of available moves contains any capturing moves, all non-capturing moves are removed.
 
-<p align="center"><img src="Pictures/move.PNG" width="400"></p>
-
 <figure>
 	<p align="center">
 		<img src="Pictures/move.PNG" width="400" align="center">
 	</p>
 	<p align="center">
-		<figcaption><b>Fig. 4: A move is passed to the game state.</b>
+		<figcaption align="center"><b>Fig. 4: A move is passed to the game state.</b>
 		</figcaption>
 	</p>
 </figure>
