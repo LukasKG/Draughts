@@ -70,7 +70,7 @@ However, since the evaluation of a position consumes processing power as well, t
 
 <p align="center">
  <figure>
-  <img src="Pictures/minmaxBottom.PNG"/>
+  <img src="Pictures/minmaxBottom.PNG" width="400"/>
   <figcaption>Fig. 4: The minmax recursion ends where a win/loss is found or when the set search depth is reached. At each depth which is dividable by 4, the current state is analysed and only further explored if its value does not exceed certain thresholds.</figcaption>
  </figure>
 </p>
@@ -79,7 +79,7 @@ The bottom of the search is reached either if the maximum search depth based on 
 
 # GUI
 
-The design of the user interface is inspired by Lichess[^1]. This includes the colour scheme and the board, which is copied from the web application. The game pieces were designed using Adobe Illustrator.
+The design of the user interface is inspired by Lichess[[1]]. This includes the colour scheme and the board, which is copied from the web application. The game pieces were designed using Adobe Illustrator.
 
 The interface was developed using JavaFX and is split into the two classes *UI* (Appendix F) and *SelectionScreen* (Appendix G). The latter one changes the game stage to a screen which allows the user to select two players, define the difficulty settings, and start the game.
 
