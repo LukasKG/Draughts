@@ -70,7 +70,7 @@ However, since the evaluation of a position consumes processing power as well, t
 
 <p align="center">
  <figure>
-  <img src="Pictures/minmaxBottom.PNG" width="400"/>
+  <img src="Pictures/minmaxBottom.PNG" width="400" align="center">
   <figcaption>Fig. 4: The minmax recursion ends where a win/loss is found or when the set search depth is reached. At each depth which is dividable by 4, the current state is analysed and only further explored if its value does not exceed certain thresholds.</figcaption>
  </figure>
 </p>
