@@ -17,13 +17,13 @@ The board is represented by a 2-dimensional integer array as shown below.  The h
 Capturing sequences occur when a player can hit multiple enemy pieces in a row. Each of these hits is a move on its own, resulting in an independent game state. In these cases, the position of the hitting piece is stored as *lastHit*, so that the following state can ensure that only this piece can be moved to finish the sequence. If there is no capturing sequence active, the position is set to a NULL value.
 
 
-<p align="center"><img src="Pictures/calcMoves.png" width="400"></p>
+<p align="center"><img src="Pictures/calcMoves.PNG" width="400"></p>
 
 In order to allow interaction with the GUI and other classes, the *State* provides a list with legal moves, which lead to the valid successor states. This list could be calculated whenever it is requested, but since this might occur multiple times for each state, I decided to focus on the optimisation of computing time and calculate the available moves only once per state to store them in a list. This entails the risk, that the board might be manipulated without the move list being updated, resulting in an invalid list. Therefore, the board state is only changed when a move is played, which involves a recalculation of the move list after completion. 
 
 The legal moves are calculated as shown above (Appendix C, line 439). First, all pieces of the player who’s turn it is are located (Appendix C, line 372). In case of an ongoing capturing sequence, only the last moved piece is considered. Next, all possible moves of these pieces are estimated (Appendix C, line 333). This is done by checking for free squares and enemy stones to capture in all possible directions (Appendix C, line 293). If the list of available moves contains any capturing moves, all non-capturing moves are removed.
 
-<p align="center"><img src="Pictures/move.png" width="400"></p>
+<p align="center"><img src="Pictures/move.PNG" width="400"></p>
 
 The board is manipulated by sending a move to the game state. The validity of the move is ensured by checking if the list of legal moves contains it. If the move is valid, the board is manipulated accordingly (Appendix C, line 88): As shown in the last picture, the source position of the move is cleared and the piece is moved to the target position. If the move was a capturing move, the according position is cleared as well. In case there is another capture possible by that piece, the position of the piece is saved to initiate a capturing sequence and the new game state is returned without changing turns. Otherwise, the moved piece is promoted if possible (Appendix C, line 255), the capturing sequence is reset, and the turn is changed. In both cases, the new list of legal moves is calculated.
 
@@ -69,16 +69,8 @@ The search is pruned in two ways: On the one hand by alpha-beta pruning and on t
 However, since the evaluation of a position consumes processing power as well, the threshold is only checked every 4 steps in order to optimise the search performance. As shown in Tab. \ref{tab:comp*, this can reduce the time to calculate a move by almost 40\% in an equal position.
 
 <p align="center">
-\begin{figure*[!htb]
-	\centering
-	\includegraphics[width=0.5\linewidth]{minmaxBottom.png*
-	\caption{The minmax recursion ends where a win/loss is found or when the set search depth is reached. At each depth which is dividable by 4, the current state is analysed and only further explored if its value does not exceed certain thresholds.*
-	\label{fig:bottom*
-\end{figure*
-
-<p align="center">
  <figure>
-  <img src="Pictures/minmaxBottom.png"/>
+  <img src="Pictures/minmaxBottom.PNG"/>
   <figcaption>Fig. 4: The minmax recursion ends where a win/loss is found or when the set search depth is reached. At each depth which is dividable by 4, the current state is analysed and only further explored if its value does not exceed certain thresholds.</figcaption>
  </figure>
 </p>
