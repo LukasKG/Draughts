@@ -9,9 +9,8 @@ For this project I created a draught game with two players. The players can be s
 	\label{fig:screen}
 \end{figure}
 
-![mainScreen](Pictures/mainScreen.JPG)
 
-<img src="Pictures/mainScreen.JPG" align="center" width="250" >
+<img src="Pictures/mainScreen.JPG" align="centre" width="500" >
 
 I identified four major parts of the game and developed it accordingly. The \textbf{state} of the game (class \textit{State}) represents the position on the board and the available moves. The \textbf{GUI} (classes \textit{UI} and \textit{SelectionScreen}) handles the visualisation and user in- and output. The \textbf{evaluation} of a board position (class \textit{Analysis}) calculates the value of a game state to allow the AI to find good moves. The \textbf{search} for such a move is part of the class \textit{Player}. A log file and the console output record relevant events throughout the game.
 
